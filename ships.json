@@ -1,4 +1,6 @@
-[
+{
+  "ships":
+  [
   {
     "name":"alphaclassstarwing",
     "url":"https://raw.githubusercontent.com/guidokessels/xwing-data2/master/data/pilots/galactic-empire/alpha-class-star-wing.json"
@@ -56,3 +58,4 @@
     "url":"https://raw.githubusercontent.com/guidokessels/xwing-data2/master/data/pilots/galactic-empire/vt-49-decimator.json"
   }
 ]
+}
