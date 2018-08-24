@@ -3,18 +3,18 @@
     "shipxws": "ewing",
     "pilotxws": "gavindarklighter",
     "faction": "rebelalliance",
-    "image": "P2e_rebelalliance_ewing_gavindarklighter.jpg"
+    "image": "P2e_gavindarklighter.jpg"
   },
   {
     "shipxws": "t70xwing",
     "pilotxws": "lieutenantbastian",
     "faction": "resistance",
-    "image": "P2e_resistance_t70xwing_lieutenantbastian.jpg"
+    "image": "P2e_lieutenantbastian.jpg"
   },
   {
     "shipxws": "tieadvancedx1",
     "pilotxws": "zertikstrom",
     "faction": "galacticempire",
-    "image": "P2e_galacticempire_tieadvancedx1_zertikstrom.jpg"
+    "image": "P2e_zertikstrom.jpg"
   }
 ]
