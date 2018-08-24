@@ -4,5 +4,11 @@
     "pilotxws": "gavindarklighter",
     "faction": "rebelalliance",
     "image": "P2e_rebelalliance_ewing_gavindarklighter.jpg"
+  },
+  {
+    "shipxws": "t70xwing",
+    "pilotxws": "lieutenantbastian",
+    "faction": "resistance",
+    "image": "P2e_resistance_t70xwing_lieutenantbastian.jpg"
   }
 ]
