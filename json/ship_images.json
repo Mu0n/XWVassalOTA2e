@@ -1,8 +1,14 @@
 [
   {
+    "xws": "aggressorassaultfighter",
+    "image": "S2e_aggressorassaultfighter.png",
+    "identifier" : "standard",
+    "faction" : ["scumandvillainy"]
+  },
+  {
     "xws": "asf01bwing",
     "image": "S2e_asf01bwing.png",
     "identifier" : "standard",
     "faction" : ["rebelalliance"]
-  }
+  }  
 ]
