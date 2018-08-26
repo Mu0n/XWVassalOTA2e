@@ -16,5 +16,17 @@
     "pilotxws": "zertikstrom",
     "faction": "galacticempire",
     "image": "P2e_galacticempire_tieadvancedx1_zertikstrom.jpg"
+  },
+  {
+    "shipxws": "asf01bwing",
+    "pilotxws": "tennumb",
+    "faction": "rebelalliance",
+    "image": "P2e_rebelalliance_asf01bwing_tennumb.jpg"
+  },
+  {
+    "shipxws": "aggressorassaultfighter",
+    "pilotxws": "ig88b",
+    "faction": "scumandvillainy",
+    "image": "P2e_scumandvillainy_aggressorassaultfighter_ig88b.jpg"
   }
 ]
