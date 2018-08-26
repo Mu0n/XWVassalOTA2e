@@ -3,5 +3,10 @@
     "slot": "Astromech",
     "xws": "r3astromech",
     "image": "U2e_r3astromech.jpg"
+  },
+  {
+    "slot": "Crew",
+    "xws": "informant",
+    "image": "U2e_informant.jpg"
   }
 ]
