@@ -10,5 +10,11 @@
     "image": "S2e_asf01bwing.png",
     "identifier" : "standard",
     "faction" : ["rebelalliance"]
+  },
+  {
+    "xws": "arc170starfighter",
+    "image": "S2e_arc170starfighter.png",
+    "identifier" : "standard",
+    "faction" : ["rebelalliance"]
   }  
 ]
