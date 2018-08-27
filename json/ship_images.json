@@ -1,20 +1,313 @@
-[
-  {
-    "xws": "aggressorassaultfighter",
-    "image": "S2e_aggressorassaultfighter.png",
-    "identifier" : "standard",
-    "faction" : ["scumandvillainy"]
-  },
-  {
-    "xws": "asf01bwing",
-    "image": "S2e_asf01bwing.png",
-    "identifier" : "standard",
-    "faction" : ["rebelalliance"]
-  },
-  {
-    "xws": "arc170starfighter",
-    "image": "S2e_arc170starfighter.png",
-    "identifier" : "standard",
-    "faction" : ["rebelalliance"]
-  }  
+[{
+		"xws": "tiesabomber",
+		"image": "S2e_tiesabomber.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "escapecraft",
+		"image": "S2e_escapecraft.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "aggressorassaultfighter",
+		"image": "S2e_aggressorassaultfighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "modifiedyt1300lightfreighter",
+		"image": "S2e_modifiedyt1300lightfreighter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance", "resistance"]
+	},
+	{
+		"xws": "rz1awing",
+		"image": "S2e_rz1awing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "tiecapunisher",
+		"image": "S2e_tiecapunisher.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "customizedyt1300lightfreighter",
+		"image": "S2e_customizedyt1300lightfreighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "sheathipedeclassshuttle",
+		"image": "S2e_sheathipedeclassshuttle.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "tieadvancedx1",
+		"image": "S2e_tieadvancedx1.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "starviperclassattackplatform",
+		"image": "S2e_starviperclassattackplatform.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "lancerclasspursuitcraft",
+		"image": "S2e_lancerclasspursuitcraft.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "rz2awing",
+		"image": "S2e_rz2awing.png",
+		"identifier": "standard",
+		"faction": ["resistance"]
+	},
+	{
+		"xws": "btla4ywing",
+		"image": "S2e_btla4ywing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance", "scumandvillainy"]
+	},
+	{
+		"xws": "jumpmaster5000",
+		"image": "S2e_jumpmaster5000.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance", "scumandvillainy"]
+	},
+	{
+		"xws": "tiereaper",
+		"image": "S2e_tiereaper.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "tieddefender",
+		"image": "S2e_tieddefender.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "m12lkimogilafighter",
+		"image": "S2e_m12lkimogilafighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "mg100starfortresssf17",
+		"image": "S2e_mg100starfortresssf17.png",
+		"identifier": "standard",
+		"faction": ["resistance"]
+	},
+	{
+		"xws": "fangfighter",
+		"image": "S2e_fangfighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "vt49decimator",
+		"image": "S2e_vt49decimator.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "tiefofighter",
+		"image": "S2e_tiefofighter.png",
+		"identifier": "standard",
+		"faction": ["firstorder"]
+	},
+	{
+		"xws": "asf01bwing",
+		"image": "S2e_asf01bwing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "ewing",
+		"image": "S2e_ewing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "hwk290lightfreighter",
+		"image": "S2e_hwk290lightfreighter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance", "scumandvillainy"]
+	},
+	{
+		"xws": "tieagaggressor",
+		"image": "S2e_tieagaggressor.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "vcx100lightfreighter",
+		"image": "S2e_vcx100lightfreighter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "tielnfighter",
+		"image": "S2e_tielnfighter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance", "galacticempire"]
+	},
+	{
+		"xws": "attackshuttle",
+		"image": "S2e_attackshuttle.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "g1astarfighter",
+		"image": "S2e_g1astarfighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "tieadvancedv1",
+		"image": "S2e_tieadvancedv1.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "lambdaclasst4ashuttle",
+		"image": "S2e_lambdaclasst4ashuttle.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "kihraxzfighter",
+		"image": "S2e_kihraxzfighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "m3ainterceptor",
+		"image": "S2e_m3ainterceptor.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "auzituckgunship",
+		"image": "S2e_auzituckgunship.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "tieinterceptor",
+		"image": "S2e_tieinterceptor.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "scurrgh6bomber",
+		"image": "S2e_scurrgh6bomber.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "yv666lightfreighter",
+		"image": "S2e_yv666lightfreighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "alphaclassstarwing",
+		"image": "S2e_alphaclassstarwing.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "modifiedtielnfighter",
+		"image": "S2e_modifiedtielnfighter.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "firesprayclasspatrolcraft",
+		"image": "S2e_firesprayclasspatrolcraft.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "tieskstriker",
+		"image": "S2e_tieskstriker.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "btls8kwing",
+		"image": "S2e_btls8kwing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "arc170starfighter",
+		"image": "S2e_arc170starfighter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "tiesilencer",
+		"image": "S2e_tiesilencer.png",
+		"identifier": "standard",
+		"faction": ["firstorder"]
+	},
+	{
+		"xws": "yt2400lightfreighter",
+		"image": "S2e_yt2400lightfreighter.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "tiephphantom",
+		"image": "S2e_tiephphantom.png",
+		"identifier": "standard",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "quadrijettransferspacetug",
+		"image": "S2e_quadrijettransferspacetug.png",
+		"identifier": "standard",
+		"faction": ["scumandvillainy"]
+	},
+	{
+		"xws": "t65xwing",
+		"image": "S2e_t65xwing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "t70xwing",
+		"image": "S2e_t70xwing.png",
+		"identifier": "standard",
+		"faction": ["resistance"]
+	},
+	{
+		"xws": "upsilonclassshuttle",
+		"image": "S2e_upsilonclassshuttle.png",
+		"identifier": "standard",
+		"faction": ["firstorder"]
+	},
+	{
+		"xws": "ut60duwing",
+		"image": "S2e_ut60duwing.png",
+		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	}
 ]
