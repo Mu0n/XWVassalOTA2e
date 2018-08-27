@@ -196,6 +196,12 @@
 		"identifier": "standard",
 		"faction": ["scumandvillainy"]
 	},
+ 	{
+		"xws": "kihraxzfighter",
+		"image": "S2e_kihraxzfighter-blacksunace.png",
+		"identifier": "blacksunace",
+		"faction": ["scumandvillainy"]
+	},
 	{
 		"xws": "m3ainterceptor",
 		"image": "S2e_m3ainterceptor.png",
