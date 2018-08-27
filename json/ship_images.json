@@ -309,5 +309,17 @@
 		"image": "S2e_ut60duwing.png",
 		"identifier": "standard",
 		"faction": ["rebelalliance"]
-	}
+	},
+	{
+    		"xws": "uwing",
+    		"image": "S2e_ut60duwing-attack.png",
+    		"identifier" : "attack",
+    		"faction" : ["rebelalliance"]
+  	},
+  	{
+    		"xws": "uwing",
+    		"image": "S2e_ut60duwing-landing.png",
+    		"identifier" : "landing",
+    		"faction" : ["rebelalliance"]
+  }
 ]
