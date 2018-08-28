@@ -298,6 +298,12 @@
 		"identifier": "standard",
 		"faction": ["rebelalliance"]
 	},
+ 	{
+		"xws": "t65xwing",
+		"image": "S2e_t65xwing_closed.png",
+		"identifier": "closed",
+		"faction": ["rebelalliance"]
+	},
 	{
 		"xws": "t70xwing",
 		"image": "S2e_t70xwing.png",
