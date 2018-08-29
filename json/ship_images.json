@@ -31,7 +31,7 @@
  	{
 		"xws": "rz1awing",
 		"image": "S2e_rz1awing-green.png",
-		"identifier": "green",
+		"identifier": "greensquadronpilot",
 		"faction": ["rebelalliance"]
 	},
 	{
@@ -259,13 +259,13 @@
  	{
 		"xws": "firesprayclasspatrolcraft",
 		"image": "S2e_firesprayclasspatrolcraft-krassis.png",
-		"identifier": "krassis",
+		"identifier": "krassistrelix",
 		"faction": ["scumandvillainy"]
 	},
  	{
 		"xws": "firesprayclasspatrolcraft",
 		"image": "S2e_firesprayclasspatrolcraft-emon.png",
-		"identifier": "emon",
+		"identifier": "emonazzameen",
 		"faction": ["scumandvillainy"]
 	},
 	{
@@ -283,7 +283,7 @@
  	{
 		"xws": "btls8kwing",
 		"image": "S2e_btls8kwing-miranda.png",
-		"identifier": "miranda",
+		"identifier": "mirandadoni",
 		"faction": ["rebelalliance"]
 	},
 	{
