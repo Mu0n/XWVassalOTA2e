@@ -250,6 +250,18 @@
 		"identifier": "standard",
 		"faction": ["scumandvillainy"]
 	},
+ 	{
+		"xws": "firesprayclasspatrolcraft",
+		"image": "S2e_firesprayclasspatrolcraft-krassis.png",
+		"identifier": "krassis",
+		"faction": ["scumandvillainy"]
+	},
+ 	{
+		"xws": "firesprayclasspatrolcraft",
+		"image": "S2e_firesprayclasspatrolcraft-emon.png",
+		"identifier": "emon",
+		"faction": ["scumandvillainy"]
+	},
 	{
 		"xws": "tieskstriker",
 		"image": "S2e_tieskstriker.png",
