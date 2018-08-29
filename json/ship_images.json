@@ -28,6 +28,12 @@
 		"identifier": "standard",
 		"faction": ["rebelalliance"]
 	},
+ 	{
+		"xws": "rz1awing",
+		"image": "S2e_rz1awing-green.png",
+		"identifier": "green",
+		"faction": ["rebelalliance"]
+	},
 	{
 		"xws": "tiecapunisher",
 		"image": "S2e_tiecapunisher.png",
@@ -272,6 +278,12 @@
 		"xws": "btls8kwing",
 		"image": "S2e_btls8kwing.png",
 		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+ 	{
+		"xws": "btls8kwing",
+		"image": "S2e_btls8kwing-miranda.png",
+		"identifier": "miranda",
 		"faction": ["rebelalliance"]
 	},
 	{
