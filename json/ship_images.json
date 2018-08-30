@@ -293,6 +293,24 @@
 		"faction": ["galacticempire"]
 	},
 	{
+		"xws": "tieinterceptor",
+		"image": "S2e_tieinterceptor-181st.png",
+		"identifier": "sabersquadronace",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "tieinterceptor",
+		"image": "S2e_tieinterceptor-181st.png",
+		"identifier": "turrphennir",
+		"faction": ["galacticempire"]
+	},
+	{
+		"xws": "tieinterceptor",
+		"image": "S2e_tieinterceptor-181st.png",
+		"identifier": "soontirfel",
+		"faction": ["galacticempire"]
+	},
+	{
 		"xws": "scurrgh6bomber",
 		"image": "S2e_scurrgh6bomber.png",
 		"identifier": "standard",
@@ -368,6 +386,12 @@
 		"xws": "yt2400lightfreighter",
 		"image": "S2e_yt2400lightfreighter.png",
 		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+	{
+		"xws": "yt2400lightfreighter",
+		"image": "S2e_yt2400lightfreighter-fringer.png",
+		"identifier": "wildspacefringer",
 		"faction": ["rebelalliance"]
 	},
 	{
