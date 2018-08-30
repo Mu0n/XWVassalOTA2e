@@ -83,6 +83,12 @@
 		"faction": ["rebelalliance", "scumandvillainy"]
 	},
 	{
+		"xws": "btla4ywing",
+		"image": "S2e_btla4ywing-bomber.png",
+		"identifier": "graysquadronbomber",
+		"faction": ["rebelalliance"]
+	},
+	{
 		"xws": "jumpmaster5000",
 		"image": "S2e_jumpmaster5000.png",
 		"identifier": "standard",
@@ -102,6 +108,12 @@
 	},
  	{
 		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-tala.png",
+		"identifier": "talasquadronpilot",
+		"faction": ["rebelalliance"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
 		"image": "S2e_z95af4headhunter-airen.png",
 		"identifier": "airencracken",
 		"faction": ["rebelalliance"]
@@ -111,6 +123,36 @@
 		"image": "S2e_z95af4headhunter-blount.png",
 		"identifier": "lieutenantblount",
 		"faction": ["rebelalliance"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-binayre.png",
+		"identifier": "binayrepirate",
+		"faction": ["scumandvillainy"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-soldier.png",
+		"identifier": "blacksunsoldier",
+		"faction": ["scumandvillainy"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-kaato.png",
+		"identifier": "kaatoleeachos",
+		"faction": ["scumandvillainy"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-nashtah.png",
+		"identifier": "nashtahpup",
+		"faction": ["scumandvillainy"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-ndru.png",
+		"identifier": "ndrusuhlak",
+		"faction": ["scumandvillainy"]
 	},
 	{
 		"xws": "tiereaper",
