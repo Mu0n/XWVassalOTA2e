@@ -94,6 +94,24 @@
 		"identifier": "standard",
 		"faction": ["rebelalliance", "scumandvillainy"]
 	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-bandit.png",
+		"identifier": "banditsquadronpilot",
+		"faction": ["rebelalliance"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-airen.png",
+		"identifier": "airencracken",
+		"faction": ["rebelalliance"]
+	},
+ 	{
+		"xws": "z95af4headhunter",
+		"image": "S2e_z95af4headhunter-blount.png",
+		"identifier": "lieutenantblount",
+		"faction": ["rebelalliance"]
+	},
 	{
 		"xws": "tiereaper",
 		"image": "S2e_tiereaper.png",
@@ -146,6 +164,12 @@
 		"xws": "ewing",
 		"image": "S2e_ewing.png",
 		"identifier": "standard",
+		"faction": ["rebelalliance"]
+	},
+ 	{
+		"xws": "ewing",
+		"image": "S2e_ewing-knave.png",
+		"identifier": "knavesquadronescort",
 		"faction": ["rebelalliance"]
 	},
 	{
