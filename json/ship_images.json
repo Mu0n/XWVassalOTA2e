@@ -47,6 +47,12 @@
 		"faction": ["scumandvillainy"]
 	},
 	{
+		"xws": "customizedyt1300lightfreighter",
+		"image": "S2e_customizedyt1300lightfreighter-deployed.png",
+		"identifier": "deployed",
+		"faction": ["scumandvillainy"]
+	},
+	{
 		"xws": "sheathipedeclassshuttle",
 		"image": "S2e_sheathipedeclassshuttle.png",
 		"identifier": "standard",
