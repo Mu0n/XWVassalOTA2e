@@ -95,6 +95,12 @@
 		"faction": ["scumandvillainy"]
 	},
 	{
+		"xws": "jumpmaster5000",
+		"image": "S2e_jumpmaster5000-tel.png",
+		"identifier": "teltrevura",
+		"faction": ["scumandvillainy"]
+	},
+	{
 		"xws": "z95af4headhunter",
 		"image": "S2e_z95af4headhunter.png",
 		"identifier": "standard",
