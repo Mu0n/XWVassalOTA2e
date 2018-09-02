@@ -42,13 +42,13 @@
 	},
 	{
 		"xws": "customizedyt1300lightfreighter",
-		"image": "S2e_customizedyt1300lightfreighter.png",
+		"image": "S2e_customizedyt1300lightfreighter_standard.png",
 		"identifier": "standard",
 		"faction": ["scumandvillainy"]
 	},
 	{
 		"xws": "customizedyt1300lightfreighter",
-		"image": "S2e_customizedyt1300lightfreighter-deployed.png",
+		"image": "S2e_customizedyt1300lightfreighter_deployed.png",
 		"identifier": "deployed",
 		"faction": ["scumandvillainy"]
 	},
