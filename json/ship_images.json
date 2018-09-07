@@ -335,6 +335,12 @@
 		"faction": ["scumandvillainy"]
 	},
 	{
+		"xws": "yv666lightfreighter",
+		"image": "S2e_yv666lightfreighter-moralo.png",
+		"identifier": "moraloeval",
+		"faction": ["scumandvillainy"]
+	},
+	{
 		"xws": "alphaclassstarwing",
 		"image": "S2e_alphaclassstarwing.png",
 		"identifier": "standard",
