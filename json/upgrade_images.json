@@ -85,6 +85,16 @@
 	},
 	{
 		"slot": "Configuration",
+		"xws": "pivotwing",
+		"image": "U2e_pivotwing_opened.jpg"
+	},
+	{
+		"slot": "Configuration",
+		"xws": "pivotwing",
+		"image": "U2e_pivotwing_closed.jpg"
+	},
+	{
+		"slot": "Configuration",
 		"xws": "servomotorsfoils",
 		"image": "U2e_servomotorsfoils.jpg"
 	},
