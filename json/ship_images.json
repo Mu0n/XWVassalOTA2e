@@ -427,7 +427,7 @@
 	{
 		"xws": "t65xwing",
 		"image": "S2e_t65xwing.png",
-		"identifier": "opened",
+		"identifier": "open",
 		"faction": ["rebelalliance"]
 	},
  	{
@@ -451,7 +451,7 @@
 	{
     		"xws": "ut60duwing",
     		"image": "S2e_ut60duwing_attack.png",
-    		"identifier" : "opened",
+    		"identifier" : "open",
     		"faction" : ["rebelalliance"]
   	},
   	{
