@@ -8,5 +8,10 @@
     "name": "Stop Gapp Squad Builder",
     "url": "https://devjonny.github.io/xwing2estopgap",
     "description": "By DevJonny, endorsed by Alex Birt"
+  },
+  {
+    "name": "Sirjorj's XWS Validator",
+    "url": "http://xhud.sirjorj.com/xwing.cgi/validator2",
+    "description": "Not a squad builder in itself, but can be used to validate a list against this well curated 2nd edition databank"
   }
 ]
