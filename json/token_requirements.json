@@ -1,0 +1,75 @@
+[
+
+	{
+		"name": "shield2e",
+		"actions": [],
+		"upgrades": ["gonk"],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "lock",
+		"actions": ["Lock"],
+		"upgrades": ["directorkrennic"],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "stress2e",
+		"actions": ["Focus", "Calculate"],
+		"upgrades": [],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "focus2e",
+		"actions": ["Focus"],
+		"upgrades": [],
+		"pilotsOrShips": ["guri"]
+	},
+	{
+		"name": "calculate2e",
+		"actions": ["Calculate"],
+		"upgrades": ["000", "ig88d", "c3po"],
+		"pilotsOrShips": ["aggressorassaultfighter"]
+	},
+	{
+		"name": "evade2e",
+		"actions": ["Evade"],
+		"upgrades": ["jynerso", "millenniumfalcon"],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "ion2e",
+		"actions": [],
+		"upgrades": ["feedbackarray"],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "reinforce2e",
+		"actions": ["Reinforce"],
+		"upgrades": [],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "cloak",
+		"actions": ["Cloak"],
+		"upgrades": ["cloakingdevice"],
+		"pilotsOrShips": []
+	},
+	{
+		"name": "disarm2e",
+		"actions": ["SLAM", "Reload"],
+		"upgrades": ["r2astromech", "r2d2", "andrasta", "feedbackarray", "blackone"],
+		"pilotsOrShips": ["corranhorn", "quinnjast"]
+	},
+	{
+		"name": "tractor2e",
+		"actions": [],
+		"upgrades": ["tractorbeam", "shadowcaster"],
+		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo"]
+	},
+	{
+		"name": "jam2e",
+		"actions": ["Jam"],
+		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischarge", "jammingbeam"],
+		"pilotsOrShips": []
+	}
+]
