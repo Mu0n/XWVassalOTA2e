@@ -39,7 +39,7 @@
 	{
 		"name": "ion2e",
 		"actions": [],
-		"upgrades": ["feedbackarray"],
+		"upgrades": ["feedbackarray","ioncannon","ioncannonturret"],
 		"pilotsOrShips": []
 	},
 	{
