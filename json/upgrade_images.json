@@ -95,6 +95,11 @@
 	},
 	{
 		"slot": "Configuration",
+		"xws": "servomotorsfoils",
+		"image": "U2e_servomotorsfoils_back.jpg"
+	},
+	{
+		"slot": "Configuration",
 		"xws": "xg1assaultconfiguration",
 		"image": "U2e_xg1assaultconfiguration.jpg"
 	},
@@ -262,6 +267,11 @@
 		"slot": "Crew",
 		"xws": "l337",
 		"image": "U2e_l337.jpg"
+	},
+	{
+		"slot": "Crew",
+		"xws": "l337",
+		"image": "U2e_l337_back.jpg"
 	},
 	{
 		"slot": "Crew",
