@@ -64,7 +64,7 @@
 		"name": "tractor2e",
 		"actions": [],
 		"upgrades": ["tractorbeam", "shadowcaster"],
-		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo"]
+		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo", "lattsrazzi"]
 	},
 	{
 		"name": "jam2e",
