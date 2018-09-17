@@ -9,7 +9,7 @@
 	{
 		"name": "lock",
 		"actions": ["Lock"],
-		"upgrades": ["directorkrennic"],
+		"upgrades": ["directorkrennic","st321"],
 		"pilotsOrShips": []
 	},
 	{
