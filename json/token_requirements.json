@@ -70,6 +70,6 @@
 		"name": "jam2e",
 		"actions": ["Jam"],
 		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischarge", "jammingbeam"],
-		"pilotsOrShips": []
+		"pilotsOrShips": ["chopper"]
 	}
 ]
