@@ -10,6 +10,11 @@
     "description": "By DevJonny and dbouckley, endorsed by Alex Birt"
   },
   {
+    "name": "Star Wars X-Wing Squad Builder",
+    "url": "https://squadbuilder.fantasyflightgames.com",
+    "description": "The official builder from Fantasy Flight Games"
+  },
+  {
     "name": "Sirjorj's XWS Validator",
     "url": "http://xhud.sirjorj.com/xwing.cgi/validator2",
     "description": "Not a squad builder in itself, but can be used to validate a list against this well curated 2nd edition databank"
