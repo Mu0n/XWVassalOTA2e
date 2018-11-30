@@ -439,7 +439,13 @@
 	{
 		"xws": "t70xwing",
 		"image": "S2e_t70xwing.png",
-		"identifier": "standard",
+		"identifier": "open",
+		"faction": ["resistance"]
+	},
+ 	{
+		"xws": "t70xwing",
+		"image": "S2e_t70xwing_closed.png",
+		"identifier": "closed",
 		"faction": ["resistance"]
 	},
 	{
@@ -459,6 +465,24 @@
     		"image": "S2e_ut60duwing_landing.png",
     		"identifier" : "closed",
     		"faction" : ["rebelalliance"]
+  	},
+ 	{
+    		"xws": "tiesffighter",
+    		"image": "S2e_tiesffighter.png",
+    		"identifier" : "standard",
+    		"faction" : ["firstorder"]
+  	},
+ 	{
+    		"xws": "scavengedyt1300",
+    		"image": "S2e_scavengedyt1300.png",
+    		"identifier" : "standard",
+    		"faction" : ["resistance"]
+  	},
+ 	{
+    		"xws": "rz2awing",
+    		"image": "S2e_rz2awing.png",
+    		"identifier" : "standard",
+    		"faction" : ["resistance"]
   	},
   	{
     		"xws": "jedistarfighter",
