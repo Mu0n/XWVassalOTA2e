@@ -619,10 +619,10 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_t65xwing_leevantenza.jpg"
 }, {
-  "shipxws" : "upsilonclassshuttle",
+  "shipxws" : "upsilonclasscommandshuttle",
   "pilotxws" : "lieutenantdormitz",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_upsilonclassshuttle_lieutenantdormitz.jpg"
+  "image" : "P2e_firstorder_upsilonclasscommandshuttle_lieutenantdormitz.jpg"
 }, {
   "shipxws" : "fangfighter",
   "pilotxws" : "joyrekkoff",
