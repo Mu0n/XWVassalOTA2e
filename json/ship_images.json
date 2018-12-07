@@ -449,8 +449,8 @@
 		"faction": ["resistance"]
 	},
 	{
-		"xws": "upsilonclassshuttle",
-		"image": "S2e_upsilonclassshuttle.png",
+		"xws": "upsilonclasscommandshuttle",
+		"image": "S2e_upsilonclasscommandshuttle.png",
 		"identifier": "standard",
 		"faction": ["firstorder"]
 	},
