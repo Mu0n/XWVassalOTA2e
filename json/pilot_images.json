@@ -29,11 +29,6 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_scurrgh6bomber_lokrevenant.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
-}, {
   "shipxws" : "tiephphantom",
   "pilotxws" : "echo",
   "faction" : "galacticempire",
@@ -73,6 +68,11 @@
   "pilotxws" : "hefftobber",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_ut60duwing_hefftobber.jpg"
+}, {
+  "shipxws" : "",
+  "pilotxws" : "",
+  "faction" : "",
+  "image" : ""
 }, {
   "shipxws" : "tiereaper",
   "pilotxws" : "scarifbasepilot",
@@ -334,6 +334,11 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_fangfighter_kadsolus.jpg"
 }, {
+  "shipxws" : "",
+  "pilotxws" : "",
+  "faction" : "",
+  "image" : ""
+}, {
   "shipxws" : "tieadvancedx1",
   "pilotxws" : "zertikstrom",
   "faction" : "galacticempire",
@@ -384,11 +389,6 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tielnfighter_seynmarana.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
-}, {
   "shipxws" : "z95af4headhunter",
   "pilotxws" : "airencracken",
   "faction" : "rebelalliance",
@@ -429,10 +429,10 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_t65xwing_jekporkins.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
+  "shipxws" : "t70xwing",
+  "pilotxws" : "karkun",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_t70xwing_karkun.jpg"
 }, {
   "shipxws" : "tiesabomber",
   "pilotxws" : "scimitarsquadronpilot",
@@ -499,15 +499,15 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieinterceptor_soontirfel.jpg"
 }, {
-  "shipxws" : "tiefofighter",
-  "pilotxws" : "midnight",
-  "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiefofighter_midnight.jpg"
-}, {
   "shipxws" : "t70xwing",
   "pilotxws" : "jophseastriker",
   "faction" : "resistance",
   "image" : "P2e_resistance_t70xwing_jophseastriker.jpg"
+}, {
+  "shipxws" : "tiefofighter",
+  "pilotxws" : "midnight",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiefofighter_midnight.jpg"
 }, {
   "shipxws" : "ut60duwing",
   "pilotxws" : "sawgerrera",
@@ -614,11 +614,6 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_escapecraft_autopilotdrone.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
-}, {
   "shipxws" : "t65xwing",
   "pilotxws" : "leevantenza",
   "faction" : "rebelalliance",
@@ -663,6 +658,11 @@
   "pilotxws" : "inquisitor",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieadvancedv1_inquisitor.jpg"
+}, {
+  "shipxws" : "upsilonclassshuttle",
+  "pilotxws" : "majorstridan",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_upsilonclassshuttle_majorstridan.jpg"
 }, {
   "shipxws" : "tiefofighter",
   "pilotxws" : "longshot",
@@ -709,11 +709,6 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_m3ainterceptor_cartelspacer.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
-}, {
   "shipxws" : "auzituckgunship",
   "pilotxws" : "kashyyykdefender",
   "faction" : "rebelalliance",
@@ -758,6 +753,11 @@
   "pilotxws" : "ezrabridger",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_attackshuttle_ezrabridger.jpg"
+}, {
+  "shipxws" : "t70xwing",
+  "pilotxws" : "lieutenandbastian",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_t70xwing_lieutenandbastian.jpg"
 }, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "captainseevor",
@@ -834,11 +834,6 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_puresabacc.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
-}, {
   "shipxws" : "mg100starfortresssf17",
   "pilotxws" : "finchdallow",
   "faction" : "resistance",
@@ -908,11 +903,6 @@
   "pilotxws" : "planetarysentinel",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_planetarysentinel.jpg"
-}, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "delmeeko",
@@ -1128,6 +1118,11 @@
   "pilotxws" : "turrphennir",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieinterceptor_turrphennir.jpg"
+}, {
+  "shipxws" : "",
+  "pilotxws" : "",
+  "faction" : "",
+  "image" : ""
 }, {
   "shipxws" : "escapecraft",
   "pilotxws" : "l337-escapecraft",
