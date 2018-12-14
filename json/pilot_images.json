@@ -4,6 +4,16 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tielnfighter_nightbeast.jpg"
 }, {
+  "shipxws" : "t70xwing",
+  "pilotxws" : "karkun",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_t70xwing_karkun.jpg"
+}, {
+  "shipxws" : "modifiedtielnfighter",
+  "pilotxws" : "miningguildsentry",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_modifiedtielnfighter_miningguildsentry.jpg"
+}, {
   "shipxws" : "z95af4headhunter",
   "pilotxws" : "talasquadronpilot",
   "faction" : "rebelalliance",
@@ -69,10 +79,10 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_ut60duwing_hefftobber.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
+  "shipxws" : "scavengedyt1300",
+  "pilotxws" : "hansolo-scavengedyt1300",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_scavengedyt1300_hansolo-scavengedyt1300.jpg"
 }, {
   "shipxws" : "tiereaper",
   "pilotxws" : "scarifbasepilot",
@@ -334,10 +344,10 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_fangfighter_kadsolus.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
+  "shipxws" : "scavengedyt1300",
+  "pilotxws" : "rey",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_scavengedyt1300_rey.jpg"
 }, {
   "shipxws" : "tieadvancedx1",
   "pilotxws" : "zertikstrom",
@@ -428,11 +438,6 @@
   "pilotxws" : "jekporkins",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_t65xwing_jekporkins.jpg"
-}, {
-  "shipxws" : "t70xwing",
-  "pilotxws" : "karkun",
-  "faction" : "resistance",
-  "image" : "P2e_resistance_t70xwing_karkun.jpg"
 }, {
   "shipxws" : "tiesabomber",
   "pilotxws" : "scimitarsquadronpilot",
@@ -639,6 +644,11 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_quadrijettransferspacetug_sarcoplank.jpg"
 }, {
+  "shipxws" : "scavengedyt1300",
+  "pilotxws" : "resistancesympathizer",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_scavengedyt1300_resistancesympathizer.jpg"
+}, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "valenrudor",
   "faction" : "galacticempire",
@@ -654,15 +664,15 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_kihraxzfighter_viktorhel.jpg"
 }, {
+  "shipxws" : "mg100starfortresssf17",
+  "pilotxws" : "vennie",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_mg100starfortresssf17_vennie.jpg"
+}, {
   "shipxws" : "tieadvancedv1",
   "pilotxws" : "inquisitor",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieadvancedv1_inquisitor.jpg"
-}, {
-  "shipxws" : "upsilonclassshuttle",
-  "pilotxws" : "majorstridan",
-  "faction" : "firstorder",
-  "image" : "P2e_firstorder_upsilonclassshuttle_majorstridan.jpg"
 }, {
   "shipxws" : "tiefofighter",
   "pilotxws" : "longshot",
@@ -698,6 +708,11 @@
   "pilotxws" : "seventhsister",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieadvancedv1_seventhsister.jpg"
+}, {
+  "shipxws" : "mg100starfortresssf17",
+  "pilotxws" : "cobaltsquadronbomber",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_mg100starfortresssf17_cobaltsquadronbomber.jpg"
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "ezrabridger-tielnfighter",
@@ -753,11 +768,6 @@
   "pilotxws" : "ezrabridger",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_attackshuttle_ezrabridger.jpg"
-}, {
-  "shipxws" : "t70xwing",
-  "pilotxws" : "lieutenandbastian",
-  "faction" : "resistance",
-  "image" : "P2e_resistance_t70xwing_lieutenandbastian.jpg"
 }, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "captainseevor",
@@ -835,6 +845,11 @@
   "image" : "P2e_galacticempire_tieskstriker_puresabacc.jpg"
 }, {
   "shipxws" : "mg100starfortresssf17",
+  "pilotxws" : "edonkappehl",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_mg100starfortresssf17_edonkappehl.jpg"
+}, {
+  "shipxws" : "mg100starfortresssf17",
   "pilotxws" : "finchdallow",
   "faction" : "resistance",
   "image" : "P2e_resistance_mg100starfortresssf17_finchdallow.jpg"
@@ -908,6 +923,11 @@
   "pilotxws" : "delmeeko",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tielnfighter_delmeeko.jpg"
+}, {
+  "shipxws" : "modifiedtielnfighter",
+  "pilotxws" : "miningguildsentry",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_modifiedtielnfighter_miningguildsentry.jpg"
 }, {
   "shipxws" : "auzituckgunship",
   "pilotxws" : "wullffwarro",
@@ -1119,10 +1139,10 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieinterceptor_turrphennir.jpg"
 }, {
-  "shipxws" : "",
-  "pilotxws" : "",
-  "faction" : "",
-  "image" : ""
+  "shipxws" : "scavengedyt1300",
+  "pilotxws" : "chewbacca-scavengedyt1300",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_scavengedyt1300_chewbacca-scavengedyt1300.jpg"
 }, {
   "shipxws" : "escapecraft",
   "pilotxws" : "l337-escapecraft",
@@ -1153,6 +1173,11 @@
   "pilotxws" : "tennumb",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_asf01bwing_tennumb.jpg"
+}, {
+  "shipxws" : "mg100starfortresssf17",
+  "pilotxws" : "cat",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_mg100starfortresssf17_cat.jpg"
 }, {
   "shipxws" : "hwk290lightfreighter",
   "pilotxws" : "dacebonearm",
