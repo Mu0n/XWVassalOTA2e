@@ -5,11 +5,6 @@
   "image" : "P2e_galacticempire_tielnfighter_nightbeast.jpg"
 }, {
   "shipxws" : "t70xwing",
-  "pilotxws" : "karekun",
-  "faction" : "resistance",
-  "image" : "P2e_resistance_t70xwing_karekun.jpg"
-}, {
-  "shipxws" : "t70xwing",
   "pilotxws" : "jessikapava",
   "faction" : "resistance",
   "image" : "P2e_resistance_t70xwing_jessikapava.jpg"
@@ -112,7 +107,7 @@
   "shipxws" : "upsilonclasscommandshuttle",
   "pilotxws" : "captaincardinal",
   "faction" : "firstorder",
-  "image" : ""
+  "image" : "P2e_firstorder_upsilonclasscommandshuttle_captaincardinal.jpg"
 }, {
   "shipxws" : "t70xwing",
   "pilotxws" : "elloasty",
@@ -759,6 +754,11 @@
   "faction" : "resistance",
   "image" : "P2e_resistance_t70xwing_jaycristubbs.jpg"
 }, {
+  "shipxws" : "t70xwing",
+  "pilotxws" : "blacksquadronace-t70xwing",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_t70xwing_blacksquadronace-t70xwing.jpg"
+}, {
   "shipxws" : "upsilonclasscommandshuttle",
   "pilotxws" : "majorstridan",
   "faction" : "firstorder",
@@ -968,6 +968,11 @@
   "pilotxws" : "blacksquadronscout",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_blacksquadronscout.jpg"
+}, {
+  "shipxws" : "tiesffighter",
+  "pilotxws" : "zetasquadronsurvivor",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiesffighter_zetasquadronsurvivor.jpg"
 }, {
   "shipxws" : "firesprayclasspatrolcraft",
   "pilotxws" : "koshkafrost",
