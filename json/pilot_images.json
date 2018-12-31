@@ -339,10 +339,10 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_g1astarfighter_4lom.jpg"
 }, {
-  "shipxws" : "tiesilencer",
+  "shipxws" : "tievnsilencer",
   "pilotxws" : "blackout",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesilencer_blackout.jpg"
+  "image" : "P2e_firstorder_tievnsilencer_blackout.jpg"
 }, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "ahhav",
@@ -409,10 +409,10 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_vt49decimator_rearadmiralchiraneau.jpg"
 }, {
-  "shipxws" : "tiesilencer",
+  "shipxws" : "tievnsilencer",
   "pilotxws" : "avenger",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesilencer_avenger.jpg"
+  "image" : "P2e_firstorder_tievnsilencer_avenger.jpg"
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "wampa",
@@ -659,10 +659,10 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_customizedyt1300lightfreighter_freightercaptain.jpg"
 }, {
-  "shipxws" : "tiesilencer",
+  "shipxws" : "tievnsilencer",
   "pilotxws" : "recoil",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesilencer_recoil.jpg"
+  "image" : "P2e_firstorder_tievnsilencer_recoil.jpg"
 }, {
   "shipxws" : "tieadvancedx1",
   "pilotxws" : "darthvader",
@@ -819,10 +819,10 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_m3ainterceptor_cartelspacer.jpg"
 }, {
-  "shipxws" : "tiesilencer",
+  "shipxws" : "tievnsilencer",
   "pilotxws" : "firstordertestpilot",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesilencer_firstordertestpilot.jpg"
+  "image" : "P2e_firstorder_tievnsilencer_firstordertestpilot.jpg"
 }, {
   "shipxws" : "auzituckgunship",
   "pilotxws" : "kashyyykdefender",
@@ -914,10 +914,10 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_fangfighter_fennrau.jpg"
 }, {
-  "shipxws" : "tiesilencer",
+  "shipxws" : "tievnsilencer",
   "pilotxws" : "kyloren",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesilencer_kyloren.jpg"
+  "image" : "P2e_firstorder_tievnsilencer_kyloren.jpg"
 }, {
   "shipxws" : "m3ainterceptor",
   "pilotxws" : "serissu",
@@ -1034,10 +1034,10 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_planetarysentinel.jpg"
 }, {
-  "shipxws" : "tiesilencer",
+  "shipxws" : "tievnsilencer",
   "pilotxws" : "sienarjaemusengineer",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesilencer_sienarjaemusengineer.jpg"
+  "image" : "P2e_firstorder_tievnsilencer_sienarjaemusengineer.jpg"
 }, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "miningguildsentry",
