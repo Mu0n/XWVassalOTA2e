@@ -395,8 +395,8 @@
 		"faction": ["rebelalliance"]
 	},
 	{
-		"xws": "tiesilencer",
-		"image": "S2e_tiesilencer.png",
+		"xws": "tievnsilencer",
+		"image": "S2e_tievnsilencer.png",
 		"identifier": "standard",
 		"faction": ["firstorder"]
 	},
