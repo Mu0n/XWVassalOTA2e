@@ -31,6 +31,10 @@
   "slot" : "Talent",
   "image" : "U2e_daredevil.jpg"
 }, {
+  "xws" : "",
+  "slot" : "",
+  "image" : ""
+}, {
   "xws" : "4lom",
   "slot" : "Crew",
   "image" : "U2e_4lom.jpg"
@@ -387,13 +391,17 @@
   "slot" : "Astromech",
   "image" : "U2e_m9g8.jpg"
 }, {
+  "xws" : "finn",
+  "slot" : "Gunner",
+  "image" : "U2e_finn.jpg"
+}, {
   "xws" : "marauder",
   "slot" : "Title",
   "image" : "U2e_marauder.jpg"
 }, {
-  "xws" : "finn",
-  "slot" : "Gunner",
-  "image" : "U2e_finn.jpg"
+  "xws" : "",
+  "slot" : "",
+  "image" : ""
 }, {
   "xws" : "sabinewren",
   "slot" : "Crew",
@@ -451,6 +459,10 @@
   "slot" : "Illicit",
   "image" : "U2e_riggedcargochute.jpg"
 }, {
+  "xws" : "integratedsfoils",
+  "slot" : "Configuration",
+  "image" : "U2e_integratedsfoils.jpg"
+}, {
   "xws" : "bossk",
   "slot" : "Gunner",
   "image" : "U2e_bossk.jpg"
@@ -458,10 +470,6 @@
   "xws" : "st321",
   "slot" : "Title",
   "image" : "U2e_st321.jpg"
-}, {
-  "xws" : "integratedsfoils",
-  "slot" : "Configuration",
-  "image" : "U2e_integratedsfoils.jpg"
 }, {
   "xws" : "bazemalbus",
   "slot" : "Crew",
