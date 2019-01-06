@@ -49,11 +49,6 @@
   "image" : "S2e_tiefofighter.png",
   "faction" : [ "firstorder" ]
 }, {
-  "xws" : "",
-  "identifier" : "",
-  "image" : "",
-  "faction" : [ ]
-}, {
   "xws" : "attackshuttle",
   "identifier" : "standard",
   "image" : "S2e_attackshuttle.png",
@@ -69,20 +64,10 @@
   "image" : "S2e_t65xwing.png",
   "faction" : [ "rebelalliance" ]
 }, {
-  "xws" : "",
-  "identifier" : "",
-  "image" : "",
-  "faction" : [ ]
-}, {
   "xws" : "ewing",
   "identifier" : "standard",
   "image" : "S2e_ewing.png",
   "faction" : [ "rebelalliance" ]
-}, {
-  "xws" : "",
-  "identifier" : "",
-  "image" : "",
-  "faction" : [ ]
 }, {
   "xws" : "z95af4headhunter",
   "identifier" : "ndrusuhlak",
@@ -364,20 +349,10 @@
   "image" : "S2e_m3ainterceptor.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "",
-  "identifier" : "",
-  "image" : "",
-  "faction" : [ ]
-}, {
   "xws" : "rz2awing",
   "identifier" : "standard",
   "image" : "S2e_rz2awing.png",
   "faction" : [ "resistance" ]
-}, {
-  "xws" : "",
-  "identifier" : "",
-  "image" : "",
-  "faction" : [ ]
 }, {
   "xws" : "yt2400lightfreighter",
   "identifier" : "wildspacefringer",
