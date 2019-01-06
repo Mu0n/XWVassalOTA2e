@@ -239,10 +239,10 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_hwk290lightfreighter_roarkgarnet.jpg"
 }, {
-  "shipxws" : "mg100starfortresssf17",
+  "shipxws" : "mg100starfortress",
   "pilotxws" : "benteene",
   "faction" : "resistance",
-  "image" : "P2e_resistance_mg100starfortresssf17_benteene.jpg"
+  "image" : "P2e_resistance_mg100starfortress_benteene.jpg"
 }, {
   "shipxws" : "aggressorassaultfighter",
   "pilotxws" : "ig88d",
@@ -739,10 +739,10 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_kihraxzfighter_viktorhel.jpg"
 }, {
-  "shipxws" : "mg100starfortresssf17",
+  "shipxws" : "mg100starfortress",
   "pilotxws" : "vennie",
   "faction" : "resistance",
-  "image" : "P2e_resistance_mg100starfortresssf17_vennie.jpg"
+  "image" : "P2e_resistance_mg100starfortress_vennie.jpg"
 }, {
   "shipxws" : "tieadvancedv1",
   "pilotxws" : "inquisitor",
@@ -804,10 +804,10 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieadvancedv1_seventhsister.jpg"
 }, {
-  "shipxws" : "mg100starfortresssf17",
+  "shipxws" : "mg100starfortress",
   "pilotxws" : "cobaltsquadronbomber",
   "faction" : "resistance",
-  "image" : "P2e_resistance_mg100starfortresssf17_cobaltsquadronbomber.jpg"
+  "image" : "P2e_resistance_mg100starfortress_cobaltsquadronbomber.jpg"
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "ezrabridger-tielnfighter",
@@ -954,15 +954,15 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_puresabacc.jpg"
 }, {
-  "shipxws" : "mg100starfortresssf17",
+  "shipxws" : "mg100starfortress",
   "pilotxws" : "edonkappehl",
   "faction" : "resistance",
-  "image" : "P2e_resistance_mg100starfortresssf17_edonkappehl.jpg"
+  "image" : "P2e_resistance_mg100starfortress_edonkappehl.jpg"
 }, {
-  "shipxws" : "mg100starfortresssf17",
+  "shipxws" : "mg100starfortress",
   "pilotxws" : "finchdallow",
   "faction" : "resistance",
-  "image" : "P2e_resistance_mg100starfortresssf17_finchdallow.jpg"
+  "image" : "P2e_resistance_mg100starfortress_finchdallow.jpg"
 }, {
   "shipxws" : "tieskstriker",
   "pilotxws" : "blacksquadronscout",
@@ -1314,10 +1314,10 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_asf01bwing_tennumb.jpg"
 }, {
-  "shipxws" : "mg100starfortresssf17",
+  "shipxws" : "mg100starfortress",
   "pilotxws" : "cat",
   "faction" : "resistance",
-  "image" : "P2e_resistance_mg100starfortresssf17_cat.jpg"
+  "image" : "P2e_resistance_mg100starfortress_cat.jpg"
 }, {
   "shipxws" : "hwk290lightfreighter",
   "pilotxws" : "dacebonearm",
