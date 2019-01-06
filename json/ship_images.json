@@ -110,8 +110,8 @@
   "faction" : [ "galacticempire" ]
 }, {
   "xws" : "mg100starfortress",
-  "identifier" : "",
-  "image" : "",
+  "identifier" : "standard",
+  "image" : "S2e_mg100starfortress.jpg",
   "faction" : [ "resistance" ]
 }, {
   "xws" : "z95af4headhunter",
