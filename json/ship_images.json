@@ -94,11 +94,6 @@
   "image" : "S2e_vt49decimator.png",
   "faction" : [ "galacticempire" ]
 }, {
-  "xws" : "mg100starfortress",
-  "identifier" : "standard",
-  "image" : "S2e_mg100starfortress.png",
-  "faction" : [ "resistance" ]
-}, {
   "xws" : "z95af4headhunter",
   "identifier" : "binayrepirate",
   "image" : "S2e_z95af4headhunter-binayre.png",
@@ -329,6 +324,11 @@
   "image" : "S2e_t65xwing_closed.png",
   "faction" : [ "rebelalliance" ]
 }, {
+  "xws" : "mg100starfortress",
+  "identifier" : "standard",
+  "image" : "S2e_mg100starfortress.png",
+  "faction" : [ "resistance" ]
+}, {
   "xws" : "z95af4headhunter",
   "identifier" : "standard",
   "image" : "S2e_z95af4headhunter.png",
@@ -353,6 +353,11 @@
   "identifier" : "standard",
   "image" : "S2e_rz2awing.png",
   "faction" : [ "resistance" ]
+}, {
+  "xws" : "vultureclassdroidfighter",
+  "identifier" : "standard",
+  "image" : "S2e_vultureclassdroidfighter.png",
+  "faction" : [ "separatistalliance" ]
 }, {
   "xws" : "yt2400lightfreighter",
   "identifier" : "wildspacefringer",
