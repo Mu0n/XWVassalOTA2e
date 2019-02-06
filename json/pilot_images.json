@@ -704,6 +704,11 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_upsilonclasscommandshuttle_lieutenantdormitz.jpg"
 }, {
+  "shipxws" : "belbullab22starfighter",
+  "pilotxws" : "generalgrievous",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_belbullab22starfighter_generalgrievous.jpg"
+}, {
   "shipxws" : "fangfighter",
   "pilotxws" : "joyrekkoff",
   "faction" : "scumandvillainy",
@@ -1158,6 +1163,11 @@
   "pilotxws" : "overseeryushyn",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_modifiedtielnfighter_overseeryushyn.jpg"
+}, {
+  "shipxws" : "vultureclassdroidfighter",
+  "pilotxws" : "precisehunter",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_vultureclassdroidfighter_precisehunter.jpg"
 }, {
   "shipxws" : "customizedyt1300lightfreighter",
   "pilotxws" : "hansolo",
