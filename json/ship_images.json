@@ -413,4 +413,9 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "belbullab22starfighter",
+  "identifier" : "standard",
+  "image" : "S2e_belbullab22starfighter.png",
+  "faction" : [ "separatistalliance" ]
 } ]
