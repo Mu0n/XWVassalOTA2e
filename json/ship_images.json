@@ -49,6 +49,11 @@
   "image" : "S2e_tiefofighter.png",
   "faction" : [ "firstorder" ]
 }, {
+  "xws" : "sithinfiltrator",
+  "identifier" : "standard",
+  "image" : "S2e_sithinfiltrator.png",
+  "faction" : [ "separatistalliance" ]
+}, {
   "xws" : "attackshuttle",
   "identifier" : "standard",
   "image" : "S2e_attackshuttle.png",
@@ -68,6 +73,16 @@
   "identifier" : "standard",
   "image" : "S2e_ewing.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "belbullab22starfighter",
+  "identifier" : "standard",
+  "image" : "S2e_belbullab22starfighter.png",
+  "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "",
+  "identifier" : "",
+  "image" : "",
+  "faction" : [ ]
 }, {
   "xws" : "z95af4headhunter",
   "identifier" : "ndrusuhlak",
@@ -113,6 +128,11 @@
   "identifier" : "standard",
   "image" : "S2e_scavengedyt1300.png",
   "faction" : [ "resistance" ]
+}, {
+  "xws" : "vultureclassdroidfighter",
+  "identifier" : "standard",
+  "image" : "S2e_vultureclassdroidfighter.png",
+  "faction" : [ "separatistalliance" ]
 }, {
   "xws" : "modifiedyt1300lightfreighter",
   "identifier" : "standard",
@@ -354,11 +374,6 @@
   "image" : "S2e_rz2awing.png",
   "faction" : [ "resistance" ]
 }, {
-  "xws" : "vultureclassdroidfighter",
-  "identifier" : "standard",
-  "image" : "S2e_vultureclassdroidfighter.png",
-  "faction" : [ "separatistalliance" ]
-}, {
   "xws" : "yt2400lightfreighter",
   "identifier" : "wildspacefringer",
   "image" : "S2e_yt2400lightfreighter-fringer.png",
@@ -413,9 +428,4 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
-}, {
-  "xws" : "belbullab22starfighter",
-  "identifier" : "standard",
-  "image" : "S2e_belbullab22starfighter.png",
-  "faction" : [ "separatistalliance" ]
 } ]
