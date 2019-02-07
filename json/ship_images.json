@@ -79,11 +79,6 @@
   "image" : "S2e_belbullab22starfighter.png",
   "faction" : [ "separatistalliance" ]
 }, {
-  "xws" : "",
-  "identifier" : "",
-  "image" : "",
-  "faction" : [ ]
-}, {
   "xws" : "z95af4headhunter",
   "identifier" : "ndrusuhlak",
   "image" : "S2e_z95af4headhunter-ndru.png",
