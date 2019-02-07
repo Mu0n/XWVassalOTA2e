@@ -204,14 +204,9 @@
   "image" : "S2e_quadrijettransferspacetug.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "jedistarfighter",
+  "xws" : "delta7aethersprite",
   "identifier" : "standard",
-  "image" : "S2e_jedistarfighter.png",
-  "faction" : [ "galacticrepublic" ]
-}, {
-  "xws" : "v19torrentstarfighter",
-  "identifier" : "standard",
-  "image" : "S2e_v19torrentstarfighter.png",
+  "image" : "S2e_delta7aethersprite.png",
   "faction" : [ "galacticrepublic" ]
 }, {
   "xws" : "aggressorassaultfighter",
@@ -285,7 +280,7 @@
   "faction" : [ "scumandvillainy" ]
 }, {
   "xws" : "mg100starfortresssf17",
-  "identifier" : "S2e_mg100starfortresssf17.png",
+  "identifier" : "standard",
   "image" : "S2e_mg100starfortresssf17.png",
   "faction" : [ "resistance" ]
 }, {
@@ -343,11 +338,6 @@
   "identifier" : "closed",
   "image" : "S2e_t65xwing_closed.png",
   "faction" : [ "rebelalliance" ]
-}, {
-  "xws" : "mg100starfortress",
-  "identifier" : "standard",
-  "image" : "S2e_mg100starfortress.png",
-  "faction" : [ "resistance" ]
 }, {
   "xws" : "z95af4headhunter",
   "identifier" : "standard",
