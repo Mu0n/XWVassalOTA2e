@@ -205,8 +205,13 @@
   "faction" : [ "scumandvillainy" ]
 }, {
   "xws" : "jedistarfighter",
-  "identifier" : "S2e_jedistarfighter.png",
+  "identifier" : "standard",
   "image" : "S2e_jedistarfighter.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "v19torrentstarfighter",
+  "identifier" : "standard",
+  "image" : "S2e_v19torrentstarfighter.png",
   "faction" : [ "galacticrepublic" ]
 }, {
   "xws" : "aggressorassaultfighter",
