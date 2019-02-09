@@ -418,4 +418,9 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "v19torrentstarfighter",
+  "identifier" : "standard",
+  "image" : "S2e_v19torrentstarfighter.png",
+  "faction" : [ "galacticrepublic" ]
 } ]
