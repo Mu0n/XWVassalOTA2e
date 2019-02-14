@@ -49,11 +49,6 @@
   "image" : "S2e_tiefofighter.png",
   "faction" : [ "firstorder" ]
 }, {
-  "xws" : "sithinfiltrator",
-  "identifier" : "standard",
-  "image" : "S2e_sithinfiltrator.png",
-  "faction" : [ "separatistalliance" ]
-}, {
   "xws" : "attackshuttle",
   "identifier" : "standard",
   "image" : "S2e_attackshuttle.png",
@@ -413,9 +408,4 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
-}, {
-  "xws" : "v19torrentstarfighter",
-  "identifier" : "standard",
-  "image" : "S2e_v19torrentstarfighter.png",
-  "faction" : [ "galacticrepublic" ]
 } ]
