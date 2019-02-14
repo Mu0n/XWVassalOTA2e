@@ -124,11 +124,6 @@
   "image" : "S2e_scavengedyt1300.png",
   "faction" : [ "resistance" ]
 }, {
-  "xws" : "vultureclassdroidfighter",
-  "identifier" : "standard",
-  "image" : "S2e_vultureclassdroidfighter.png",
-  "faction" : [ "separatistalliance" ]
-}, {
   "xws" : "modifiedyt1300lightfreighter",
   "identifier" : "standard",
   "image" : "S2e_modifiedyt1300lightfreighter.png",
