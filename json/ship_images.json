@@ -61,7 +61,7 @@
 }, {
   "xws" : "t65xwing",
   "identifier" : "open",
-  "image" : "S2e_t65xwing.png",
+  "image" : "S2e_t65xwing_open.png",
   "faction" : [ "rebelalliance" ]
 }, {
   "xws" : "ewing",
@@ -72,6 +72,16 @@
   "xws" : "belbullab22starfighter",
   "identifier" : "standard",
   "image" : "S2e_belbullab22starfighter.png",
+  "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "vultureclassdroidfighter",
+  "identifier" : "open",
+  "image" : "S2e_vultureclassdroidfighter_open.png",
+  "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "vultureclassdroidfighter",
+  "identifier" : "closed",
+  "image" : "S2e_vultureclassdroidfighter_closed.png",
   "faction" : [ "separatistalliance" ]
 }, {
   "xws" : "z95af4headhunter",
@@ -86,7 +96,7 @@
 }, {
   "xws" : "ut60duwing",
   "identifier" : "closed",
-  "image" : "S2e_ut60duwing_landing.png",
+  "image" : "S2e_ut60duwing_closed.png",
   "faction" : [ "rebelalliance" ]
 }, {
   "xws" : "z95af4headhunter",
@@ -181,7 +191,7 @@
 }, {
   "xws" : "t70xwing",
   "identifier" : "open",
-  "image" : "S2e_t70xwing.png",
+  "image" : "S2e_t70xwing_open.png",
   "faction" : [ "resistance" ]
 }, {
   "xws" : "tieskstriker",
@@ -231,7 +241,7 @@
 }, {
   "xws" : "ut60duwing",
   "identifier" : "open",
-  "image" : "S2e_ut60duwing_attack.png",
+  "image" : "S2e_ut60duwing_open.png",
   "faction" : [ "rebelalliance" ]
 }, {
   "xws" : "tiecapunisher",

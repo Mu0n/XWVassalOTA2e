@@ -34,5 +34,14 @@
     "dual_base_image_2_identifier":"deployed",
     "dual_base_report_1_identifier" : "Docked",
     "dual_base_report_2_identifier" : "Deployed"
+  },
+  {
+    "xws": "vultureclassdroidfighter",
+    "has_dual_base" : true,
+    "dual_base_toggle_menu_text" : "Toggle Grappling Struts",
+    "dual_base_image_1_identifier":"open",
+    "dual_base_image_2_identifier":"closed",
+    "dual_base_report_1_identifier" : "Open",
+    "dual_base_report_2_identifier" : "Closed"
   }
 ]
