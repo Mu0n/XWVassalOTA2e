@@ -14,6 +14,11 @@
   "image" : "S2e_tielnfighter.png",
   "faction" : [ "rebelalliance", "galacticempire" ]
 }, {
+  "xws" : "tielnfighter",
+  "identifier" : "sabinestie",
+  "image" : "S2e_tielnfighter-sabinestie.png",
+  "faction" : [ "rebelalliance" ]
+}, {
   "xws" : "btls8kwing",
   "identifier" : "mirandadoni",
   "image" : "S2e_btls8kwing-miranda.png",
@@ -354,6 +359,11 @@
   "image" : "S2e_arc170starfighter.png",
   "faction" : [ "rebelalliance" ]
 }, {
+  "xws" : "arc170starfighter",
+  "identifier" : "standard",
+  "image" : "S2e_arc170starfighter-republic.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
   "xws" : "m3ainterceptor",
   "identifier" : "standard",
   "image" : "S2e_m3ainterceptor.png",
@@ -418,4 +428,14 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "v19torrentstarfighter",
+  "identifier" : "standard",
+  "image" : "S2e_v19torrentstarfighter.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "S2e_sithinfiltrator",
+  "identifier" : "standard",
+  "image" : "S2e_sithinfiltrator.png",
+  "faction" : [ "separatistalliance" ]
 } ]
