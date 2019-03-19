@@ -15,7 +15,7 @@
   "faction" : [ "rebelalliance", "galacticempire" ]
 }, {
   "xws" : "tielnfighter",
-  "identifier" : "sabinestie",
+  "identifier" : "standard",
   "image" : "S2e_tielnfighter-sabinestie.png",
   "faction" : [ "rebelalliance" ]
 }, {
@@ -284,9 +284,9 @@
   "image" : "S2e_jumpmaster5000.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "mg100starfortresssf17",
+  "xws" : "mg100starfortresss",
   "identifier" : "standard",
-  "image" : "S2e_mg100starfortresssf17.png",
+  "image" : "S2e_mg100starfortresss.png",
   "faction" : [ "resistance" ]
 }, {
   "xws" : "customizedyt1300lightfreighter",
