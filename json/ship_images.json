@@ -434,7 +434,7 @@
   "image" : "S2e_v19torrentstarfighter.png",
   "faction" : [ "galacticrepublic" ]
 }, {
-  "xws" : "S2e_sithinfiltrator",
+  "xws" : "sithinfiltrator",
   "identifier" : "standard",
   "image" : "S2e_sithinfiltrator.png",
   "faction" : [ "separatistalliance" ]
