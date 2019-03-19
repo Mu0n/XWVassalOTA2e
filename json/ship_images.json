@@ -284,9 +284,9 @@
   "image" : "S2e_jumpmaster5000.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "mg100starfortresss",
+  "xws" : "mg100starfortress",
   "identifier" : "standard",
-  "image" : "S2e_mg100starfortresss.png",
+  "image" : "S2e_mg100starfortress.png",
   "faction" : [ "resistance" ]
 }, {
   "xws" : "customizedyt1300lightfreighter",
