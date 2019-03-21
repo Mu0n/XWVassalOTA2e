@@ -31,10 +31,6 @@
   "slot" : "Talent",
   "image" : "U2e_daredevil.jpg"
 }, {
-  "xws" : "",
-  "slot" : "",
-  "image" : ""
-}, {
   "xws" : "4lom",
   "slot" : "Crew",
   "image" : "U2e_4lom.jpg"
@@ -398,10 +394,6 @@
   "xws" : "marauder",
   "slot" : "Title",
   "image" : "U2e_marauder.jpg"
-}, {
-  "xws" : "",
-  "slot" : "",
-  "image" : ""
 }, {
   "xws" : "sabinewren",
   "slot" : "Crew",
