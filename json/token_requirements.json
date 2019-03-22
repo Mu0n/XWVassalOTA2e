@@ -71,5 +71,11 @@
 		"actions": ["Jam"],
 		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischarge", "jammingbeam"],
 		"pilotsOrShips": ["chopper","captainseevor"]
+	},
+	{
+		"name": "strain2e",
+		"actions": [],
+		"upgrades": ["treacherous", "k2b4", "dedicated", "clonecommandercody"],
+		"pilotsOrShips": []
 	}
 ]
