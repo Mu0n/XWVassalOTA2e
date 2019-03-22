@@ -51,7 +51,7 @@
 	{
 		"name": "cloak",
 		"actions": ["Cloak"],
-		"upgrades": ["cloakingdevice"],
+		"upgrades": ["cloakingdevice","scimitar"],
 		"pilotsOrShips": []
 	},
 	{
