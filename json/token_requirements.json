@@ -33,19 +33,19 @@
 	{
 		"name": "evade2e",
 		"actions": ["Evade"],
-		"upgrades": ["jynerso", "millenniumfalcon"],
+		"upgrades": ["jynerso", "millenniumfalcon","debrisgambit"],
 		"pilotsOrShips": []
 	},
 	{
 		"name": "ion2e",
 		"actions": [],
-		"upgrades": ["feedbackarray","ioncannon","ioncannonturret"],
+		"upgrades": ["feedbackarray","ioncannon","ioncannonturret","sabinewren"],
 		"pilotsOrShips": []
 	},
 	{
 		"name": "reinforce2e",
 		"actions": ["Reinforce"],
-		"upgrades": [],
+		"upgrades": ["ministertua"],
 		"pilotsOrShips": []
 	},
 	{
@@ -57,19 +57,19 @@
 	{
 		"name": "disarm2e",
 		"actions": ["SLAM", "Reload"],
-		"upgrades": ["r2astromech", "r2d2", "andrasta", "feedbackarray", "blackone"],
+		"upgrades": ["r2astromech", "r2d2", "andrasta", "feedbackarray", "blackone","energyshellcharges"],
 		"pilotsOrShips": ["corranhorn", "quinnjast"]
 	},
 	{
 		"name": "tractor2e",
 		"actions": [],
 		"upgrades": ["tractorbeam", "shadowcaster","scimitar"],
-		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo", "lattsrazzi"]
+		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo", "lattsrazzi","sabinewren"]
 	},
 	{
 		"name": "jam2e",
 		"actions": ["Jam"],
-		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischarge", "jammingbeam"],
+		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischarge", "jammingbeam","sabinewren"],
 		"pilotsOrShips": ["chopper","captainseevor"]
 	},
 	{
