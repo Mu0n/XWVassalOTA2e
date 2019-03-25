@@ -79,7 +79,7 @@
 		"pilotsOrShips": []
 	},
 	{
-		"name": "spareparts",
+		"name": "Spare Parts",
 		"actions": [],
 		"upgrades": ["sparepartscanisters"],
 		"pilotsOrShips": []
