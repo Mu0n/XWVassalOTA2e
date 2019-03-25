@@ -79,9 +79,9 @@
 		"pilotsOrShips": []
 	},
 	{
-		"name": "Spare Parts",
+		"name": "DRK-1 Probe Droid",
 		"actions": [],
-		"upgrades": ["sparepartscanisters"],
+		"upgrades": ["discordmissiles"],
 		"pilotsOrShips": []
 	}
 ]
