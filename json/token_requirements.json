@@ -77,5 +77,11 @@
 		"actions": [],
 		"upgrades": ["treacherous", "k2b4", "dedicated", "clonecommandercody"],
 		"pilotsOrShips": []
+	},
+	{
+		"name": "spareparts",
+		"actions": [],
+		"upgrades": ["sparepartscanisters"],
+		"pilotsOrShips": []
 	}
 ]
