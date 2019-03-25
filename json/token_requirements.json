@@ -79,6 +79,12 @@
 		"pilotsOrShips": []
 	},
 	{
+		"name": "Buzz Droid Swarm",
+		"actions": [],
+		"upgrades": ["drk1probedroids"],
+		"pilotsOrShips": []
+	},
+	{
 		"name": "DRK-1 Probe Droid",
 		"actions": [],
 		"upgrades": ["discordmissiles"],
