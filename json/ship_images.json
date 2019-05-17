@@ -9,10 +9,10 @@
   "image" : "S2e_tieinterceptor-181st.png",
   "faction" : [ "galacticempire" ]
 }, {
-  "xws" : "tielnfighter",
-  "identifier" : "standard",
-  "image" : "S2e_tielnfighter.png",
-  "faction" : [ "rebelalliance", "galacticempire" ]
+  "xws" : "hyenaclassdroidbomber",
+  "identifier" : "open",
+  "image" : "S2e_hyenaclassdroidbomber_open.png",
+  "faction" : [ "separatistalliance" ]
 }, {
   "xws" : "tielnfighter",
   "identifier" : "standard",
@@ -59,6 +59,11 @@
   "image" : "S2e_attackshuttle.png",
   "faction" : [ "rebelalliance" ]
 }, {
+  "xws" : "vultureclassdroidfighter",
+  "identifier" : "open",
+  "image" : "S2e_vultureclassdroidfighter_open.png",
+  "faction" : [ "separatistalliance" ]
+}, {
   "xws" : "m12lkimogilafighter",
   "identifier" : "standard",
   "image" : "S2e_m12lkimogilafighter.png",
@@ -69,6 +74,11 @@
   "image" : "S2e_t65xwing_open.png",
   "faction" : [ "rebelalliance" ]
 }, {
+  "xws" : "nabooroyaln1starfighter",
+  "identifier" : "standard",
+  "image" : "S2e_nabooroyaln1starfighter.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
   "xws" : "ewing",
   "identifier" : "standard",
   "image" : "S2e_ewing.png",
@@ -77,16 +87,6 @@
   "xws" : "belbullab22starfighter",
   "identifier" : "standard",
   "image" : "S2e_belbullab22starfighter.png",
-  "faction" : [ "separatistalliance" ]
-}, {
-  "xws" : "vultureclassdroidfighter",
-  "identifier" : "open",
-  "image" : "S2e_vultureclassdroidfighter_open.png",
-  "faction" : [ "separatistalliance" ]
-}, {
-  "xws" : "vultureclassdroidfighter",
-  "identifier" : "closed",
-  "image" : "S2e_vultureclassdroidfighter_closed.png",
   "faction" : [ "separatistalliance" ]
 }, {
   "xws" : "z95af4headhunter",
@@ -209,11 +209,6 @@
   "image" : "S2e_quadrijettransferspacetug.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "delta7aethersprite",
-  "identifier" : "standard",
-  "image" : "S2e_delta7aethersprite.png",
-  "faction" : [ "galacticrepublic" ]
-}, {
   "xws" : "aggressorassaultfighter",
   "identifier" : "standard",
   "image" : "S2e_aggressorassaultfighter.png",
@@ -228,6 +223,11 @@
   "identifier" : "standard",
   "image" : "S2e_asf01bwing.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "delta7aethersprite",
+  "identifier" : "standard",
+  "image" : "S2e_delta7aethersprite.png",
+  "faction" : [ "galacticrepublic" ]
 }, {
   "xws" : "z95af4headhunter",
   "identifier" : "lieutenantblount",
@@ -269,6 +269,11 @@
   "image" : "S2e_btla4ywing.png",
   "faction" : [ "rebelalliance", "scumandvillainy" ]
 }, {
+  "xws" : "sithinfiltrator",
+  "identifier" : "standard",
+  "image" : "S2e_sithinfiltrator.png",
+  "faction" : [ "separatistalliance" ]
+}, {
   "xws" : "btls8kwing",
   "identifier" : "standard",
   "image" : "S2e_btls8kwing.png",
@@ -283,11 +288,6 @@
   "identifier" : "standard",
   "image" : "S2e_jumpmaster5000.png",
   "faction" : [ "scumandvillainy" ]
-}, {
-  "xws" : "mg100starfortress",
-  "identifier" : "standard",
-  "image" : "S2e_mg100starfortress.png",
-  "faction" : [ "resistance" ]
 }, {
   "xws" : "customizedyt1300lightfreighter",
   "identifier" : "deployed",
@@ -339,25 +339,35 @@
   "image" : "S2e_ewing-knave.png",
   "faction" : [ "rebelalliance" ]
 }, {
+  "xws" : "vultureclassdroidfighter",
+  "identifier" : "closed",
+  "image" : "S2e_vultureclassdroidfighter_closed.png",
+  "faction" : [ "separatistalliance" ]
+}, {
   "xws" : "t65xwing",
   "identifier" : "closed",
   "image" : "S2e_t65xwing_closed.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "mg100starfortress",
+  "identifier" : "standard",
+  "image" : "S2e_mg100starfortress.png",
+  "faction" : [ "resistance" ]
 }, {
   "xws" : "z95af4headhunter",
   "identifier" : "standard",
   "image" : "S2e_z95af4headhunter.png",
   "faction" : [ "rebelalliance", "scumandvillainy" ]
 }, {
+  "xws" : "btlbywing",
+  "identifier" : "standard",
+  "image" : "S2e_btlbywing.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
   "xws" : "alphaclassstarwing",
   "identifier" : "standard",
   "image" : "S2e_alphaclassstarwing.png",
   "faction" : [ "galacticempire" ]
-}, {
-  "xws" : "arc170starfighter",
-  "identifier" : "standard",
-  "image" : "S2e_arc170starfighter.png",
-  "faction" : [ "rebelalliance" ]
 }, {
   "xws" : "arc170starfighter",
   "identifier" : "standard",
@@ -378,6 +388,11 @@
   "identifier" : "wildspacefringer",
   "image" : "S2e_yt2400lightfreighter-fringer.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "v19torrentstarfighter",
+  "identifier" : "standard",
+  "image" : "S2e_v19torrentstarfighter.png",
+  "faction" : [ "galacticrepublic" ]
 }, {
   "xws" : "firesprayclasspatrolcraft",
   "identifier" : "krassistrelix",
@@ -414,6 +429,11 @@
   "image" : "S2e_z95af4headhunter-airen.png",
   "faction" : [ "rebelalliance" ]
 }, {
+  "xws" : "nantexclassstarfighter",
+  "identifier" : "standard",
+  "image" : "S2e_nantexclassstarfighter.png",
+  "faction" : [ "separatistalliance" ]
+}, {
   "xws" : "starviperclassattackplatform",
   "identifier" : "standard",
   "image" : "S2e_starviperclassattackplatform.png",
@@ -428,14 +448,4 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
-}, {
-  "xws" : "v19torrentstarfighter",
-  "identifier" : "standard",
-  "image" : "S2e_v19torrentstarfighter.png",
-  "faction" : [ "galacticrepublic" ]
-}, {
-  "xws" : "sithinfiltrator",
-  "identifier" : "standard",
-  "image" : "S2e_sithinfiltrator.png",
-  "faction" : [ "separatistalliance" ]
 } ]
