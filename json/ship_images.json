@@ -14,6 +14,11 @@
   "image" : "S2e_hyenaclassdroidbomber_open.png",
   "faction" : [ "separatistalliance" ]
 }, {
+  "xws" : "hyenaclassdroidbomber",
+  "identifier" : "closed",
+  "image" : "S2e_hyenaclassdroidbomber_closed.png",
+  "faction" : [ "separatistalliance" ]
+},{
   "xws" : "tielnfighter",
   "identifier" : "standard",
   "image" : "S2e_tielnfighter-sabinestie.png",
