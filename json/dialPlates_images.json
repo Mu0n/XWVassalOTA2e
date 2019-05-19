@@ -234,5 +234,29 @@
   {
     "xws": "vultureclassdroidfighter",
     "image": "D2e_vultureclassdroidfighter.png"
+  },
+  {
+    "xws": "btlbywing",
+    "image": "D2e_btlbywing.png"
+  },
+  {
+    "xws": "hyenaclassdroidbomber",
+    "image": "D2e_hyenaclassdroidbomber.png"
+  },
+  {
+    "xws": "nabooroyaln1starfighter",
+    "image": "D2e_nabooroyaln1starfighter.png"
+  },
+  {
+    "xws": "nantexclassstarfighter",
+    "image": "D2e_nantexclassstarfighter.png"
+  },
+  {
+    "xws": "resistancetransport",
+    "image": "D2e_resistancetransport.png"
+  },
+  {
+    "xws": "resistancetransportpod",
+    "image": "D2e_resistancetransportpod.png"
   }
 ]
