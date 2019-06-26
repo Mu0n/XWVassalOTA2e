@@ -22,4 +22,16 @@
   "xws" : "hunted",
   "image" : "C2e_hunted.jpg",
   "tokenimage" : "CT2e_hunted.png"
+}, {
+  "xws" : "compromisingintel",
+  "image" : "C2e_compromisingintel.jpg",
+  "tokenimage" : "CT2e_compromisingintel.png"
+}, {
+  "xws" : "decoyed",
+  "image" : "C2e_decoyed.jpg",
+  "tokenimage" : "CT2e_decoyed.png"
+}, {
+  "xws" : "itstheresistance",
+  "image" : "C2e_itstheresistance.jpg",
+  "tokenimage" : "CT2e_itstheresistance.png"
 } ]
