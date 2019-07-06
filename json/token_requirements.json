@@ -21,25 +21,25 @@
 	{
 		"name": "focus2e",
 		"actions": ["Focus"],
-		"upgrades": [],
+		"upgrades": ["darthsidious","landocalrissian"],
 		"pilotsOrShips": ["guri"]
 	},
 	{
 		"name": "calculate2e",
 		"actions": ["Calculate"],
 		"upgrades": ["000", "ig88d", "c3po", "c3po-crew"],
-		"pilotsOrShips": ["aggressorassaultfighter"]
+		"pilotsOrShips": ["aggressorassaultfighter","4lom","pz4co"]
 	},
 	{
 		"name": "evade2e",
 		"actions": ["Evade"],
-		"upgrades": ["jynerso", "millenniumfalcon","debrisgambit"],
-		"pilotsOrShips": []
+		"upgrades": ["jynerso", "millenniumfalcon","debrisgambit","hyperspacetrackingdata"],
+		"pilotsOrShips": ["lowhhrick","jophseastriker"]
 	},
 	{
 		"name": "ion2e",
 		"actions": [],
-		"upgrades": ["feedbackarray","ioncannon","ioncannonturret","sabinewren"],
+		"upgrades": ["feedbackarray","ioncannon","ioncannonturret","sabinewren","4lom","ionmissiles","blackone","iontorpedoes"],
 		"pilotsOrShips": []
 	},
 	{
@@ -57,26 +57,26 @@
 	{
 		"name": "disarm2e",
 		"actions": ["SLAM", "Reload"],
-		"upgrades": ["r2astromech", "r2d2", "andrasta", "feedbackarray", "blackone","energyshellcharges"],
-		"pilotsOrShips": ["corranhorn", "quinnjast"]
+		"upgrades": ["r2astromech", "r2d2", "andrasta", "feedbackarray","energyshellcharges","seventhfleetgunner"],
+		"pilotsOrShips": ["corranhorn", "quinnjast","foremanproach"]
 	},
 	{
 		"name": "tractor2e",
 		"actions": [],
-		"upgrades": ["tractorbeam", "shadowcaster","scimitar"],
-		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo", "lattsrazzi","sabinewren"]
+		"upgrades": ["tractorbeam", "shadowcaster","sabinewren","seventhsister"],
+		"pilotsOrShips": ["quadrijettransferspacetug", "ketsuonyo", "lattsrazzi","sabinewren","foremanproach","pettyofficerthanisson","lattsrazzi"]
 	},
 	{
 		"name": "jam2e",
 		"actions": ["Jam"],
-		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischarge", "jammingbeam","sabinewren"],
+		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischargevanes", "jammingbeam","scimitar"],
 		"pilotsOrShips": ["chopper","captainseevor"]
 	},
 	{
 		"name": "strain2e",
 		"actions": [],
 		"upgrades": ["treacherous", "k2b4", "dedicated", "clonecommandercody"],
-		"pilotsOrShips": []
+		"pilotsOrShips": ["finn"]
 	},
 	{
 		"name": "Buzz Droid Swarm",
