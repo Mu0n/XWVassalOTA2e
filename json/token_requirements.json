@@ -79,6 +79,12 @@
 		"pilotsOrShips": ["finn"]
 	},
 	{
+		"name": "fuse2e",
+		"actions": [],
+		"upgrades": ["electroprotonbomb", "delayedfuses"],
+		"pilotsOrShips": []
+	},
+	{
 		"name": "Buzz Droid Swarm",
 		"actions": [],
 		"upgrades": ["drk1probedroids"],
