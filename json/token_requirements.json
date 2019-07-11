@@ -85,6 +85,12 @@
 		"pilotsOrShips": []
 	},
 	{
+		"name": "force2e",
+		"actions": [],
+		"upgrades": ["ezrabridger","kananjarrus","maul","lukeskywalker","seventhsister","darthvader","grandinquisitor","fifthbrother","leiaorgana-resistance","rey-gunner","kyloren","supremeleadersnoke","countdooku","chancellorpalpatine"],
+		"pilotsOrShips": []
+	},
+	{
 		"name": "Buzz Droid Swarm",
 		"actions": [],
 		"upgrades": ["drk1probedroids"],
