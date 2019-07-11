@@ -79,6 +79,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiereaper_vizier.jpg"
 }, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "goji",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_goji.jpg"
+}, {
   "shipxws" : "t65xwing",
   "pilotxws" : "lukeskywalker",
   "faction" : "rebelalliance",
@@ -124,6 +129,11 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_upsilonclasscommandshuttle_captaincardinal.jpg"
 }, {
+  "shipxws" : "hyenaclassdroidbomber",
+  "pilotxws" : "technounionbomber",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_hyenaclassdroidbomber_technounionbomber.jpg"
+}, {
   "shipxws" : "t70xwing",
   "pilotxws" : "elloasty",
   "faction" : "resistance",
@@ -158,6 +168,11 @@
   "pilotxws" : "asajjventress",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_lancerclasspursuitcraft_asajjventress.jpg"
+}, {
+  "shipxws" : "hyenaclassdroidbomber",
+  "pilotxws" : "dbs32c",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_hyenaclassdroidbomber_dbs32c.jpg"
 }, {
   "shipxws" : "ut60duwing",
   "pilotxws" : "partisanrenegade",
@@ -259,10 +274,20 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_z95af4headhunter_binayrepirate.jpg"
 }, {
+  "shipxws" : "nantexclassstarfighter",
+  "pilotxws" : "stalgasinhiveguard",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_nantexclassstarfighter_stalgasinhiveguard.jpg"
+}, {
   "shipxws" : "starviperclassattackplatform",
   "pilotxws" : "princexizor",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_starviperclassattackplatform_princexizor.jpg"
+}, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "bravoflightofficer",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_bravoflightofficer.jpg"
 }, {
   "shipxws" : "fangfighter",
   "pilotxws" : "oldteroch",
@@ -349,6 +374,11 @@
   "faction" : "separatistalliance",
   "image" : "P2e_separatistalliance_vultureclassdroidfighter_separatistdrone.jpg"
 }, {
+  "shipxws" : "resistancetransportpod",
+  "pilotxws" : "vimoradi",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransportpod_vimoradi.jpg"
+}, {
   "shipxws" : "vcx100lightfreighter",
   "pilotxws" : "chopper",
   "faction" : "rebelalliance",
@@ -373,6 +403,11 @@
   "pilotxws" : "haorchallprototype",
   "faction" : "separatistalliance",
   "image" : "P2e_separatistalliance_vultureclassdroidfighter_haorchallprototype.jpg"
+}, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "dineeellberger",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_dineeellberger.jpg"
 }, {
   "shipxws" : "tieddefender",
   "pilotxws" : "deltasquadronpilot",
@@ -399,6 +434,11 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tievnsilencer_blackout.jpg"
 }, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "naboohandmaiden",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_naboohandmaiden.jpg"
+}, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "ahhav",
   "faction" : "scumandvillainy",
@@ -408,6 +448,11 @@
   "pilotxws" : "zetasquadronpilot",
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tiefofighter_zetasquadronpilot.jpg"
+}, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "anakinskywalker-nabooroyaln1starfighter",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_anakinskywalker-nabooroyaln1starfighter.jpg"
 }, {
   "shipxws" : "t70xwing",
   "pilotxws" : "niennunb",
@@ -549,6 +594,11 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tiesffighter_backdraft.jpg"
 }, {
+  "shipxws" : "resistancetransport",
+  "pilotxws" : "covanell",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransport_covanell.jpg"
+}, {
   "shipxws" : "hwk290lightfreighter",
   "pilotxws" : "rebelscout",
   "faction" : "rebelalliance",
@@ -558,6 +608,11 @@
   "pilotxws" : "jekporkins",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_t65xwing_jekporkins.jpg"
+}, {
+  "shipxws" : "resistancetransport",
+  "pilotxws" : "nodinchavdri",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransport_nodinchavdri.jpg"
 }, {
   "shipxws" : "delta7aethersprite",
   "pilotxws" : "obiwankenobi",
@@ -569,6 +624,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiesabomber_scimitarsquadronpilot.jpg"
 }, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "redsquadronbomber",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_redsquadronbomber.jpg"
+}, {
   "shipxws" : "tiephphantom",
   "pilotxws" : "imdaartestpilot",
   "faction" : "galacticempire",
@@ -578,6 +638,11 @@
   "pilotxws" : "blacksunace",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_kihraxzfighter_blacksunace.jpg"
+}, {
+  "shipxws" : "hyenaclassdroidbomber",
+  "pilotxws" : "bombardmentdrone",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_hyenaclassdroidbomber_bombardmentdrone.jpg"
 }, {
   "shipxws" : "g1astarfighter",
   "pilotxws" : "zuckuss",
@@ -593,6 +658,11 @@
   "pilotxws" : "greensquadronpilot",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_rz1awing_greensquadronpilot.jpg"
+}, {
+  "shipxws" : "resistancetransport",
+  "pilotxws" : "logisticsdivisionpilot",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransport_logisticsdivisionpilot.jpg"
 }, {
   "shipxws" : "z95af4headhunter",
   "pilotxws" : "banditsquadronpilot",
@@ -683,6 +753,11 @@
   "pilotxws" : "luminaraunduli",
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_delta7aethersprite_luminaraunduli.jpg"
+}, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "oddball-btlbywing",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_oddball-btlbywing.jpg"
 }, {
   "shipxws" : "btla4ywing",
   "pilotxws" : "graysquadronbomber",
@@ -849,6 +924,11 @@
   "faction" : "resistance",
   "image" : "P2e_resistance_t70xwing_jaycristubbs.jpg"
 }, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "padmeamidala",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_padmeamidala.jpg"
+}, {
   "shipxws" : "t70xwing",
   "pilotxws" : "blacksquadronace-t70xwing",
   "faction" : "resistance",
@@ -1004,6 +1084,11 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_modifiedtielnfighter_captainseevor.jpg"
 }, {
+  "shipxws" : "nantexclassstarfighter",
+  "pilotxws" : "chertek",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_nantexclassstarfighter_chertek.jpg"
+}, {
   "shipxws" : "quadrijettransferspacetug",
   "pilotxws" : "unkarplutt",
   "faction" : "scumandvillainy",
@@ -1028,6 +1113,11 @@
   "pilotxws" : "alphasquadronpilot",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieinterceptor_alphasquadronpilot.jpg"
+}, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "broadside",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_broadside.jpg"
 }, {
   "shipxws" : "fangfighter",
   "pilotxws" : "fennrau",
@@ -1064,6 +1154,21 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_attackshuttle_sabinewren.jpg"
 }, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "anakinskywalker-btlbywing",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_anakinskywalker-btlbywing.jpg"
+}, {
+  "shipxws" : "hyenaclassdroidbomber",
+  "pilotxws" : "dbs404",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_hyenaclassdroidbomber_dbs404.jpg"
+}, {
+  "shipxws" : "hyenaclassdroidbomber",
+  "pilotxws" : "baktoidprototype",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_hyenaclassdroidbomber_baktoidprototype.jpg"
+}, {
   "shipxws" : "ewing",
   "pilotxws" : "gavindarklighter",
   "faction" : "rebelalliance",
@@ -1099,6 +1204,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_blacksquadronscout.jpg"
 }, {
+  "shipxws" : "resistancetransportpod",
+  "pilotxws" : "rosetico",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransportpod_rosetico.jpg"
+}, {
   "shipxws" : "tiesffighter",
   "pilotxws" : "zetasquadronsurvivor",
   "faction" : "firstorder",
@@ -1119,10 +1229,20 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_alphaclassstarwing_nusquadronpilot.jpg"
 }, {
+  "shipxws" : "nantexclassstarfighter",
+  "pilotxws" : "berwerkret",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_nantexclassstarfighter_berwerkret.jpg"
+}, {
   "shipxws" : "arc170starfighter",
   "pilotxws" : "sharabey",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_arc170starfighter_sharabey.jpg"
+}, {
+  "shipxws" : "hyenaclassdroidbomber",
+  "pilotxws" : "separatistbomber",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_hyenaclassdroidbomber_separatistbomber.jpg"
 }, {
   "shipxws" : "customizedyt1300lightfreighter",
   "pilotxws" : "landocalrissian",
@@ -1304,6 +1424,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_lambdaclasst4ashuttle_coloneljendon.jpg"
 }, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "ricolie",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_ricolie.jpg"
+}, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "overseeryushyn",
   "faction" : "scumandvillainy",
@@ -1338,6 +1463,11 @@
   "pilotxws" : "pettyofficerthanisson",
   "faction" : "firstorder",
   "image" : "P2e_firstorder_upsilonclasscommandshuttle_pettyofficerthanisson.jpg"
+}, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "matchstick",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_matchstick.jpg"
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "captainrex",
@@ -1434,6 +1564,11 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tiefofighter_muse.jpg"
 }, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "shadowsquadronveteran",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_shadowsquadronveteran.jpg"
+}, {
   "shipxws" : "jumpmaster5000",
   "pilotxws" : "dengar",
   "faction" : "scumandvillainy",
@@ -1529,6 +1664,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiesabomber_majorrhymer.jpg"
 }, {
+  "shipxws" : "nantexclassstarfighter",
+  "pilotxws" : "sunfac",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_nantexclassstarfighter_sunfac.jpg"
+}, {
   "shipxws" : "auzituckgunship",
   "pilotxws" : "lowhhrick",
   "faction" : "rebelalliance",
@@ -1553,6 +1693,11 @@
   "pilotxws" : "manaroo",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_jumpmaster5000_manaroo.jpg"
+}, {
+  "shipxws" : "resistancetransport",
+  "pilotxws" : "pammichnerrogoode",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransport_pammichnerrogoode.jpg"
 }, {
   "shipxws" : "tieddefender",
   "pilotxws" : "onyxsquadronace",
@@ -1604,6 +1749,11 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_arc170starfighter_ibtisam.jpg"
 }, {
+  "shipxws" : "resistancetransportpod",
+  "pilotxws" : "finn",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransportpod_finn.jpg"
+}, {
   "shipxws" : "t65xwing",
   "pilotxws" : "bluesquadronescort",
   "faction" : "rebelalliance",
@@ -1633,6 +1783,11 @@
   "pilotxws" : "whisper",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiephphantom_whisper.jpg"
+}, {
+  "shipxws" : "resistancetransportpod",
+  "pilotxws" : "bb8",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_resistancetransportpod_bb8.jpg"
 }, {
   "shipxws" : "tieadvancedv1",
   "pilotxws" : "grandinquisitor",
