@@ -1,4 +1,8 @@
 [ {
+  "xws" : "ta175",
+  "slot" : "Tactical Relay",
+  "image" : "U2e_ta175.jpg"
+}, {
   "xws" : "imperviumplating",
   "slot" : "Modification",
   "image" : "U2e_imperviumplating.jpg"
@@ -6,6 +10,10 @@
   "xws" : "stealthdevice",
   "slot" : "Modification",
   "image" : "U2e_stealthdevice.jpg"
+}, {
+  "xws" : "leiaorgana-resistance",
+  "slot" : "Crew",
+  "image" : "U2e_leiaorgana-resistance.jpg"
 }, {
   "xws" : "advancedoptics",
   "slot" : "Tech",
@@ -70,6 +78,10 @@
   "xws" : "protontorpedoes",
   "slot" : "Torpedo",
   "image" : "U2e_protontorpedoes.jpg"
+}, {
+  "xws" : "diamondboronmissiles",
+  "slot" : "Missile",
+  "image" : "U2e_diamondboronmissiles.jpg"
 }, {
   "xws" : "kananjarrus",
   "slot" : "Crew",
@@ -139,6 +151,10 @@
   "slot" : "Gunner",
   "image" : "U2e_fifthbrother.jpg"
 }, {
+  "xws" : "pz4co",
+  "slot" : "Crew",
+  "image" : "U2e_pz4co.jpg"
+}, {
   "xws" : "primedthrusters",
   "slot" : "Tech",
   "image" : "U2e_primedthrusters.jpg"
@@ -150,6 +166,10 @@
   "xws" : "heroic",
   "slot" : "Talent",
   "image" : "U2e_heroic.jpg"
+}, {
+  "xws" : "korrsella",
+  "slot" : "Crew",
+  "image" : "U2e_korrsella.jpg"
 }, {
   "xws" : "pivotwing",
   "slot" : "Configuration",
@@ -195,6 +215,14 @@
   "slot" : "Crew",
   "image" : "U2e_darthvader.jpg"
 }, {
+  "xws" : "angleddeflectors",
+  "slot" : "Modification",
+  "image" : "U2e_angleddeflectors.jpg"
+}, {
+  "xws" : "ga97",
+  "slot" : "Crew",
+  "image" : "U2e_ga97.jpg"
+}, {
   "xws" : "ruthless",
   "slot" : "Talent",
   "image" : "U2e_ruthless.jpg"
@@ -202,6 +230,10 @@
   "xws" : "isbslicer",
   "slot" : "Crew",
   "image" : "U2e_isbslicer.jpg"
+}, {
+  "xws" : "amilynholdo",
+  "slot" : "Crew",
+  "image" : "U2e_amilynholdo.jpg"
 }, {
   "xws" : "paigetico",
   "slot" : "Gunner",
@@ -263,9 +295,17 @@
   "slot" : "Missile",
   "image" : "U2e_concussionmissiles.jpg"
 }, {
+  "xws" : "ensnare",
+  "slot" : "Talent",
+  "image" : "U2e_ensnare.jpg"
+}, {
   "xws" : "generalgrievous",
   "slot" : "Crew",
   "image" : "U2e_generalgrievous.jpg"
+}, {
+  "xws" : "kaydelconnix",
+  "slot" : "Crew",
+  "image" : "U2e_kaydelconnix.jpg"
 }, {
   "xws" : "k2b4",
   "slot" : "Tactical Relay",
@@ -343,6 +383,10 @@
   "slot" : "Tech",
   "image" : "U2e_hyperspacetrackingdata.jpg"
 }, {
+  "xws" : "autoblasters",
+  "slot" : "Cannon",
+  "image" : "U2e_autoblasters.jpg"
+}, {
   "xws" : "specialforcesgunner",
   "slot" : "Gunner",
   "image" : "U2e_specialforcesgunner.jpg"
@@ -370,6 +414,10 @@
   "xws" : "moldycrow",
   "slot" : "Title",
   "image" : "U2e_moldycrow.jpg"
+}, {
+  "xws" : "plasmatorpedoes",
+  "slot" : "Torpedo",
+  "image" : "U2e_plasmatorpedoes.jpg"
 }, {
   "xws" : "novicetechnician",
   "slot" : "Crew",
@@ -450,6 +498,10 @@
   "xws" : "inertialdampeners",
   "slot" : "Illicit",
   "image" : "U2e_inertialdampeners.jpg"
+}, {
+  "xws" : "larmadacy",
+  "slot" : "Crew",
+  "image" : "U2e_larmadacy.jpg"
 }, {
   "xws" : "seventhsister",
   "slot" : "Crew",
@@ -567,6 +619,10 @@
   "slot" : "Crew",
   "image" : "U2e_grandmofftarkin.jpg"
 }, {
+  "xws" : "snapshot",
+  "slot" : "Talent",
+  "image" : "U2e_snapshot.jpg"
+}, {
   "xws" : "patternanalyzer",
   "slot" : "Tech",
   "image" : "U2e_patternanalyzer.jpg"
@@ -671,6 +727,10 @@
   "slot" : "Crew",
   "image" : "U2e_chewbacca-crew-swz19.jpg"
 }, {
+  "xws" : "delayedfuses",
+  "slot" : "Modification",
+  "image" : "U2e_delayedfuses.jpg"
+}, {
   "xws" : "deathtroopers",
   "slot" : "Crew",
   "image" : "U2e_deathtroopers.jpg"
@@ -719,6 +779,10 @@
   "slot" : "Talent",
   "image" : "U2e_dedicated.jpg"
 }, {
+  "xws" : "passivesensors",
+  "slot" : "Sensor",
+  "image" : "U2e_passivesensors.jpg"
+}, {
   "xws" : "directorkrennic",
   "slot" : "Crew",
   "image" : "U2e_directorkrennic.jpg"
@@ -734,6 +798,10 @@
   "xws" : "c3po",
   "slot" : "Crew",
   "image" : "U2e_c3po.jpg"
+}, {
+  "xws" : "electroprotonbomb",
+  "slot" : "Device",
+  "image" : "U2e_electroprotonbomb.jpg"
 }, {
   "xws" : "virago",
   "slot" : "Title",
@@ -811,13 +879,13 @@
   "slot" : "Illicit",
   "image" : "U2e_cloakingdevice.jpg"
 }, {
-  "xws" : "landingstruts",
-  "slot" : "Configuration",
-  "image" : "U2e_landingstruts_back.jpg"
-}, {
   "xws" : "reysmillenniumfalcon",
   "slot" : "Title",
   "image" : "U2e_reysmillenniumfalcon.jpg"
+}, {
+  "xws" : "landingstruts",
+  "slot" : "Configuration",
+  "image" : "U2e_landingstruts_back.jpg"
 }, {
   "xws" : "landingstruts",
   "slot" : "Configuration",
@@ -867,9 +935,9 @@
   "slot" : "Astromech",
   "image" : "U2e_r2ha.jpg"
 }, {
-  "xws" : "battlemeditation",
-  "slot" : "Force Power",
-  "image" : "U2e_battlemeditation.jpg"
+  "xws" : "r2a6",
+  "slot" : "Astromech",
+  "image" : "U2e_r2a6.jpg"
 }, {
   "xws" : "emperorpalpatine",
   "slot" : "Crew",
