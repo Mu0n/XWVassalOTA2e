@@ -579,6 +579,11 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_m3ainterceptor_tansariipointveteran.jpg"
 }, {
+  "shipxws" : "z95af4headhunter",
+  "pilotxws" : "bossk-z95af4headhunter",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_z95af4headhunter_bossk-z95af4headhunter.jpg"
+}, {
   "shipxws" : "btla4ywing",
   "pilotxws" : "hortonsalm",
   "faction" : "rebelalliance",
@@ -589,15 +594,15 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_lancerclasspursuitcraft_sabinewren-lancerclasspursuitcraft.jpg"
 }, {
-  "shipxws" : "tiesffighter",
-  "pilotxws" : "backdraft",
-  "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiesffighter_backdraft.jpg"
-}, {
   "shipxws" : "resistancetransport",
   "pilotxws" : "covanell",
   "faction" : "resistance",
   "image" : "P2e_resistance_resistancetransport_covanell.jpg"
+}, {
+  "shipxws" : "tiesffighter",
+  "pilotxws" : "backdraft",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiesffighter_backdraft.jpg"
 }, {
   "shipxws" : "hwk290lightfreighter",
   "pilotxws" : "rebelscout",
@@ -1763,6 +1768,11 @@
   "pilotxws" : "ndrusuhlak",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_z95af4headhunter_ndrusuhlak.jpg"
+}, {
+  "shipxws" : "ut60duwing",
+  "pilotxws" : "k2so",
+  "faction" : "rebelalliance",
+  "image" : "P2e_rebelalliance_ut60duwing_k2so.jpg"
 }, {
   "shipxws" : "tieadvancedv1",
   "pilotxws" : "baronoftheempire",
