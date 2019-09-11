@@ -555,6 +555,10 @@
   "slot" : "Astromech",
   "image" : "U2e_c110p.jpg"
 }, {
+  "xws" : "c110p",
+  "slot" : "Astromech",
+  "image" : "U2e_c110p_back.jpg"
+}, {
   "xws" : "riggedcargochute",
   "slot" : "Illicit",
   "image" : "U2e_riggedcargochute.jpg"
