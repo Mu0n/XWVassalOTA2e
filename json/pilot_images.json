@@ -84,6 +84,11 @@
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_btlbywing_goji.jpg"
 }, {
+  "shipxws" : "nantexclassstarfighter",
+  "pilotxws" : "petranakiarenaace",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_nantexclassstarfighter_petranakiarenaace.jpg"
+}, {
   "shipxws" : "t65xwing",
   "pilotxws" : "lukeskywalker",
   "faction" : "rebelalliance",
@@ -343,6 +348,11 @@
   "pilotxws" : "bluesquadronpilot",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_asf01bwing_bluesquadronpilot.jpg"
+}, {
+  "shipxws" : "btlbywing",
+  "pilotxws" : "r2d2",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_btlbywing_r2d2.jpg"
 }, {
   "shipxws" : "z95af4headhunter",
   "pilotxws" : "nashtahpup",
@@ -1498,6 +1508,11 @@
   "pilotxws" : "karekun",
   "faction" : "resistance",
   "image" : "P2e_resistance_t70xwing_karekun.jpg"
+}, {
+  "shipxws" : "nantexclassstarfighter",
+  "pilotxws" : "gorgol",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_nantexclassstarfighter_gorgol.jpg"
 }, {
   "shipxws" : "alphaclassstarwing",
   "pilotxws" : "rhosquadronpilot",
