@@ -163,6 +163,10 @@
   "slot" : "Gunner",
   "image" : "U2e_hansolo.jpg"
 }, {
+  "xws" : "ahsokatano",
+  "slot" : "Gunner",
+  "image" : "U2e_ahsokatano.jpg"
+}, {
   "xws" : "heroic",
   "slot" : "Talent",
   "image" : "U2e_heroic.jpg"
@@ -238,6 +242,10 @@
   "xws" : "paigetico",
   "slot" : "Gunner",
   "image" : "U2e_paigetico.jpg"
+}, {
+  "xws" : "targetingcomputer",
+  "slot" : "Modification",
+  "image" : "U2e_targetingcomputer.jpg"
 }, {
   "xws" : "chancellorpalpatine",
   "slot" : "Crew",
@@ -391,6 +399,10 @@
   "slot" : "Gunner",
   "image" : "U2e_specialforcesgunner.jpg"
 }, {
+  "xws" : "precognitivereflexes",
+  "slot" : "Force Power",
+  "image" : "U2e_precognitivereflexes.jpg"
+}, {
   "xws" : "magvayarro",
   "slot" : "Crew",
   "image" : "U2e_magvayarro.jpg"
@@ -491,6 +503,10 @@
   "slot" : "Illicit",
   "image" : "U2e_contrabandcybernetics.jpg"
 }, {
+  "xws" : "c3po-republic",
+  "slot" : "Crew",
+  "image" : "U2e_c3po-republic.jpg"
+}, {
   "xws" : "juke",
   "slot" : "Talent",
   "image" : "U2e_juke.jpg"
@@ -534,6 +550,10 @@
   "xws" : "blackone",
   "slot" : "Title",
   "image" : "U2e_blackone.jpg"
+}, {
+  "xws" : "c110p",
+  "slot" : "Astromech",
+  "image" : "U2e_c110p.jpg"
 }, {
   "xws" : "riggedcargochute",
   "slot" : "Illicit",
@@ -739,6 +759,10 @@
   "slot" : "Missile",
   "image" : "U2e_clustermissiles.jpg"
 }, {
+  "xws" : "graviticdeflection",
+  "slot" : "Talent",
+  "image" : "U2e_graviticdeflection.jpg"
+}, {
   "xws" : "hate",
   "slot" : "Force Power",
   "image" : "U2e_hate.jpg"
@@ -867,6 +891,10 @@
   "slot" : "Astromech",
   "image" : "U2e_genius.jpg"
 }, {
+  "xws" : "foresight",
+  "slot" : "Force Power",
+  "image" : "U2e_foresight.jpg"
+}, {
   "xws" : "maul",
   "slot" : "Crew",
   "image" : "U2e_maul.jpg"
@@ -879,13 +907,13 @@
   "slot" : "Illicit",
   "image" : "U2e_cloakingdevice.jpg"
 }, {
-  "xws" : "reysmillenniumfalcon",
-  "slot" : "Title",
-  "image" : "U2e_reysmillenniumfalcon.jpg"
-}, {
   "xws" : "landingstruts",
   "slot" : "Configuration",
   "image" : "U2e_landingstruts_back.jpg"
+}, {
+  "xws" : "reysmillenniumfalcon",
+  "slot" : "Title",
+  "image" : "U2e_reysmillenniumfalcon.jpg"
 }, {
   "xws" : "landingstruts",
   "slot" : "Configuration",
