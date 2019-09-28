@@ -5,18 +5,13 @@
     "description": "Raithos adapted this popular 1st edition builder originally made by geordanr. Endorsed by Dee Yun."
   },
   {
-    "name": "Stop Gapp Squad Builder",
-    "url": "https://devjonny.github.io/xwing2estopgap",
-    "description": "By DevJonny and dbouckley, endorsed by Alex Birt"
-  },
-  {
     "name": "Star Wars X-Wing Squad Builder",
     "url": "https://squadbuilder.fantasyflightgames.com",
     "description": "The official builder from Fantasy Flight Games"
   },
   {
     "name": "Sirjorj's XWS Validator",
-    "url": "http://xhud.sirjorj.com/xwing.cgi/validator2",
+    "url": "http://xhud.sirjorj.com/xwing.cgi/squad2",
     "description": "Not a squad builder in itself, but can be used to validate a list against this well curated 2nd edition databank"
   }
 ]
