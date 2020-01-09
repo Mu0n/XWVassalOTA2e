@@ -463,4 +463,14 @@
   "identifier" : "standard",
   "image" : "S2e_resistancetransportpod.png",
   "faction" : [ "resistance" ]
+}, {
+  "xws" : "fireball",
+  "identifier" : "standard",
+  "image" : "S2e_fireball.png",
+  "faction" : [ "resistance" ]
+}, {
+  "xws" : "tiebainterceptor",
+  "identifier" : "standard",
+  "image" : "S2e_tiebainterceptor.png",
+  "faction" : [ "firstorder" ]
 } ]
