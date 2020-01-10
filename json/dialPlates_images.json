@@ -258,5 +258,13 @@
   {
     "xws": "resistancetransportpod",
     "image": "D2e_resistancetransportpod.png"
+  },
+  {
+    "xws": "tiebainterceptor",
+    "image": "D2e_tiebainterceptor.png"
+  },
+  {
+    "xws": "fireball",
+    "image": "D2e_fireball.png"
   }
 ]
