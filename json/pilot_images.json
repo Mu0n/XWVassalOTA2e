@@ -1818,4 +1818,25 @@
   "pilotxws" : "grandinquisitor",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieadvancedv1_grandinquisitor.jpg"
-} ]
+},{
+  "shipxws" : "tiebainterceptor",
+  "pilotxws" : "firstorderprovocateurs",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiebainterceptor_firstorderprovocateurs.jpg"
+},{
+  "shipxws" : "tiebainterceptor",
+  "pilotxws" : "ember",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiebainterceptor_ember.jpg"
+},{
+  "shipxws" : "tiebainterceptor",
+  "pilotxws" : "holo",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiebainterceptor_holo.jpg"
+},{
+  "shipxws" : "tiebainterceptor",
+  "pilotxws" : "majorvonreg",
+  "faction" : "firstorder",
+  "image" : "P2e_firstorder_tiebainterceptor_majorvonreg.jpg"
+}
+]
