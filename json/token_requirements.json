@@ -76,7 +76,7 @@
 		"name": "strain2e",
 		"actions": [],
 		"upgrades": ["treacherous", "k2b4", "dedicated", "clonecommandercody"],
-		"pilotsOrShips": ["finn"]
+		"pilotsOrShips": ["finn","tiebainterceptor"]
 	},
 	{
 		"name": "fuse2e",
