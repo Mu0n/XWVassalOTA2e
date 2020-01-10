@@ -1820,9 +1820,9 @@
   "image" : "P2e_galacticempire_tieadvancedv1_grandinquisitor.jpg"
 },{
   "shipxws" : "tiebainterceptor",
-  "pilotxws" : "firstorderprovocateurs",
+  "pilotxws" : "firstorderprovocateur",
   "faction" : "firstorder",
-  "image" : "P2e_firstorder_tiebainterceptor_firstorderprovocateurs.jpg"
+  "image" : "P2e_firstorder_tiebainterceptor_firstorderprovocateur.jpg"
 },{
   "shipxws" : "tiebainterceptor",
   "pilotxws" : "ember",
