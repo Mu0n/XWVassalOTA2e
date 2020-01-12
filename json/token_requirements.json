@@ -79,6 +79,12 @@
 		"pilotsOrShips": ["finn","tiebainterceptor"]
 	},
 	{
+		"name": "deplete2e",
+		"actions": [],
+		"upgrades": ["magpulsewarheads"],
+		"pilotsOrShips": ["tiebainterceptor"]
+	},
+	{
 		"name": "fuse2e",
 		"actions": [],
 		"upgrades": ["electroprotonbomb", "delayedfuses"],
