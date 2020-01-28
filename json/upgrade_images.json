@@ -167,9 +167,17 @@
   "slot" : "Gunner",
   "image" : "U2e_ahsokatano.jpg"
 }, {
+  "xws" : "stabilizedsfoils",
+  "slot" : "Configuration",
+  "image" : "U2e_stabilizedsfoils.jpg"
+}, {
   "xws" : "heroic",
   "slot" : "Talent",
   "image" : "U2e_heroic.jpg"
+}, {
+  "xws" : "stabilizedsfoils",
+  "slot" : "Configuration",
+  "image" : "U2e_stabilizedsfoils_back.jpg"
 }, {
   "xws" : "korrsella",
   "slot" : "Crew",
@@ -186,6 +194,10 @@
   "xws" : "perceptivecopilot",
   "slot" : "Crew",
   "image" : "U2e_perceptivecopilot.jpg"
+}, {
+  "xws" : "multimissilepods",
+  "slot" : "Missile",
+  "image" : "U2e_multimissilepods.jpg"
 }, {
   "xws" : "staticdischargevanes",
   "slot" : "Modification",
@@ -367,6 +379,10 @@
   "slot" : "Astromech",
   "image" : "U2e_r4astromech.jpg"
 }, {
+  "xws" : "plokoon",
+  "slot" : "Crew",
+  "image" : "U2e_plokoon.jpg"
+}, {
   "xws" : "andrasta",
   "slot" : "Title",
   "image" : "U2e_andrasta.jpg"
@@ -414,6 +430,10 @@
   "xws" : "iontorpedoes",
   "slot" : "Torpedo",
   "image" : "U2e_iontorpedoes.jpg"
+}, {
+  "xws" : "coaxiumhyperfuel",
+  "slot" : "Illicit",
+  "image" : "U2e_coaxiumhyperfuel.jpg"
 }, {
   "xws" : "greedo",
   "slot" : "Gunner",
@@ -463,6 +483,10 @@
   "slot" : "Crew",
   "image" : "U2e_bobafett.jpg"
 }, {
+  "xws" : "deuteriumpowercells",
+  "slot" : "Tech",
+  "image" : "U2e_deuteriumpowercells.jpg"
+}, {
   "xws" : "agentkallus",
   "slot" : "Crew",
   "image" : "U2e_agentkallus.jpg"
@@ -471,6 +495,10 @@
   "slot" : "Illicit",
   "image" : "U2e_feedbackarray.jpg"
 }, {
+  "xws" : "magpulsewarheads",
+  "slot" : "Missile",
+  "image" : "U2e_magpulsewarheads.jpg"
+}, {
   "xws" : "munitionsfailsafe",
   "slot" : "Modification",
   "image" : "U2e_munitionsfailsafe.jpg"
@@ -478,6 +506,10 @@
   "xws" : "m9g8",
   "slot" : "Astromech",
   "image" : "U2e_m9g8.jpg"
+}, {
+  "xws" : "ionbombs",
+  "slot" : "Device",
+  "image" : "U2e_ionbombs.jpg"
 }, {
   "xws" : "finn",
   "slot" : "Gunner",
@@ -494,6 +526,10 @@
   "xws" : "sabinewren",
   "slot" : "Crew",
   "image" : "U2e_sabinewren.jpg"
+}, {
+  "xws" : "scannerbaffler",
+  "slot" : "Illicit",
+  "image" : "U2e_scannerbaffler.jpg"
 }, {
   "xws" : "ionmissiles",
   "slot" : "Missile",
@@ -526,6 +562,10 @@
   "xws" : "hullupgrade",
   "slot" : "Modification",
   "image" : "U2e_hullupgrade.jpg"
+}, {
+  "xws" : "agentterex",
+  "slot" : "Crew",
+  "image" : "U2e_agentterex.jpg"
 }, {
   "xws" : "cikatrovizago",
   "slot" : "Crew",
@@ -747,6 +787,14 @@
   "slot" : "Crew",
   "image" : "U2e_cassianandor.jpg"
 }, {
+  "xws" : "proudtradition",
+  "slot" : "Talent",
+  "image" : "U2e_proudtradition.jpg"
+}, {
+  "xws" : "proudtradition",
+  "slot" : "Talent",
+  "image" : "U2e_proudtradition_back.jpg"
+}, {
   "xws" : "chewbacca-crew-swz19",
   "slot" : "Crew",
   "image" : "U2e_chewbacca-crew-swz19.jpg"
@@ -871,6 +919,10 @@
   "slot" : "Sensor",
   "image" : "U2e_firecontrolsystem.jpg"
 }, {
+  "xws" : "aaylasecura",
+  "slot" : "Crew",
+  "image" : "U2e_aaylasecura.jpg"
+}, {
   "xws" : "ketsuonyo",
   "slot" : "Crew",
   "image" : "U2e_ketsuonyo.jpg"
@@ -931,6 +983,14 @@
   "slot" : "Astromech",
   "image" : "U2e_r2d2.jpg"
 }, {
+  "xws" : "r1j5",
+  "slot" : "Astromech",
+  "image" : "U2e_r1j5.jpg"
+}, {
+  "xws" : "saboteursmap",
+  "slot" : "Illicit",
+  "image" : "U2e_saboteursmap.jpg"
+}, {
   "xws" : "punishingone",
   "slot" : "Title",
   "image" : "U2e_punishingone.jpg"
@@ -942,6 +1002,10 @@
   "xws" : "collisiondetector",
   "slot" : "Sensor",
   "image" : "U2e_collisiondetector.jpg"
+}, {
+  "xws" : "kazsfireball",
+  "slot" : "Title",
+  "image" : "U2e_kazsfireball.jpg"
 }, {
   "xws" : "engineupgrade",
   "slot" : "Modification",
@@ -958,6 +1022,10 @@
   "xws" : "swarmtactics",
   "slot" : "Talent",
   "image" : "U2e_swarmtactics.jpg"
+}, {
+  "xws" : "clustermines",
+  "slot" : "Device",
+  "image" : "U2e_clustermines.jpg"
 }, {
   "xws" : "lukeskywalker",
   "slot" : "Gunner",
@@ -994,6 +1062,10 @@
   "xws" : "moffjerjerrod",
   "slot" : "Crew",
   "image" : "U2e_moffjerjerrod.jpg"
+}, {
+  "xws" : "k2s0",
+  "slot" : "Crew",
+  "image" : "U2e_k2so.jpg"
 }, {
   "xws" : "ezrabridger",
   "slot" : "Gunner",
