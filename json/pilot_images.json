@@ -79,10 +79,10 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieadvancedx1_vedfoslo.jpg"
 }, {
-  "shipxws" : "tieinterceptor",
+  "shipxws" : "tieininterceptor",
   "pilotxws" : "sabersquadronace",
   "faction" : "galacticempire",
-  "image" : "P2e_galacticempire_tieinterceptor_sabersquadronace.jpg"
+  "image" : "P2e_galacticempire_tieininterceptor_sabersquadronace.jpg"
 }, {
   "shipxws" : "upsilonclasscommandshuttle",
   "pilotxws" : "lieutenanttavson",
@@ -1404,10 +1404,10 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_ut60duwing_magvayarro.jpg"
 }, {
-  "shipxws" : "tieinterceptor",
+  "shipxws" : "tieininterceptor",
   "pilotxws" : "soontirfel",
   "faction" : "galacticempire",
-  "image" : "P2e_galacticempire_tieinterceptor_soontirfel.jpg"
+  "image" : "P2e_galacticempire_tieininterceptor_soontirfel.jpg"
 }, {
   "shipxws" : "t70xwing",
   "pilotxws" : "jophseastriker",
@@ -1624,10 +1624,10 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tielnfighter_academypilot.jpg"
 }, {
-  "shipxws" : "tieinterceptor",
+  "shipxws" : "tieininterceptor",
   "pilotxws" : "alphasquadronpilot",
   "faction" : "galacticempire",
-  "image" : "P2e_galacticempire_tieinterceptor_alphasquadronpilot.jpg"
+  "image" : "P2e_galacticempire_tieininterceptor_alphasquadronpilot.jpg"
 }, {
   "shipxws" : "fangfighter",
   "pilotxws" : "fennrau",
@@ -1819,10 +1819,10 @@
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_arc170starfighter_wolffe.jpg"
 }, {
-  "shipxws" : "tieinterceptor",
+  "shipxws" : "tieininterceptor",
   "pilotxws" : "turrphennir",
   "faction" : "galacticempire",
-  "image" : "P2e_galacticempire_tieinterceptor_turrphennir.jpg"
+  "image" : "P2e_galacticempire_tieininterceptor_turrphennir.jpg"
 }, {
   "shipxws" : "scavengedyt1300",
   "pilotxws" : "chewbacca-scavengedyt1300",
