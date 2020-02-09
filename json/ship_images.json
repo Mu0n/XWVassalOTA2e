@@ -144,9 +144,9 @@
   "image" : "S2e_modifiedyt1300lightfreighter.png",
   "faction" : [ "rebelalliance", "resistance" ]
 }, {
-  "xws" : "tieinterceptor",
+  "xws" : "tieininterceptor",
   "identifier" : "standard",
-  "image" : "S2e_tieinterceptor.png",
+  "image" : "S2e_tieininterceptor.png",
   "faction" : [ "galacticempire" ]
 }, {
   "xws" : "firesprayclasspatrolcraft",
