@@ -4,9 +4,9 @@
   "image" : "S2e_firesprayclasspatrolcraft-emon.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "tieinterceptor",
+  "xws" : "tieininterceptor",
   "identifier" : "sabersquadronace",
-  "image" : "S2e_tieinterceptor-181st.png",
+  "image" : "S2e_tieininterceptor-181st.png",
   "faction" : [ "galacticempire" ]
 }, {
   "xws" : "hyenaclassdroidbomber",
@@ -219,9 +219,9 @@
   "image" : "S2e_aggressorassaultfighter.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "tieinterceptor",
+  "xws" : "tieininterceptor",
   "identifier" : "turrphennir",
-  "image" : "S2e_tieinterceptor-181st.png",
+  "image" : "S2e_tieininterceptor-181st.png",
   "faction" : [ "galacticempire" ]
 }, {
   "xws" : "asf01bwing",
@@ -409,9 +409,9 @@
   "image" : "S2e_kihraxzfighter.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "tieinterceptor",
+  "xws" : "tieininterceptor",
   "identifier" : "soontirfel",
-  "image" : "S2e_tieinterceptor-181st.png",
+  "image" : "S2e_tieininterceptor-181st.png",
   "faction" : [ "galacticempire" ]
 }, {
   "xws" : "tiereaper",
