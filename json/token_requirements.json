@@ -27,7 +27,7 @@
 	{
 		"name": "calculate2e",
 		"actions": ["Calculate"],
-		"upgrades": ["000", "ig88d", "c3po", "c3po-crew","passivesensors"],
+		"upgrades": ["000", "ig88d", "c3po", "c3po-crew","passivesensors","k2so"],
 		"pilotsOrShips": ["aggressorassaultfighter","4lom","pz4co","k2so"]
 	},
 	{
@@ -69,7 +69,7 @@
 	{
 		"name": "jam2e",
 		"actions": ["Jam"],
-		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischargevanes", "jammingbeam","scimitar"],
+		"upgrades": ["sabinewren", "freelanceslicer", "seventhsister", "staticdischargevanes", "jammingbeam","scimitar","k2so"],
 		"pilotsOrShips": ["chopper","captainseevor"]
 	},
 	{
