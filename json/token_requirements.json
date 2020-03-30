@@ -1,5 +1,10 @@
 [
-
+	{
+		"name": "charge2e",
+		"actions": [],
+		"upgrades": ["deuteriumpowercells"],
+		"pilotsOrShips": []
+	},
 	{
 		"name": "shield2e",
 		"actions": [],
