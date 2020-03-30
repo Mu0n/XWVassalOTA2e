@@ -3,7 +3,7 @@
 		"name": "charge2e",
 		"actions": [],
 		"upgrades": ["deuteriumpowercells"],
-		"pilotsOrShips": []
+		"pilotsOrShips": ["coloneljendon","chewbacca"]
 	},
 	{
 		"name": "shield2e",
