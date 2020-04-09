@@ -43,7 +43,7 @@
 	},
 	{
 		"name": "ion2e",
-		"actions": [],
+		"actions": ["focus","calculate"],
 		"upgrades": ["feedbackarray","ioncannon","ioncannonturret","sabinewren","4lom","ionmissiles","blackone","iontorpedoes"],
 		"pilotsOrShips": []
 	},
@@ -79,7 +79,7 @@
 	},
 	{
 		"name": "strain2e",
-		"actions": [],
+		"actions": ["focus","calculate"],
 		"upgrades": ["treacherous", "k2b4", "dedicated", "clonecommandercody"],
 		"pilotsOrShips": ["finn","tiebainterceptor"]
 	},
