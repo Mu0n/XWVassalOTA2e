@@ -14,7 +14,7 @@
 	{
 		"name": "lock",
 		"actions": ["Lock"],
-		"upgrades": ["directorkrennic","st321"],
+		"upgrades": ["directorkrennic","st321","passivesensors","targetingcomputer"],
 		"pilotsOrShips": []
 	},
 	{
