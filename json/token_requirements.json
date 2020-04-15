@@ -39,7 +39,7 @@
 		"name": "evade2e",
 		"actions": ["Evade"],
 		"upgrades": ["jynerso", "millenniumfalcon","debrisgambit","hyperspacetrackingdata"],
-		"pilotsOrShips": ["lowhhrick","jophseastriker","tieagaggressor"]
+		"pilotsOrShips": ["lowhhrick","jophseastriker","tieagaggressor","nabooroyaln1starfighter"]
 	},
 	{
 		"name": "ion2e",
