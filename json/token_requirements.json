@@ -50,7 +50,7 @@
 	{
 		"name": "reinforce2e",
 		"actions": ["Reinforce"],
-		"upgrades": ["ministertua"],
+		"upgrades": ["ministertua","angleddeflectors"],
 		"pilotsOrShips": []
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "force2e",
 		"actions": [],
-		"upgrades": ["ezrabridger","kananjarrus","maul","lukeskywalker","seventhsister","darthvader","grandinquisitor","fifthbrother","leiaorgana-resistance","rey-gunner","kyloren","supremeleadersnoke","countdooku","chancellorpalpatine"],
+		"upgrades": [],
 		"pilotsOrShips": []
 	},
 	{
