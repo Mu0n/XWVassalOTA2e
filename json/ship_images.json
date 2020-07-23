@@ -23,6 +23,11 @@
   "identifier" : "standard",
   "image" : "S2e_tielnfighter-sabinestie.png",
   "faction" : [ "rebelalliance" ]
+},{
+  "xws" : "tielnfighter",
+  "identifier" : "standard",
+  "image" : "S2e_tielnfighter.png",
+  "faction" : [ "galacticempire" ]
 }, {
   "xws" : "btls8kwing",
   "identifier" : "mirandadoni",
@@ -378,6 +383,11 @@
   "identifier" : "standard",
   "image" : "S2e_arc170starfighter-republic.png",
   "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "arc170starfighter",
+  "identifier" : "standard",
+  "image" : "S2e_arc170starfighter.png",
+  "faction" : [ "rebelalliance" ]
 }, {
   "xws" : "m3ainterceptor",
   "identifier" : "standard",
