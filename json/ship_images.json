@@ -483,4 +483,39 @@
   "identifier" : "standard",
   "image" : "S2e_tiebainterceptor.png",
   "faction" : [ "firstorder" ]
+}, {
+  "xws" : "droidtrifighter",
+  "identifier" : "standard",
+  "image" : "S2e_droidtrifighter.png",
+  "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "eta2actis",
+  "identifier" : "standard",
+  "image" : "S2e_eta2actis.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "hmpdroidgunship",
+  "identifier" : "standard",
+  "image" : "S2e_hmpdroidgunship.png",
+  "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "laatigunship",
+  "identifier" : "standard",
+  "image" : "S2e_laatigunship.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "nimbusclassvwing",
+  "identifier" : "standard",
+  "image" : "S2e_nimbusclassvwing.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "tierbheavy",
+  "identifier" : "standard",
+  "image" : "S2e_tierbheavy.png",
+  "faction" : [ "galacticempire" ]
+}, {
+  "xws" : "xiclasslightshuttle",
+  "identifier" : "standard",
+  "image" : "S2e_xiclasslightshuttle.png",
+  "faction" : [ "firstorder" ]
 } ]
