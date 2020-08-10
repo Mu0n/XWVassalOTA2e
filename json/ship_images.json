@@ -523,5 +523,10 @@
   "identifier" : "jangofett",
   "image" : "S2e_firesprayclasspatrolcraft-jango.png",
   "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "firesprayclasspatrolcraft",
+  "identifier" : "standard",
+  "image" : "S2e_firesprayclasspatrolcraft.png",
+  "faction" : [ "separatistalliance" ]
 }
 ]
