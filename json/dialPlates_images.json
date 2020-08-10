@@ -266,5 +266,33 @@
   {
     "xws": "fireball",
     "image": "D2e_fireball.png"
+  },
+  {
+    "xws": "droidtrifighter",
+    "image": "D2e_droidtrifighter.png"
+  },
+  {
+    "xws": "eta2actis",
+    "image": "D2e_eta2actis.png"
+  },
+  {
+    "xws": "hmpdroidgunship",
+    "image": "D2e_hmpdroidgunship.png"
+  },
+  {
+    "xws": "laatigunship",
+    "image": "D2e_laatigunship.png"
+  },
+  {
+    "xws": "nimbusclassvwing",
+    "image": "D2e_nimbusclassvwing.png"
+  },
+  {
+    "xws": "tierbheavy",
+    "image": "D2e_tierbheavy.png"
+  },
+  {
+    "xws": "xiclasslightshuttle",
+    "image": "D2e_xiclasslightshuttle.png"
   }
 ]
