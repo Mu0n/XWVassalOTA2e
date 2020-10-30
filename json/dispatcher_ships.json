@@ -1,5 +1,23 @@
 [
   {
+    "xws": "tierbheavy",
+    "has_dual_base" : true,
+    "dual_base_toggle_menu_text" : "Rotating Cannons",
+    "dual_base_image_1_identifier":"front",
+    "dual_base_image_2_identifier":"back",
+    "dual_base_report_1_identifier" : "Front",
+    "dual_base_report_2_identifier" : "Back"
+  },
+  {
+    "xws": "hmpdroidgunship",
+    "has_dual_base" : true,
+    "dual_base_toggle_menu_text" : "Sideslip",
+    "dual_base_image_1_identifier":"inactive",
+    "dual_base_image_2_identifier":"active",
+    "dual_base_report_1_identifier" : "Inactive Repulsor Lift",
+    "dual_base_report_2_identifier" : "Active Repulsor Lift"
+  },
+  {
     "xws": "t65xwing",
     "has_dual_base" : true,
     "dual_base_toggle_menu_text" : "Toggle Sfoils",
