@@ -503,7 +503,7 @@
   "identifier" : "inactive",
   "image" : "S2e_hmpdroidgunship_inactive.png",
   "faction" : [ "separatistalliance" ]
-}{
+},{
   "xws" : "laatigunship",
   "identifier" : "standard",
   "image" : "S2e_laatigunship.png",
