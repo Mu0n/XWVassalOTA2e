@@ -95,6 +95,10 @@
   "slot" : "Torpedo",
   "image" : "U2e_protontorpedoes.jpg"
 }, {
+  "xws" : "r2d2-resistance",
+  "slot" : "Astromech",
+  "image" : "U2e_r2d2-resistance.jpg"
+}, {
   "xws" : "pointdefensebattery",
   "slot" : "Hardpoint",
   "image" : "U2e_pointdefensebattery.jpg"
@@ -263,13 +267,13 @@
   "slot" : "Command",
   "image" : "U2e_carlistrieekan.jpg"
 }, {
-  "xws" : "staticdischargevanes",
-  "slot" : "Modification",
-  "image" : "U2e_staticdischargevanes.jpg"
-}, {
   "xws" : "multimissilepods",
   "slot" : "Missile",
   "image" : "U2e_multimissilepods.jpg"
+}, {
+  "xws" : "staticdischargevanes",
+  "slot" : "Modification",
+  "image" : "U2e_staticdischargevanes.jpg"
 }, {
   "xws" : "ioncannonturret",
   "slot" : "Turret",
@@ -399,9 +403,17 @@
   "slot" : "Cannon",
   "image" : "U2e_heavylasercannon.jpg"
 }, {
+  "xws" : "overdrivethruster",
+  "slot" : "Modification",
+  "image" : "U2e_overdrivethruster.jpg"
+}, {
   "xws" : "dengar",
   "slot" : "Gunner",
   "image" : "U2e_dengar.jpg"
+}, {
+  "xws" : "r6d8",
+  "slot" : "Astromech",
+  "image" : "U2e_r6d8.jpg"
 }, {
   "xws" : "adaptiveshields",
   "slot" : "Cargo",
@@ -491,13 +503,13 @@
   "slot" : "Astromech",
   "image" : "U2e_r4astromech.jpg"
 }, {
-  "xws" : "requiem",
-  "slot" : "Title",
-  "image" : "U2e_requiem.jpg"
-}, {
   "xws" : "plokoon",
   "slot" : "Crew",
   "image" : "U2e_plokoon.jpg"
+}, {
+  "xws" : "requiem",
+  "slot" : "Title",
+  "image" : "U2e_requiem.jpg"
 }, {
   "xws" : "andrasta",
   "slot" : "Title",
@@ -534,6 +546,10 @@
   "xws" : "precognitivereflexes",
   "slot" : "Force Power",
   "image" : "U2e_precognitivereflexes.jpg"
+}, {
+  "xws" : "backwardstailslide",
+  "slot" : "Talent",
+  "image" : "U2e_backwardstailslide.jpg"
 }, {
   "xws" : "magvayarro",
   "slot" : "Crew",
@@ -742,6 +758,10 @@
   "xws" : "tacticalofficer",
   "slot" : "Crew",
   "image" : "U2e_tacticalofficer.jpg"
+}, {
+  "xws" : "ionlimiteroverride",
+  "slot" : "Talent",
+  "image" : "U2e_ionlimiteroverride.jpg"
 }, {
   "xws" : "informant",
   "slot" : "Crew",
@@ -1035,6 +1055,10 @@
   "slot" : "Talent",
   "image" : "U2e_graviticdeflection.jpg"
 }, {
+  "xws" : "starbirdslash",
+  "slot" : "Talent",
+  "image" : "U2e_starbirdslash.jpg"
+}, {
   "xws" : "admiralozzel",
   "slot" : "Command",
   "image" : "U2e_admiralozzel.jpg"
@@ -1235,6 +1259,10 @@
   "slot" : "Configuration",
   "image" : "U2e_landingstruts.jpg"
 }, {
+  "xws" : "maneuverassistmgk300",
+  "slot" : "Configuration",
+  "image" : "U2e_maneuverassistmgk300.jpg"
+}, {
   "xws" : "advancedsensors",
   "slot" : "Sensor",
   "image" : "U2e_advancedsensors.jpg"
@@ -1262,6 +1290,10 @@
   "xws" : "jandodonna",
   "slot" : "Command",
   "image" : "U2e_jandodonna.jpg"
+}, {
+  "xws" : "underslungblastercannon",
+  "slot" : "Cannon",
+  "image" : "U2e_underslungblastercannon.jpg"
 }, {
   "xws" : "targetingbattery",
   "slot" : "Hardpoint",
@@ -1382,6 +1414,10 @@
   "xws" : "bbastromech",
   "slot" : "Astromech",
   "image" : "U2e_bbastromech.jpg"
+}, {
+  "xws" : "targetassistmgk300",
+  "slot" : "Configuration",
+  "image" : "U2e_targetassistmgk300.jpg"
 }, {
   "xws" : "zuckuss",
   "slot" : "Crew",
