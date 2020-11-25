@@ -34,4 +34,16 @@
   "xws" : "itstheresistance",
   "image" : "C2e_itstheresistance.jpg",
   "tokenimage" : "CT2e_itstheresistance.png"
+}, {
+  "xws" : "youshouldthankme",
+  "image" : "C2e_youshouldthankme.jpg",
+  "tokenimage" : "CT2e_youshouldthankme.png"
+}, {
+  "xws" : "youdbettermeanbusiness",
+  "image" : "C2e_youdbettermeanbusiness.jpg",
+  "tokenimage" : "CT2e_youdbettermeanbusiness.png"
+}, {
+  "xws" : "fearfulprey",
+  "image" : "C2e_fearfulprey.jpg",
+  "tokenimage" : "CT2e_fearfulprey.png"
 } ]
