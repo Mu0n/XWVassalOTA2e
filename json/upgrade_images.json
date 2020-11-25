@@ -15,6 +15,10 @@
   "slot" : "Modification",
   "image" : "U2e_stealthdevice.jpg"
 }, {
+  "xws" : "slavei-swz82",
+  "slot" : "Title",
+  "image" : "U2e_slavei-swz82.jpg"
+}, {
   "xws" : "leiaorgana-resistance",
   "slot" : "Crew",
   "image" : "U2e_leiaorgana-resistance.jpg"
@@ -79,6 +83,10 @@
   "slot" : "Gunner",
   "image" : "U2e_rey-gunner.jpg"
 }, {
+  "xws" : "precisionionengines",
+  "slot" : "Modification",
+  "image" : "U2e_precisionionengines.jpg"
+}, {
   "xws" : "grandinquisitor",
   "slot" : "Crew",
   "image" : "U2e_grandinquisitor.jpg"
@@ -86,6 +94,14 @@
   "xws" : "discordmissiles",
   "slot" : "Missile",
   "image" : "U2e_discordmissiles.jpg"
+}, {
+  "xws" : "thermaldetonators",
+  "slot" : "Device",
+  "image" : "U2e_thermaldetonators.jpg"
+}, {
+  "xws" : "falsetranspondercodes",
+  "slot" : "Illicit",
+  "image" : "U2e_falsetranspondercodes.jpg"
 }, {
   "xws" : "kitfisto",
   "slot" : "Crew",
@@ -142,6 +158,10 @@
   "xws" : "afterburners",
   "slot" : "Modification",
   "image" : "U2e_afterburners.jpg"
+}, {
+  "xws" : "independentcalculations",
+  "slot" : "Modification",
+  "image" : "U2e_independentcalculations.jpg"
 }, {
   "xws" : "captainphasma",
   "slot" : "Crew",
@@ -227,6 +247,10 @@
   "slot" : "Gunner",
   "image" : "U2e_ahsokatano.jpg"
 }, {
+  "xws" : "xx23sthreadtracers",
+  "slot" : "Missile",
+  "image" : "U2e_xx23sthreadtracers.jpg"
+}, {
   "xws" : "stabilizedsfoils",
   "slot" : "Configuration",
   "image" : "U2e_stabilizedsfoils.jpg"
@@ -274,6 +298,10 @@
   "xws" : "staticdischargevanes",
   "slot" : "Modification",
   "image" : "U2e_staticdischargevanes.jpg"
+}, {
+  "xws" : "r7a7",
+  "slot" : "Astromech",
+  "image" : "U2e_r7a7.jpg"
 }, {
   "xws" : "ioncannonturret",
   "slot" : "Turret",
@@ -375,6 +403,10 @@
   "slot" : "Missile",
   "image" : "U2e_barragerockets.jpg"
 }, {
+  "xws" : "q7astromech",
+  "slot" : "Astromech",
+  "image" : "U2e_q7astromech.jpg"
+}, {
   "xws" : "veteranturretgunner",
   "slot" : "Gunner",
   "image" : "U2e_veteranturretgunner.jpg"
@@ -395,9 +427,17 @@
   "slot" : "Crew",
   "image" : "U2e_chewbacca-crew.jpg"
 }, {
+  "xws" : "jangofett",
+  "slot" : "Crew",
+  "image" : "U2e_jangofett.jpg"
+}, {
   "xws" : "brighthope",
   "slot" : "Title",
   "image" : "U2e_brighthope.jpg"
+}, {
+  "xws" : "patience",
+  "slot" : "Force Power",
+  "image" : "U2e_patience.jpg"
 }, {
   "xws" : "heavylasercannon",
   "slot" : "Cannon",
@@ -470,6 +510,10 @@
   "xws" : "experthandling",
   "slot" : "Talent",
   "image" : "U2e_experthandling.jpg"
+}, {
+  "xws" : "alpha3eesk",
+  "slot" : "Configuration",
+  "image" : "U2e_alpha3eesk.jpg"
 }, {
   "xws" : "instigator",
   "slot" : "Title",
@@ -611,6 +655,10 @@
   "slot" : "Crew",
   "image" : "U2e_gnkgonkdroid.jpg"
 }, {
+  "xws" : "weaponssystemsofficer",
+  "slot" : "Gunner",
+  "image" : "U2e_weaponssystemsofficer.jpg"
+}, {
   "xws" : "ghost",
   "slot" : "Title",
   "image" : "U2e_ghost.jpg"
@@ -750,6 +798,10 @@
   "xws" : "agentterex",
   "slot" : "Crew",
   "image" : "U2e_agentterex.jpg"
+}, {
+  "xws" : "alpha3bbesh",
+  "slot" : "Configuration",
+  "image" : "U2e_alpha3bbesh.jpg"
 }, {
   "xws" : "cikatrovizago",
   "slot" : "Crew",
@@ -911,6 +963,14 @@
   "slot" : "Talent",
   "image" : "U2e_marksmanship.jpg"
 }, {
+  "xws" : "interceptbooster",
+  "slot" : "Configuration",
+  "image" : "U2e_interceptbooster_back.jpg"
+}, {
+  "xws" : "interceptbooster",
+  "slot" : "Configuration",
+  "image" : "U2e_interceptbooster.jpg"
+}, {
   "xws" : "fearless",
   "slot" : "Talent",
   "image" : "U2e_fearless.jpg"
@@ -971,9 +1031,17 @@
   "slot" : "Modification",
   "image" : "U2e_sparepartscanisters.jpg"
 }, {
+  "xws" : "zamwesell",
+  "slot" : "Crew",
+  "image" : "U2e_zamwesell.jpg"
+}, {
   "xws" : "phantom",
   "slot" : "Title",
   "image" : "U2e_phantom.jpg"
+}, {
+  "xws" : "hondoohnaka",
+  "slot" : "Crew",
+  "image" : "U2e_hondoohnaka.jpg"
 }, {
   "xws" : "jammingbeam",
   "slot" : "Cannon",
@@ -1035,9 +1103,17 @@
   "slot" : "Crew",
   "image" : "U2e_chewbacca-crew-swz19.jpg"
 }, {
+  "xws" : "bobafett-gunner",
+  "slot" : "Gunner",
+  "image" : "U2e_bobafett-gunner.jpg"
+}, {
   "xws" : "delayedfuses",
   "slot" : "Modification",
   "image" : "U2e_delayedfuses.jpg"
+}, {
+  "xws" : "margsablclosure",
+  "slot" : "Talent",
+  "image" : "U2e_margsablclosure.jpg"
 }, {
   "xws" : "deathtroopers",
   "slot" : "Crew",
@@ -1323,6 +1399,10 @@
   "slot" : "Modification",
   "image" : "U2e_engineupgrade.jpg"
 }, {
+  "xws" : "extrememaneuvers",
+  "slot" : "Force Power",
+  "image" : "U2e_extrememaneuvers.jpg"
+}, {
   "xws" : "boostedscanners",
   "slot" : "Cargo",
   "image" : "U2e_boostedscanners.jpg"
@@ -1406,6 +1486,10 @@
   "xws" : "ioncannon",
   "slot" : "Cannon",
   "image" : "U2e_ioncannon.jpg"
+}, {
+  "xws" : "r2d2-republic",
+  "slot" : "Astromech",
+  "image" : "U2e_r2d2-republic.jpg"
 }, {
   "xws" : "hansolo-crew",
   "slot" : "Crew",
