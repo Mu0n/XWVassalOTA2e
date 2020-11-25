@@ -29,6 +29,11 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_t65xwing_lukeskywalker.jpg"
 }, {
+  "shipxws" : "nimbusclassvwing",
+  "pilotxws" : "shadowsquadronescort",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nimbusclassvwing_shadowsquadronescort.jpg"
+}, {
   "shipxws" : "rz2awing",
   "pilotxws" : "greersonnel",
   "faction" : "resistance",
@@ -93,6 +98,11 @@
   "pilotxws" : "212thbattalionpilot",
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_laatigunship_212thbattalionpilot.jpg"
+}, {
+  "shipxws" : "eta2actis",
+  "pilotxws" : "anakinskywalker-eta2actis",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_eta2actis_anakinskywalker-eta2actis.jpg"
 }, {
   "shipxws" : "rz2awing",
   "pilotxws" : "ronithblario",
@@ -239,10 +249,20 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiecapunisher_redline.jpg"
 }, {
+  "shipxws" : "firesprayclasspatrolcraft",
+  "pilotxws" : "jangofett",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_firesprayclasspatrolcraft_jangofett.jpg"
+}, {
   "shipxws" : "v19torrentstarfighter",
   "pilotxws" : "kickback",
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_v19torrentstarfighter_kickback.jpg"
+}, {
+  "shipxws" : "eta2actis",
+  "pilotxws" : "shaakti",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_eta2actis_shaakti.jpg"
 }, {
   "shipxws" : "tiefofighter",
   "pilotxws" : "static",
@@ -489,6 +509,11 @@
   "faction" : "separatistalliance",
   "image" : "P2e_separatistalliance_vultureclassdroidfighter_tradefederationdrone.jpg"
 }, {
+  "shipxws" : "droidtrifighter",
+  "pilotxws" : "colicoidinterceptor",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_droidtrifighter_colicoidinterceptor.jpg"
+}, {
   "shipxws" : "belbullab22starfighter",
   "pilotxws" : "generalgrievous",
   "faction" : "separatistalliance",
@@ -508,6 +533,11 @@
   "pilotxws" : "resistancesympathizer",
   "faction" : "resistance",
   "image" : "P2e_resistance_scavengedyt1300_resistancesympathizer.jpg"
+}, {
+  "shipxws" : "eta2actis",
+  "pilotxws" : "jedigeneral",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_eta2actis_jedigeneral.jpg"
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "valenrudor",
@@ -553,6 +583,11 @@
   "pilotxws" : "tallissanlintra",
   "faction" : "resistance",
   "image" : "P2e_resistance_rz2awing_tallissanlintra.jpg"
+}, {
+  "shipxws" : "t70xwing",
+  "pilotxws" : "nimichireen",
+  "faction" : "resistance",
+  "image" : "P2e_resistance_t70xwing_nimichireen.jpg"
 }, {
   "shipxws" : "mg100starfortress",
   "pilotxws" : "cobaltsquadronbomber",
@@ -613,6 +648,16 @@
   "pilotxws" : "lulolampar",
   "faction" : "resistance",
   "image" : "P2e_resistance_rz2awing_lulolampar.jpg"
+}, {
+  "shipxws" : "droidtrifighter",
+  "pilotxws" : "fearsomepredator",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_droidtrifighter_fearsomepredator.jpg"
+}, {
+  "shipxws" : "eta2actis",
+  "pilotxws" : "obiwankenobi-eta2actis",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_eta2actis_obiwankenobi-eta2actis.jpg"
 }, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "captainseevor",
@@ -1099,6 +1144,11 @@
   "faction" : "separatistalliance",
   "image" : "P2e_separatistalliance_sithinfiltrator_darthmaul.jpg"
 }, {
+  "shipxws" : "droidtrifighter",
+  "pilotxws" : "dis347",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_droidtrifighter_dis347.jpg"
+}, {
   "shipxws" : "tiephphantom",
   "pilotxws" : "echo",
   "faction" : "galacticempire",
@@ -1164,6 +1214,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiereaper_scarifbasepilot.jpg"
 }, {
+  "shipxws" : "droidtrifighter",
+  "pilotxws" : "separatistinterceptor",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_droidtrifighter_separatistinterceptor.jpg"
+}, {
   "shipxws" : "btla4ywing",
   "pilotxws" : "crymorahgoon",
   "faction" : "scumandvillainy",
@@ -1184,6 +1239,11 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_upsilonclasscommandshuttle_captaincardinal.jpg"
 }, {
+  "shipxws" : "eta2actis",
+  "pilotxws" : "yoda",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_eta2actis_yoda.jpg"
+}, {
   "shipxws" : "t70xwing",
   "pilotxws" : "elloasty",
   "faction" : "resistance",
@@ -1198,6 +1258,11 @@
   "pilotxws" : "darkcourier",
   "faction" : "separatistalliance",
   "image" : "P2e_separatistalliance_sithinfiltrator_darkcourier.jpg"
+}, {
+  "shipxws" : "eta2actis",
+  "pilotxws" : "aaylasecura-eta2actis",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_eta2actis_aaylasecura-eta2actis.jpg"
 }, {
   "shipxws" : "lancerclasspursuitcraft",
   "pilotxws" : "asajjventress",
@@ -1254,6 +1319,11 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_ewing_roguesquadronescort.jpg"
 }, {
+  "shipxws" : "firesprayclasspatrolcraft",
+  "pilotxws" : "separatistracketeer",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_firesprayclasspatrolcraft_separatistracketeer.jpg"
+}, {
   "shipxws" : "m3ainterceptor",
   "pilotxws" : "sunnybounder",
   "faction" : "scumandvillainy",
@@ -1273,6 +1343,11 @@
   "pilotxws" : "roarkgarnet",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_hwk290lightfreighter_roarkgarnet.jpg"
+}, {
+  "shipxws" : "nimbusclassvwing",
+  "pilotxws" : "oddball-nimbusclassvwing",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nimbusclassvwing_oddball-nimbusclassvwing.jpg"
 }, {
   "shipxws" : "mg100starfortress",
   "pilotxws" : "benteene",
@@ -1318,6 +1393,11 @@
   "pilotxws" : "r2d2",
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_btlbywing_r2d2.jpg"
+}, {
+  "shipxws" : "nimbusclassvwing",
+  "pilotxws" : "wilhufftarkin",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nimbusclassvwing_wilhufftarkin.jpg"
 }, {
   "shipxws" : "z95af4headhunter",
   "pilotxws" : "nashtahpup",
@@ -1438,6 +1518,11 @@
   "pilotxws" : "nodinchavdri",
   "faction" : "resistance",
   "image" : "P2e_resistance_resistancetransport_nodinchavdri.jpg"
+}, {
+  "shipxws" : "nimbusclassvwing",
+  "pilotxws" : "loyalistvolunteer",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nimbusclassvwing_loyalistvolunteer.jpg"
 }, {
   "shipxws" : "delta7aethersprite",
   "pilotxws" : "obiwankenobi",
@@ -1584,6 +1669,11 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_escapecraft_autopilotdrone.jpg"
 }, {
+  "shipxws" : "firesprayclasspatrolcraft",
+  "pilotxws" : "zamwesell",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_firesprayclasspatrolcraft_zamwesell.jpg"
+}, {
   "shipxws" : "t65xwing",
   "pilotxws" : "leevantenza",
   "faction" : "rebelalliance",
@@ -1633,6 +1723,11 @@
   "pilotxws" : "majorstridan",
   "faction" : "firstorder",
   "image" : "P2e_firstorder_upsilonclasscommandshuttle_majorstridan.jpg"
+}, {
+  "shipxws" : "droidtrifighter",
+  "pilotxws" : "phlacarphoccprototype",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_droidtrifighter_phlacarphoccprototype.jpg"
 }, {
   "shipxws" : "tiefofighter",
   "pilotxws" : "longshot",
@@ -1784,11 +1879,6 @@
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tiesffighter_zetasquadronsurvivor.jpg"
 }, {
-  "shipxws" : "t70xwing",
-  "pilotxws" : "nimichereen",
-  "faction" : "resistance",
-  "image" : "P2e_resistance_t70xwing_nimichereen.jpg"
-}, {
   "shipxws" : "sithinfiltrator",
   "pilotxws" : "countdooku",
   "faction" : "separatistalliance",
@@ -1849,10 +1939,20 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_auzituckgunship_wullffwarro.jpg"
 }, {
+  "shipxws" : "nimbusclassvwing",
+  "pilotxws" : "klick",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nimbusclassvwing_klick.jpg"
+}, {
   "shipxws" : "v19torrentstarfighter",
   "pilotxws" : "oddball",
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_v19torrentstarfighter_oddball.jpg"
+}, {
+  "shipxws" : "firesprayclasspatrolcraft",
+  "pilotxws" : "bobafett-separatist",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_firesprayclasspatrolcraft_bobafett-separatist.jpg"
 }, {
   "shipxws" : "starviperclassattackplatform",
   "pilotxws" : "guri",
@@ -1918,6 +2018,11 @@
   "pilotxws" : "herasyndulla",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_attackshuttle_herasyndulla.jpg"
+}, {
+  "shipxws" : "droidtrifighter",
+  "pilotxws" : "dist81",
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_droidtrifighter_dist81.jpg"
 }, {
   "shipxws" : "arc170starfighter",
   "pilotxws" : "garvendreis",
@@ -2043,6 +2148,11 @@
   "pilotxws" : "rush",
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tievnsilencer_rush.jpg"
+}, {
+  "shipxws" : "nimbusclassvwing",
+  "pilotxws" : "contrail",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nimbusclassvwing_contrail.jpg"
 }, {
   "shipxws" : "alphaclassstarwing",
   "pilotxws" : "majorvynder",
