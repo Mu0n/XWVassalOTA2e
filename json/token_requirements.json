@@ -86,7 +86,7 @@
 	{
 		"name": "deplete2e",
 		"actions": [],
-		"upgrades": ["magpulsewarheads"],
+		"upgrades": ["magpulsewarheads","suppressivegunner"],
 		"pilotsOrShips": ["tiebainterceptor"]
 	},
 	{
