@@ -1260,9 +1260,9 @@
   "image" : "P2e_separatistalliance_sithinfiltrator_darkcourier.jpg"
 }, {
   "shipxws" : "eta2actis",
-  "pilotxws" : "aaylasecura-eta2actis",
+  "pilotxws" : "aaylasecura",
   "faction" : "galacticrepublic",
-  "image" : "P2e_galacticrepublic_eta2actis_aaylasecura-eta2actis.jpg"
+  "image" : "P2e_galacticrepublic_eta2actis_aaylasecura.jpg"
 }, {
   "shipxws" : "lancerclasspursuitcraft",
   "pilotxws" : "asajjventress",
