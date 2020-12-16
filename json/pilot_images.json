@@ -1950,9 +1950,9 @@
   "image" : "P2e_galacticrepublic_v19torrentstarfighter_oddball.jpg"
 }, {
   "shipxws" : "firesprayclasspatrolcraft",
-  "pilotxws" : "bobafett-separatist",
+  "pilotxws" : "bobafett-separatistalliance",
   "faction" : "separatistalliance",
-  "image" : "P2e_separatistalliance_firesprayclasspatrolcraft_bobafett-separatist.jpg"
+  "image" : "P2e_separatistalliance_firesprayclasspatrolcraft_bobafett-separatistalliance.jpg"
 }, {
   "shipxws" : "starviperclassattackplatform",
   "pilotxws" : "guri",
