@@ -32,7 +32,7 @@
 	{
 		"name": "calculate2e",
 		"actions": ["Calculate"],
-		"upgrades": ["000", "ig88d", "c3po", "c3po-crew","passivesensors","k2so"],
+		"upgrades": ["000", "ig88d", "c3po", "c3po-crew","passivesensors","k2so","automatedtargetpriority"],
 		"pilotsOrShips": ["aggressorassaultfighter","4lom","pz4co","k2so"]
 	},
 	{
