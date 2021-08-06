@@ -46,7 +46,7 @@
 }, {
   "xws" : "tiewiwhispermodifiedinterceptor",
   "identifier" : "standard",
-  "image" : "",
+  "image" : "S2e_tiewiwhispermodifiedinterceptor.png",
   "faction" : [ "firstorder" ]
 }, {
   "xws" : "t65xwing",
@@ -241,7 +241,7 @@
 }, {
   "xws" : "btanr2ywing",
   "identifier" : "standard",
-  "image" : "",
+  "image" : "S2e_btanr2ywing.png",
   "faction" : [ "resistance" ]
 }, {
   "xws" : "attackshuttle",
@@ -462,11 +462,11 @@
   "xws" : "alphaclassstarwing",
   "identifier" : "standard",
   "image" : "S2e_alphaclassstarwing.png",
-  "faction" : [ "galacticempire" ]
+  "faction" : [ "galacticempire" ]w
 }, {
   "xws" : "tiesebomber",
   "identifier" : "standard",
-  "image" : "",
+  "image" : "S2e_tiesebomber.png",
   "faction" : [ "firstorder" ]
 }, {
   "xws" : "m3ainterceptor",
