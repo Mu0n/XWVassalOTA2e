@@ -15,6 +15,10 @@
   "slot" : "Configuration",
   "image" : "U2e_grapplingstruts_back.jpg"
 }, {
+  "xws" : "enhancedjammingsuite",
+  "slot" : "Configuration",
+  "image" : "U2e_enhancedjammingsuite.jpg"
+}, {
   "xws" : "4lom",
   "slot" : "Crew",
   "image" : "U2e_4lom.jpg"
@@ -63,13 +67,13 @@
   "slot" : "Sensor",
   "image" : "U2e_trajectorysimulator.jpg"
 }, {
-  "xws" : "protonrockets",
-  "slot" : "Missile",
-  "image" : "U2e_protonrockets.jpg"
-}, {
   "xws" : "agentoftheempire",
   "slot" : "Command",
   "image" : "U2e_agentoftheempire.jpg"
+}, {
+  "xws" : "protonrockets",
+  "slot" : "Missile",
+  "image" : "U2e_protonrockets.jpg"
 }, {
   "xws" : "fives",
   "slot" : "Crew",
@@ -158,6 +162,10 @@
   "xws" : "advprotontorpedoes",
   "slot" : "Torpedo",
   "image" : "U2e_advprotontorpedoes.jpg"
+}, {
+  "xws" : "dt798",
+  "slot" : "Gunner",
+  "image" : "U2e_dt798.jpg"
 }, {
   "xws" : "darthvader",
   "slot" : "Crew",
@@ -263,6 +271,10 @@
   "slot" : "Missile",
   "image" : "U2e_homingmissiles.jpg"
 }, {
+  "xws" : "overtunedmodulators",
+  "slot" : "Illicit",
+  "image" : "U2e_overtunedmodulators.jpg"
+}, {
   "xws" : "commanderpyre",
   "slot" : "Crew",
   "image" : "U2e_commanderpyre.jpg"
@@ -327,13 +339,13 @@
   "slot" : "Crew",
   "image" : "U2e_bobafett.jpg"
 }, {
-  "xws" : "deuteriumpowercells",
-  "slot" : "Tech",
-  "image" : "U2e_deuteriumpowercells.jpg"
-}, {
   "xws" : "torynfarr",
   "slot" : "Crew",
   "image" : "U2e_torynfarr.jpg"
+}, {
+  "xws" : "deuteriumpowercells",
+  "slot" : "Tech",
+  "image" : "U2e_deuteriumpowercells.jpg"
 }, {
   "xws" : "turbolaserbattery",
   "slot" : "Hardpoint",
@@ -587,6 +599,10 @@
   "slot" : "Device",
   "image" : "U2e_electroprotonbomb.jpg"
 }, {
+  "xws" : "sensorscramblers",
+  "slot" : "Tech",
+  "image" : "U2e_sensorscramblers.jpg"
+}, {
   "xws" : "slavei",
   "slot" : "Title",
   "image" : "U2e_slavei.jpg"
@@ -683,13 +699,13 @@
   "slot" : "Title",
   "image" : "U2e_kazsfireball.jpg"
 }, {
-  "xws" : "engineupgrade",
-  "slot" : "Modification",
-  "image" : "U2e_engineupgrade.jpg"
-}, {
   "xws" : "pointdefensebattery",
   "slot" : "Hardpoint",
   "image" : "U2e_pointdefensebattery_back.jpg"
+}, {
+  "xws" : "engineupgrade",
+  "slot" : "Modification",
+  "image" : "U2e_engineupgrade.jpg"
 }, {
   "xws" : "boostedscanners",
   "slot" : "Cargo",
@@ -786,6 +802,10 @@
   "xws" : "r4b11",
   "slot" : "Astromech",
   "image" : "U2e_r4b11.jpg"
+}, {
+  "xws" : "watchfulastromech",
+  "slot" : "Astromech",
+  "image" : "U2e_watchfulastromech.jpg"
 }, {
   "xws" : "vectoredcannonsrz1",
   "slot" : "Configuration",
@@ -1131,13 +1151,13 @@
   "slot" : "Talent",
   "image" : "U2e_deadeyeshot.jpg"
 }, {
-  "xws" : "munitionsfailsafe",
-  "slot" : "Modification",
-  "image" : "U2e_munitionsfailsafe.jpg"
-}, {
   "xws" : "ordnancetubes",
   "slot" : "Hardpoint",
   "image" : "U2e_ordnancetubes.jpg"
+}, {
+  "xws" : "munitionsfailsafe",
+  "slot" : "Modification",
+  "image" : "U2e_munitionsfailsafe.jpg"
 }, {
   "xws" : "ordnancetubes",
   "slot" : "Hardpoint",
@@ -1275,13 +1295,13 @@
   "slot" : "Crew",
   "image" : "U2e_grandmofftarkin.jpg"
 }, {
-  "xws" : "snapshot",
-  "slot" : "Talent",
-  "image" : "U2e_snapshot.jpg"
-}, {
   "xws" : "strategiccommander",
   "slot" : "Command",
   "image" : "U2e_strategiccommander.jpg"
+}, {
+  "xws" : "snapshot",
+  "slot" : "Talent",
+  "image" : "U2e_snapshot.jpg"
 }, {
   "xws" : "patternanalyzer",
   "slot" : "Tech",
@@ -1347,6 +1367,10 @@
   "slot" : "Crew",
   "image" : "U2e_hondoohnaka.jpg"
 }, {
+  "xws" : "l4er5",
+  "slot" : "Astromech",
+  "image" : "U2e_l4er5.jpg"
+}, {
   "xws" : "advancedslam",
   "slot" : "Modification",
   "image" : "U2e_advancedslam.jpg"
@@ -1355,13 +1379,13 @@
   "slot" : "Talent",
   "image" : "U2e_predator.jpg"
 }, {
-  "xws" : "scimitar",
-  "slot" : "Title",
-  "image" : "U2e_scimitar.jpg"
-}, {
   "xws" : "captainneeda",
   "slot" : "Command",
   "image" : "U2e_captainneeda.jpg"
+}, {
+  "xws" : "scimitar",
+  "slot" : "Title",
+  "image" : "U2e_scimitar.jpg"
 }, {
   "xws" : "k2so",
   "slot" : "Crew",
@@ -1370,6 +1394,10 @@
   "xws" : "saturationsalvo",
   "slot" : "Talent",
   "image" : "U2e_saturationsalvo.jpg"
+}, {
+  "xws" : "feedbackping",
+  "slot" : "Talent",
+  "image" : "U2e_feedbackping.jpg"
 }, {
   "xws" : "cassianandor",
   "slot" : "Crew",
@@ -1386,6 +1414,10 @@
   "xws" : "delayedfuses",
   "slot" : "Modification",
   "image" : "U2e_delayedfuses.jpg"
+}, {
+  "xws" : "wartimeloadout",
+  "slot" : "Configuration",
+  "image" : "U2e_wartimeloadout.jpg"
 }, {
   "xws" : "margsablclosure",
   "slot" : "Talent",
