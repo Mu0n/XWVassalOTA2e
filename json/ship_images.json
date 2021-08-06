@@ -462,7 +462,7 @@
   "xws" : "alphaclassstarwing",
   "identifier" : "standard",
   "image" : "S2e_alphaclassstarwing.png",
-  "faction" : [ "galacticempire" ]w
+  "faction" : [ "galacticempire" ]
 }, {
   "xws" : "tiesebomber",
   "identifier" : "standard",
