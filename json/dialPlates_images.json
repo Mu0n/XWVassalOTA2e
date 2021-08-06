@@ -294,5 +294,17 @@
   {
     "xws": "xiclasslightshuttle",
     "image": "D2e_xiclasslightshuttle.png"
-  }
+  },
+  {
+    "xws": "btanr2ywing",
+    "image": "D2e_btanr2ywing.png"
+  },
+  {
+    "xws": "tiesebomber",
+    "image": "D2e_tiesebomber.png"
+  },
+  {
+    "xws": "tiewiwhispermodifiedinterceptor",
+    "image": "D2e_tiewiwhispermodifiedinterceptor.png"
+  }  
 ]
