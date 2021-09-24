@@ -31,6 +31,10 @@
   "slot" : "Configuration",
   "image" : "U2e_grapplingstruts.jpg"
 }, {
+  "xws" : "shatteringshot",
+  "slot" : "Force Power",
+  "image" : "U2e_shatteringshot.jpg"
+}, {
   "xws" : "rey-gunner",
   "slot" : "Gunner",
   "image" : "U2e_rey-gunner.jpg"
@@ -234,6 +238,10 @@
   "xws" : "gamutkey",
   "slot" : "Crew",
   "image" : "U2e_gamutkey.jpg"
+}, {
+  "xws" : "firstorderordnancetech",
+  "slot" : "Gunner",
+  "image" : "U2e_firstorderordnancetech.jpg"
 }, {
   "xws" : "deadmansswitch",
   "slot" : "Illicit",
@@ -771,6 +779,10 @@
   "slot" : "Crew",
   "image" : "U2e_commandermalarus_back.jpg"
 }, {
+  "xws" : "compassion",
+  "slot" : "Force Power",
+  "image" : "U2e_compassion.jpg"
+}, {
   "xws" : "advancedoptics",
   "slot" : "Tech",
   "image" : "U2e_advancedoptics.jpg"
@@ -1099,6 +1111,10 @@
   "slot" : "Cannon",
   "image" : "U2e_autoblasters.jpg"
 }, {
+  "xws" : "electrochaffmissiles",
+  "slot" : "Missile",
+  "image" : "U2e_electrochaffmissiles.jpg"
+}, {
   "xws" : "backwardstailslide",
   "slot" : "Talent",
   "image" : "U2e_backwardstailslide.jpg"
@@ -1206,6 +1222,10 @@
   "xws" : "larmadacy",
   "slot" : "Crew",
   "image" : "U2e_larmadacy.jpg"
+}, {
+  "xws" : "malice",
+  "slot" : "Force Power",
+  "image" : "U2e_malice.jpg"
 }, {
   "xws" : "seventhsister",
   "slot" : "Crew",
@@ -1366,6 +1386,10 @@
   "xws" : "hondoohnaka",
   "slot" : "Crew",
   "image" : "U2e_hondoohnaka.jpg"
+}, {
+  "xws" : "babufrik",
+  "slot" : "Illicit",
+  "image" : "U2e_babufrik.jpg"
 }, {
   "xws" : "l4er5",
   "slot" : "Astromech",
