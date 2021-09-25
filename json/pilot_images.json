@@ -269,15 +269,15 @@
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_cr90corelliancorvette_republicjudiciary.jpg"
 }, {
-  "shipxws" : "nabooroyaln1starfighter",
-  "pilotxws" : "naboohandmaiden",
-  "faction" : "galacticrepublic",
-  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_naboohandmaiden.jpg"
-}, {
   "shipxws" : "tiewiwhispermodifiedinterceptor",
   "pilotxws" : "whirlwind",
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tiewiwhispermodifiedinterceptor_whirlwind.jpg"
+}, {
+  "shipxws" : "nabooroyaln1starfighter",
+  "pilotxws" : "naboohandmaiden",
+  "faction" : "galacticrepublic",
+  "image" : "P2e_galacticrepublic_nabooroyaln1starfighter_naboohandmaiden.jpg"
 }, {
   "shipxws" : "modifiedtielnfighter",
   "pilotxws" : "ahhav",
