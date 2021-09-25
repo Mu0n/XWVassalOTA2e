@@ -92,7 +92,7 @@
 	{
 		"name": "fuse2e",
 		"actions": [],
-		"upgrades": ["electroprotonbomb", "delayedfuses"],
+		"upgrades": ["electroprotonbomb", "delayedfuses","electrochaffmissiles"],
 		"pilotsOrShips": []
 	},
 	{
