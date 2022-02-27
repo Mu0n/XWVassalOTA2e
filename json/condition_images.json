@@ -7,43 +7,47 @@
   "image" : "C2e_optimizedprototype.jpg",
   "tokenimage" : "CT2e_optimizedprototype.png"
 }, {
-  "xws" : "illshowyouthedarkside",
-  "image" : "C2e_illshowyouthedarkside.jpg",
-  "tokenimage" : "CT2e_illshowyouthedarkside.png"
-}, {
-  "xws" : "rattled",
-  "image" : "C2e_rattled.jpg",
-  "tokenimage" : "CT2e_rattled.png"
-}, {
-  "xws" : "listeningdevice",
-  "image" : "C2e_listeningdevice.jpg",
-  "tokenimage" : "CT2e_listeningdevice.png"
-}, {
-  "xws" : "hunted",
-  "image" : "C2e_hunted.jpg",
-  "tokenimage" : "CT2e_hunted.png"
-}, {
-  "xws" : "compromisingintel",
-  "image" : "C2e_compromisingintel.jpg",
-  "tokenimage" : "CT2e_compromisingintel.png"
-}, {
   "xws" : "decoyed",
   "image" : "C2e_decoyed.jpg",
   "tokenimage" : "CT2e_decoyed.png"
 }, {
-  "xws" : "itstheresistance",
-  "image" : "C2e_itstheresistance.jpg",
-  "tokenimage" : "CT2e_itstheresistance.png"
+  "xws" : "illshowyouthedarkside",
+  "image" : "C2e_illshowyouthedarkside.jpg",
+  "tokenimage" : "CT2e_illshowyouthedarkside.png"
 }, {
   "xws" : "youshouldthankme",
   "image" : "C2e_youshouldthankme.jpg",
   "tokenimage" : "CT2e_youshouldthankme.png"
 }, {
-  "xws" : "youdbettermeanbusiness",
-  "image" : "C2e_youdbettermeanbusiness.jpg",
-  "tokenimage" : "CT2e_youdbettermeanbusiness.png"
+  "xws" : "hunted",
+  "image" : "C2e_hunted.jpg",
+  "tokenimage" : "CT2e_hunted.png"
 }, {
   "xws" : "fearfulprey",
   "image" : "C2e_fearfulprey.jpg",
   "tokenimage" : "CT2e_fearfulprey.png"
+}, {
+  "xws" : "falsefriend",
+  "image" : "C2e_falsefriend.jpg",
+  "tokenimage" : "CT2e_falsefriend.jpg"
+}, {
+  "xws" : "compromisingintel",
+  "image" : "C2e_compromisingintel.jpg",
+  "tokenimage" : "CT2e_compromisingintel.png"
+}, {
+  "xws" : "rattled",
+  "image" : "C2e_rattled.jpg",
+  "tokenimage" : "CT2e_rattled.png"
+}, {
+  "xws" : "youdbettermeanbusiness",
+  "image" : "C2e_youdbettermeanbusiness.jpg",
+  "tokenimage" : "CT2e_youdbettermeanbusiness.png"
+}, {
+  "xws" : "listeningdevice",
+  "image" : "C2e_listeningdevice.jpg",
+  "tokenimage" : "CT2e_listeningdevice.png"
+}, {
+  "xws" : "itstheresistance",
+  "image" : "C2e_itstheresistance.jpg",
+  "tokenimage" : "CT2e_itstheresistance.png"
 } ]
