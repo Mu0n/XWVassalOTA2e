@@ -19,6 +19,11 @@
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_rz1awing_derekklivian.jpg"
 }, {
+  "shipxws" : "fangfighter",
+  "pilotxws" : "dirkullodin",
+  "faction" : "rebelalliance",
+  "image" : "P2e_rebelalliance_fangfighter_dirkullodin.jpg"
+}, {
   "shipxws" : "tieadvancedx1",
   "pilotxws" : "maarekstele",
   "faction" : "galacticempire",
@@ -194,6 +199,11 @@
   "faction" : "galacticrepublic",
   "image" : "P2e_galacticrepublic_delta7aethersprite_ahsokatano.jpg"
 }, {
+  "shipxws" : "tielnfighter",
+  "pilotxws" : "moffgideon",
+  "faction" : "galacticempire",
+  "image" : "P2e_galacticempire_tielnfighter_moffgideon.jpg"
+}, {
   "shipxws" : "tieadvancedv1",
   "pilotxws" : "fifthbrother",
   "faction" : "galacticempire",
@@ -358,6 +368,11 @@
   "pilotxws" : "herasyndulla-asf01bwing",
   "faction" : "rebelalliance",
   "image" : "P2e_rebelalliance_asf01bwing_herasyndulla-asf01bwing.jpg"
+}, {
+  "shipxws" : "fangfighter",
+  "pilotxws" : "bodicavenj",
+  "faction" : "rebelalliance",
+  "image" : "P2e_rebelalliance_fangfighter_bodicavenj.jpg"
 }, {
   "shipxws" : "sheathipedeclassshuttle",
   "pilotxws" : "fennrau-sheathipedeclassshuttle",
@@ -809,6 +824,11 @@
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_starviperclassattackplatform_dalanoberos-starviperclassattackplatform.jpg"
 }, {
+  "shipxws" : "tielnfighter",
+  "pilotxws" : "isbjingoist",
+  "faction" : "galacticempire",
+  "image" : "P2e_galacticempire_tielnfighter_isbjingoist.jpg"
+}, {
   "shipxws" : "vt49decimator",
   "pilotxws" : "captainoicunn",
   "faction" : "galacticempire",
@@ -923,6 +943,11 @@
   "pilotxws" : "miningguildsentry",
   "faction" : "scumandvillainy",
   "image" : "P2e_scumandvillainy_modifiedtielnfighter_miningguildsentry.jpg"
+}, {
+  "shipxws" : "st70assaultship",
+  "pilotxws" : "guildbountyhunter",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_st70assaultship_guildbountyhunter.jpg"
 }, {
   "shipxws" : "z95af4headhunter",
   "pilotxws" : "kaatoleeachos",
@@ -1664,6 +1689,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tierbheavy_caridaacademycadet.jpg"
 }, {
+  "shipxws" : "st70assaultship",
+  "pilotxws" : "themandalorian",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_st70assaultship_themandalorian.jpg"
+}, {
   "shipxws" : "t70xwing",
   "pilotxws" : "poedameron",
   "faction" : "resistance",
@@ -1678,6 +1708,11 @@
   "pilotxws" : "countdown",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieskstriker_countdown.jpg"
+}, {
+  "shipxws" : "fangfighter",
+  "pilotxws" : "fennrau-rebel-fang",
+  "faction" : "rebelalliance",
+  "image" : "P2e_rebelalliance_fangfighter_fennrau-rebel-fang.jpg"
 }, {
   "shipxws" : "tielnfighter",
   "pilotxws" : "wampa",
@@ -1718,6 +1753,11 @@
   "pilotxws" : "backdraft",
   "faction" : "firstorder",
   "image" : "P2e_firstorder_tiesffighter_backdraft.jpg"
+}, {
+  "shipxws" : "fangfighter",
+  "pilotxws" : "mandalorianroyalguard",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_fangfighter_mandalorianroyalguard.jpg"
 }, {
   "shipxws" : "hwk290lightfreighter",
   "pilotxws" : "rebelscout",
@@ -1868,6 +1908,11 @@
   "pilotxws" : "deathfire",
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tiesabomber_deathfire.jpg"
+}, {
+  "shipxws" : "fangfighter",
+  "pilotxws" : "clanwrenvolunteer",
+  "faction" : "rebelalliance",
+  "image" : "P2e_rebelalliance_fangfighter_clanwrenvolunteer.jpg"
 }, {
   "shipxws" : "tievnsilencer",
   "pilotxws" : "recoil",
@@ -2064,6 +2109,11 @@
   "faction" : "galacticempire",
   "image" : "P2e_galacticempire_tieininterceptor_nashwindrider.jpg"
 }, {
+  "shipxws" : "st70assaultship",
+  "pilotxws" : "q90",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_st70assaultship_q90.jpg"
+}, {
   "shipxws" : "nantexclassstarfighter",
   "pilotxws" : "chertek",
   "faction" : "separatistalliance",
@@ -2233,6 +2283,11 @@
   "pilotxws" : "zaribangel",
   "faction" : "resistance",
   "image" : "P2e_resistance_rz2awing_zaribangel.jpg"
+}, {
+  "shipxws" : "st70assaultship",
+  "pilotxws" : "outerrimenforcer",
+  "faction" : "scumandvillainy",
+  "image" : "P2e_scumandvillainy_st70assaultship_outerrimenforcer.jpg"
 }, {
   "shipxws" : "tiereaper",
   "pilotxws" : "majorvermeil",
