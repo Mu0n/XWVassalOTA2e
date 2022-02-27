@@ -1,4 +1,8 @@
 [ {
+  "xws" : "trackingfob",
+  "slot" : "Illicit",
+  "image" : "U2e_trackingfob.jpg"
+}, {
   "xws" : "corsairrefit",
   "slot" : "Configuration",
   "image" : "U2e_corsairrefit.jpg"
@@ -26,7 +30,8 @@
   "xws" : "sense",
   "slot" : "Force Power",
   "image" : "U2e_sense.jpg"
-}, {
+},
+{
   "xws" : "grapplingstruts",
   "slot" : "Configuration",
   "image" : "U2e_grapplingstruts.jpg"
@@ -110,6 +115,10 @@
   "xws" : "sawgerrera",
   "slot" : "Crew",
   "image" : "U2e_sawgerrera.jpg"
+}, {
+  "xws" : "themandalorian",
+  "slot" : "Crew",
+  "image" : "U2e_themandalorian.jpg"
 }, {
   "xws" : "seasonednavigator",
   "slot" : "Crew",
@@ -211,6 +220,10 @@
   "slot" : "Cannon",
   "image" : "U2e_syncedlasercannons.jpg"
 }, {
+  "xws" : "tractortentacles",
+  "slot" : "Hardpoint",
+  "image" : "U2e_tractortentacles.jpg"
+}, {
   "xws" : "jangofett",
   "slot" : "Crew",
   "image" : "U2e_jangofett.jpg"
@@ -290,6 +303,10 @@
   "xws" : "landocalrissian-crew",
   "slot" : "Crew",
   "image" : "U2e_landocalrissian-crew.jpg"
+}, {
+  "xws" : "burnoutthrusters",
+  "slot" : "Modification",
+  "image" : "U2e_burnoutthrusters.jpg"
 }, {
   "xws" : "qira",
   "slot" : "Crew",
@@ -395,6 +412,10 @@
   "slot" : "Illicit",
   "image" : "U2e_inertialdampeners.jpg"
 }, {
+  "xws" : "migsmayfeld",
+  "slot" : "Gunner",
+  "image" : "U2e_migsmayfeld.jpg"
+}, {
   "xws" : "bombardmentspecialists",
   "slot" : "Team",
   "image" : "U2e_bombardmentspecialists.jpg"
@@ -463,6 +484,10 @@
   "slot" : "Talent",
   "image" : "U2e_lonewolf.jpg"
 }, {
+  "xws" : "hotshottailblaster",
+  "slot" : "Illicit",
+  "image" : "U2e_hotshottailblaster.jpg"
+}, {
   "xws" : "hopeful",
   "slot" : "Talent",
   "image" : "U2e_hopeful.jpg"
@@ -510,6 +535,10 @@
   "xws" : "connernets",
   "slot" : "Device",
   "image" : "U2e_connernets.jpg"
+}, {
+  "xws" : "notorious",
+  "slot" : "Talent",
+  "image" : "U2e_notorious.jpg"
 }, {
   "xws" : "zamwesell",
   "slot" : "Crew",
@@ -971,6 +1000,10 @@
   "slot" : "Crew",
   "image" : "U2e_isbslicer.jpg"
 }, {
+  "xws" : "pelimotto",
+  "slot" : "Crew",
+  "image" : "U2e_pelimotto.jpg"
+}, {
   "xws" : "targetingcomputer",
   "slot" : "Modification",
   "image" : "U2e_targetingcomputer.jpg"
@@ -1003,6 +1036,10 @@
   "slot" : "Astromech",
   "image" : "U2e_q7astromech.jpg"
 }, {
+  "xws" : "greefkarga",
+  "slot" : "Crew",
+  "image" : "U2e_greefkarga.jpg"
+}, {
   "xws" : "ig88d",
   "slot" : "Crew",
   "image" : "U2e_ig88d.jpg"
@@ -1022,6 +1059,10 @@
   "xws" : "heavylasercannon",
   "slot" : "Cannon",
   "image" : "U2e_heavylasercannon.jpg"
+}, {
+  "xws" : "mandalorianoptics",
+  "slot" : "Modification",
+  "image" : "U2e_mandalorianoptics.jpg"
 }, {
   "xws" : "dengar",
   "slot" : "Gunner",
@@ -1123,6 +1164,10 @@
   "slot" : "Crew",
   "image" : "U2e_magvayarro.jpg"
 }, {
+  "xws" : "ig11",
+  "slot" : "Crew",
+  "image" : "U2e_ig11_back.jpg"
+}, {
   "xws" : "coaxiumhyperfuel",
   "slot" : "Illicit",
   "image" : "U2e_coaxiumhyperfuel.jpg"
@@ -1130,6 +1175,10 @@
   "xws" : "tiedefenderelite",
   "slot" : "Configuration",
   "image" : "U2e_tiedefenderelite.jpg"
+}, {
+  "xws" : "ig11",
+  "slot" : "Crew",
+  "image" : "U2e_ig11.jpg"
 }, {
   "xws" : "unkarplutt",
   "slot" : "Crew",
@@ -1159,6 +1208,10 @@
   "slot" : "Title",
   "image" : "U2e_b6bladewingprototype.jpg"
 }, {
+  "xws" : "kuiil",
+  "slot" : "Crew",
+  "image" : "U2e_kuiil.jpg"
+}, {
   "xws" : "freelanceslicer",
   "slot" : "Crew",
   "image" : "U2e_freelanceslicer.jpg"
@@ -1166,6 +1219,10 @@
   "xws" : "deadeyeshot",
   "slot" : "Talent",
   "image" : "U2e_deadeyeshot.jpg"
+}, {
+  "xws" : "beskarreinforcedplating",
+  "slot" : "Modification",
+  "image" : "U2e_beskarreinforcedplating.jpg"
 }, {
   "xws" : "ordnancetubes",
   "slot" : "Hardpoint",
@@ -1222,6 +1279,10 @@
   "xws" : "larmadacy",
   "slot" : "Crew",
   "image" : "U2e_larmadacy.jpg"
+}, {
+  "xws" : "thechild",
+  "slot" : "Crew",
+  "image" : "U2e_thechild.jpg"
 }, {
   "xws" : "malice",
   "slot" : "Force Power",
@@ -1487,6 +1548,10 @@
   "slot" : "Gunner",
   "image" : "U2e_veterantailgunner.jpg"
 }, {
+  "xws" : "enduring",
+  "slot" : "Talent",
+  "image" : "U2e_enduring.jpg"
+}, {
   "xws" : "c3po",
   "slot" : "Crew",
   "image" : "U2e_c3po.jpg"
@@ -1547,6 +1612,10 @@
   "slot" : "Cargo",
   "image" : "U2e_tibannareserves.jpg"
 }, {
+  "xws" : "clantraining",
+  "slot" : "Talent",
+  "image" : "U2e_clantraining.jpg"
+}, {
   "xws" : "reysmillenniumfalcon",
   "slot" : "Title",
   "image" : "U2e_reysmillenniumfalcon.jpg"
@@ -1558,6 +1627,10 @@
   "xws" : "r1j5",
   "slot" : "Astromech",
   "image" : "U2e_r1j5.jpg"
+}, {
+  "xws" : "razorcrest",
+  "slot" : "Title",
+  "image" : "U2e_razorcrest.jpg"
 }, {
   "xws" : "punishingone",
   "slot" : "Title",
