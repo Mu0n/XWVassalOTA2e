@@ -306,5 +306,13 @@
   {
     "xws": "tiewiwhispermodifiedinterceptor",
     "image": "D2e_tiewiwhispermodifiedinterceptor.png"
+  },
+  {
+    "xws": "gauntletfighter",
+    "image": "D2e_gauntletfighter.png"
+  },
+  {
+    "xws": "st70assaultship",
+    "image": "D2e_st70assaultship.png"
   }  
 ]
