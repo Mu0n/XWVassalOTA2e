@@ -70,5 +70,14 @@
     "dual_base_image_2_identifier":"open",
     "dual_base_report_1_identifier" : "Closed",
     "dual_base_report_2_identifier" : "Open"
+  },
+  {
+    "xws": "gauntletfighter",
+    "has_dual_base" : true,
+    "dual_base_toggle_menu_text" : "Toggle Swivel Wing",
+    "dual_base_image_1_identifier":"down",
+    "dual_base_image_2_identifier":"up",
+    "dual_base_report_1_identifier" : "Down",
+    "dual_base_report_2_identifier" : "Up"
   }
 ]
