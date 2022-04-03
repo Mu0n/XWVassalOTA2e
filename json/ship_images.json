@@ -540,8 +540,13 @@
   "faction" : [ "rebelalliance" ]
 }, {
   "xws" : "gauntletfighter",
-  "identifier" : "standard",
-  "image" : "S2e_gauntletfighter.png",
+  "identifier" : "down",
+  "image" : "S2e_gauntletfighter_down.png",
+  "faction" : [ "rebelalliance", "galacticempire", "scumandvillainy", "galacticrepublic", "separatistalliance" ]
+}, {
+  "xws" : "gauntletfighter",
+  "identifier" : "up",
+  "image" : "S2e_gauntletfighter_up.png",
   "faction" : [ "rebelalliance", "galacticempire", "scumandvillainy", "galacticrepublic", "separatistalliance" ]
 }, {
   "xws" : "st70assaultship",
