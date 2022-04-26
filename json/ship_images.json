@@ -354,6 +354,11 @@
   "image" : "S2e_delta7aethersprite.png",
   "faction" : [ "galacticrepublic" ]
 }, {
+  "xws" : "delta7baethersprite",
+  "identifier" : "standard",
+  "image" : "S2e_delta7baethersprite.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
   "xws" : "z95af4headhunter",
   "identifier" : "lieutenantblount",
   "image" : "S2e_z95af4headhunter-blount.png",
