@@ -30,8 +30,7 @@
   "xws" : "sense",
   "slot" : "Force Power",
   "image" : "U2e_sense.jpg"
-},
-{
+}, {
   "xws" : "grapplingstruts",
   "slot" : "Configuration",
   "image" : "U2e_grapplingstruts.jpg"
@@ -232,6 +231,10 @@
   "slot" : "Force Power",
   "image" : "U2e_patience.jpg"
 }, {
+  "xws" : "garsaxon",
+  "slot" : "Crew",
+  "image" : "U2e_garsaxon.jpg"
+}, {
   "xws" : "skystrikeacademyclass",
   "slot" : "Command",
   "image" : "U2e_skystrikeacademyclass.jpg"
@@ -308,6 +311,10 @@
   "slot" : "Modification",
   "image" : "U2e_burnoutthrusters.jpg"
 }, {
+  "xws" : "maul-crew",
+  "slot" : "Crew",
+  "image" : "U2e_maul-crew.jpg"
+}, {
   "xws" : "qira",
   "slot" : "Crew",
   "image" : "U2e_qira.jpg"
@@ -323,6 +330,10 @@
   "xws" : "precognitivereflexes",
   "slot" : "Force Power",
   "image" : "U2e_precognitivereflexes.jpg"
+}, {
+  "xws" : "tibersaxon",
+  "slot" : "Gunner",
+  "image" : "U2e_tibersaxon.jpg"
 }, {
   "xws" : "os1arsenalloadout",
   "slot" : "Configuration",
@@ -392,6 +403,10 @@
   "slot" : "Missile",
   "image" : "U2e_magpulsewarheads.jpg"
 }, {
+  "xws" : "bokatankryze-rebel-scum",
+  "slot" : "Crew",
+  "image" : "U2e_bokatankryze-rebel-scum.jpg"
+}, {
   "xws" : "m9g8",
   "slot" : "Astromech",
   "image" : "U2e_m9g8.jpg"
@@ -407,6 +422,10 @@
   "xws" : "bloodcrow",
   "slot" : "Title",
   "image" : "U2e_bloodcrow.jpg"
+}, {
+  "xws" : "niteowlcommandos",
+  "slot" : "Crew",
+  "image" : "U2e_niteowlcommandos.jpg"
 }, {
   "xws" : "inertialdampeners",
   "slot" : "Illicit",
@@ -432,6 +451,10 @@
   "slot" : "Crew",
   "image" : "U2e_informant.jpg"
 }, {
+  "xws" : "rookkast",
+  "slot" : "Crew",
+  "image" : "U2e_rookkast.jpg"
+}, {
   "xws" : "blackone",
   "slot" : "Title",
   "image" : "U2e_blackone.jpg"
@@ -447,6 +470,10 @@
   "xws" : "bazemalbus",
   "slot" : "Crew",
   "image" : "U2e_bazemalbus.jpg"
+}, {
+  "xws" : "fennrau",
+  "slot" : "Crew",
+  "image" : "U2e_fennrau.jpg"
 }, {
   "xws" : "energyshellcharges",
   "slot" : "Missile",
@@ -500,6 +527,10 @@
   "slot" : "Team",
   "image" : "U2e_gunneryspecialists.jpg"
 }, {
+  "xws" : "garsaxon-gunner",
+  "slot" : "Gunner",
+  "image" : "U2e_garsaxon-gunner.jpg"
+}, {
   "xws" : "niennunb",
   "slot" : "Crew",
   "image" : "U2e_niennunb.jpg"
@@ -523,6 +554,10 @@
   "xws" : "raymusantilles",
   "slot" : "Command",
   "image" : "U2e_raymusantilles.jpg"
+}, {
+  "xws" : "ursawren-gunner",
+  "slot" : "Gunner",
+  "image" : "U2e_ursawren-gunner.jpg"
 }, {
   "xws" : "landosmillenniumfalcon",
   "slot" : "Title",
@@ -772,6 +807,10 @@
   "slot" : "Crew",
   "image" : "U2e_kyloren.jpg"
 }, {
+  "xws" : "ursawren",
+  "slot" : "Crew",
+  "image" : "U2e_ursawren.jpg"
+}, {
   "xws" : "moffjerjerrod",
   "slot" : "Crew",
   "image" : "U2e_moffjerjerrod.jpg"
@@ -780,6 +819,10 @@
   "slot" : "Gunner",
   "image" : "U2e_ezrabridger.jpg"
 }, {
+  "xws" : "captainhark",
+  "slot" : "Crew",
+  "image" : "U2e_captainhark.jpg"
+}, {
   "xws" : "synchronizedconsole",
   "slot" : "Modification",
   "image" : "U2e_synchronizedconsole.jpg"
@@ -787,6 +830,10 @@
   "xws" : "ta175",
   "slot" : "Tactical Relay",
   "image" : "U2e_ta175.jpg"
+}, {
+  "xws" : "clanwrencommandos",
+  "slot" : "Crew",
+  "image" : "U2e_clanwrencommandos.jpg"
 }, {
   "xws" : "imperviumplating",
   "slot" : "Modification",
@@ -799,6 +846,10 @@
   "xws" : "slavei-swz82",
   "slot" : "Title",
   "image" : "U2e_slavei-swz82.jpg"
+}, {
+  "xws" : "satinekryze",
+  "slot" : "Crew",
+  "image" : "U2e_satinekryze.jpg"
 }, {
   "xws" : "commandermalarus",
   "slot" : "Crew",
@@ -840,6 +891,10 @@
   "slot" : "Crew",
   "image" : "U2e_jabbathehutt.jpg"
 }, {
+  "xws" : "bokatankryze",
+  "slot" : "Crew",
+  "image" : "U2e_bokatankryze.jpg"
+}, {
   "xws" : "r4b11",
   "slot" : "Astromech",
   "image" : "U2e_r4b11.jpg"
@@ -867,6 +922,10 @@
   "xws" : "pointdefensebattery",
   "slot" : "Hardpoint",
   "image" : "U2e_pointdefensebattery.jpg"
+}, {
+  "xws" : "savageopress",
+  "slot" : "Crew",
+  "image" : "U2e_savageopress.jpg"
 }, {
   "xws" : "admiralsloane",
   "slot" : "Crew",
@@ -920,6 +979,10 @@
   "slot" : "Title",
   "image" : "U2e_outrider.jpg"
 }, {
+  "xws" : "korkiekryze",
+  "slot" : "Crew",
+  "image" : "U2e_korkiekryze.jpg"
+}, {
   "xws" : "bb8",
   "slot" : "Astromech",
   "image" : "U2e_bb8.jpg"
@@ -940,6 +1003,14 @@
   "slot" : "Gunner",
   "image" : "U2e_ahsokatano.jpg"
 }, {
+  "xws" : "tristanwren",
+  "slot" : "Crew",
+  "image" : "U2e_tristanwren.jpg"
+}, {
+  "xws" : "nightbrother",
+  "slot" : "Title",
+  "image" : "U2e_nightbrother.jpg"
+}, {
   "xws" : "stabilizedsfoils",
   "slot" : "Configuration",
   "image" : "U2e_stabilizedsfoils.jpg"
@@ -947,6 +1018,14 @@
   "xws" : "stabilizedsfoils",
   "slot" : "Configuration",
   "image" : "U2e_stabilizedsfoils_back.jpg"
+}, {
+  "xws" : "deathwatchcommandos",
+  "slot" : "Crew",
+  "image" : "U2e_deathwatchcommandos.jpg"
+}, {
+  "xws" : "previzsla",
+  "slot" : "Crew",
+  "image" : "U2e_previzsla.jpg"
 }, {
   "xws" : "repulsorliftstabilizers",
   "slot" : "Configuration",
@@ -1236,6 +1315,10 @@
   "slot" : "Hardpoint",
   "image" : "U2e_ordnancetubes_back.jpg"
 }, {
+  "xws" : "swivelwing",
+  "slot" : "Configuration",
+  "image" : "U2e_swivelwing_back.jpg"
+}, {
   "xws" : "finn",
   "slot" : "Gunner",
   "image" : "U2e_finn.jpg"
@@ -1243,6 +1326,10 @@
   "xws" : "marauder",
   "slot" : "Title",
   "image" : "U2e_marauder.jpg"
+}, {
+  "xws" : "swivelwing",
+  "slot" : "Configuration",
+  "image" : "U2e_swivelwing.jpg"
 }, {
   "xws" : "delta7b",
   "slot" : "Configuration",
@@ -1271,6 +1358,10 @@
   "xws" : "luminous",
   "slot" : "Title",
   "image" : "U2e_luminous.jpg"
+}, {
+  "xws" : "ahsokatano-crew",
+  "slot" : "Crew",
+  "image" : "U2e_ahsokatano-crew.jpg"
 }, {
   "xws" : "juke",
   "slot" : "Talent",
@@ -1304,9 +1395,17 @@
   "slot" : "Crew",
   "image" : "U2e_agentterex.jpg"
 }, {
+  "xws" : "primeministeralmec",
+  "slot" : "Crew",
+  "image" : "U2e_primeministeralmec_back.jpg"
+}, {
   "xws" : "tacticalofficer",
   "slot" : "Crew",
   "image" : "U2e_tacticalofficer.jpg"
+}, {
+  "xws" : "primeministeralmec",
+  "slot" : "Crew",
+  "image" : "U2e_primeministeralmec.jpg"
 }, {
   "xws" : "ionlimiteroverride",
   "slot" : "Talent",
@@ -1343,6 +1442,14 @@
   "xws" : "azmorigan",
   "slot" : "Command",
   "image" : "U2e_azmorigan.jpg"
+}, {
+  "xws" : "obiwankenobi",
+  "slot" : "Crew",
+  "image" : "U2e_obiwankenobi.jpg"
+}, {
+  "xws" : "blazerbomb",
+  "slot" : "Device",
+  "image" : "U2e_blazerbomb.jpg"
 }, {
   "xws" : "r5astromech",
   "slot" : "Astromech",
@@ -1460,6 +1567,10 @@
   "slot" : "Modification",
   "image" : "U2e_advancedslam.jpg"
 }, {
+  "xws" : "mandaloriansupercommandos",
+  "slot" : "Crew",
+  "image" : "U2e_mandaloriansupercommandos.jpg"
+}, {
   "xws" : "predator",
   "slot" : "Talent",
   "image" : "U2e_predator.jpg"
@@ -1467,6 +1578,10 @@
   "xws" : "captainneeda",
   "slot" : "Command",
   "image" : "U2e_captainneeda.jpg"
+}, {
+  "xws" : "imperialsupercommandos",
+  "slot" : "Crew",
+  "image" : "U2e_imperialsupercommandos.jpg"
 }, {
   "xws" : "scimitar",
   "slot" : "Title",
@@ -1543,6 +1658,10 @@
   "xws" : "sensorexperts",
   "slot" : "Team",
   "image" : "U2e_sensorexperts.jpg"
+}, {
+  "xws" : "gauntlet",
+  "slot" : "Title",
+  "image" : "U2e_gauntlet.jpg"
 }, {
   "xws" : "veterantailgunner",
   "slot" : "Gunner",
@@ -1703,6 +1822,10 @@
   "xws" : "ioncannon",
   "slot" : "Cannon",
   "image" : "U2e_ioncannon.jpg"
+}, {
+  "xws" : "talmerrik",
+  "slot" : "Crew",
+  "image" : "U2e_talmerrik.jpg"
 }, {
   "xws" : "r2d2-republic",
   "slot" : "Astromech",
