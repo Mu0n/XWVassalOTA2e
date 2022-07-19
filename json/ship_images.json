@@ -17,7 +17,7 @@
   "xws" : "fangfighter",
   "identifier" : "standard",
   "image" : "S2e_fangfighter.png",
-  "faction" : [ "scumandvillainy" ]
+  "faction" : [ "scumandvillainy","rebelalliance" ]
 }, {
   "xws" : "eta2actis",
   "identifier" : "standard",
