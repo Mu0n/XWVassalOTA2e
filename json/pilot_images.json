@@ -591,8 +591,8 @@
 }, {
   "shipxws" : "rogueclassstarfighter",
   "pilotxws" : "magnaguardexecutioner",
-  "faction" : "scumandvillainy",
-  "image" : "P2e_scumandvillainy_rogueclassstarfighter_magnaguardexecutioner.jpg"
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_rogueclassstarfighter_magnaguardexecutioner.jpg"
 }, {
   "shipxws" : "btla4ywing",
   "pilotxws" : "graysquadronbomber",
@@ -1241,8 +1241,8 @@
 }, {
   "shipxws" : "rogueclassstarfighter",
   "pilotxws" : "ig111",
-  "faction" : "scumandvillainy",
-  "image" : "P2e_scumandvillainy_rogueclassstarfighter_ig111.jpg"
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_rogueclassstarfighter_ig111.jpg"
 }, {
   "shipxws" : "raiderclasscorvette",
   "pilotxws" : "outerrimpatrol",
@@ -1316,13 +1316,13 @@
 }, {
   "shipxws" : "rogueclassstarfighter",
   "pilotxws" : "ig102",
-  "faction" : "scumandvillainy",
-  "image" : "P2e_scumandvillainy_rogueclassstarfighter_ig102.jpg"
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_rogueclassstarfighter_ig102.jpg"
 }, {
   "shipxws" : "rogueclassstarfighter",
   "pilotxws" : "ig101",
-  "faction" : "scumandvillainy",
-  "image" : "P2e_scumandvillainy_rogueclassstarfighter_ig101.jpg"
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_rogueclassstarfighter_ig101.jpg"
 }, {
   "shipxws" : "tieddefender",
   "pilotxws" : "onyxsquadronace",
@@ -1771,8 +1771,8 @@
 }, {
   "shipxws" : "rogueclassstarfighter",
   "pilotxws" : "cadbane-separatistalliance",
-  "faction" : "scumandvillainy",
-  "image" : "P2e_scumandvillainy_rogueclassstarfighter_cadbane-separatistalliance.jpg"
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_rogueclassstarfighter_cadbane-separatistalliance.jpg"
 }, {
   "shipxws" : "gauntletfighter",
   "pilotxws" : "shadowcollectiveoperator",
@@ -2181,8 +2181,8 @@
 }, {
   "shipxws" : "rogueclassstarfighter",
   "pilotxws" : "magnaguardprotector",
-  "faction" : "scumandvillainy",
-  "image" : "P2e_scumandvillainy_rogueclassstarfighter_magnaguardprotector.jpg"
+  "faction" : "separatistalliance",
+  "image" : "P2e_separatistalliance_rogueclassstarfighter_magnaguardprotector.jpg"
 }, {
   "shipxws" : "nabooroyaln1starfighter",
   "pilotxws" : "padmeamidala",
