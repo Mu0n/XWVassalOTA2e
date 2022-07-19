@@ -44,11 +44,6 @@
   "image" : "S2e_m12lkimogilafighter.png",
   "faction" : [ "scumandvillainy" ]
 }, {
-  "xws" : "tiewiwhispermodifiedinterceptor",
-  "identifier" : "standard",
-  "image" : "S2e_tiewiwhispermodifiedinterceptor.png",
-  "faction" : [ "firstorder" ]
-}, {
   "xws" : "t65xwing",
   "identifier" : "open",
   "image" : "S2e_t65xwing_open.png",
@@ -58,6 +53,11 @@
   "identifier" : "standard",
   "image" : "S2e_belbullab22starfighter.png",
   "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "st70assaultship",
+  "identifier" : "standard",
+  "image" : "S2e_st70assaultship.png",
+  "faction" : [ "scumandvillainy" ]
 }, {
   "xws" : "ut60duwing",
   "identifier" : "closed",
@@ -93,11 +93,16 @@
   "identifier" : "standard",
   "image" : "S2e_scurrgh6bomber.png",
   "faction" : [ "scumandvillainy" ]
-},  {
+}, {
   "xws" : "laatigunship",
   "identifier" : "standard",
   "image" : "S2e_laatigunship.png",
   "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "tiesebomber",
+  "identifier" : "standard",
+  "image" : "S2e_tiesebomber.png",
+  "faction" : [ "firstorder" ]
 }, {
   "xws" : "yv666lightfreighter",
   "identifier" : "moraloeval",
@@ -143,6 +148,11 @@
   "identifier" : "closed",
   "image" : "S2e_hyenaclassdroidbomber_closed.png",
   "faction" : [ "separatistalliance" ]
+}, {
+  "xws" : "tiewiwhispermodifiedinterceptor",
+  "identifier" : "standard",
+  "image" : "S2e_tiewiwhispermodifiedinterceptor.png",
+  "faction" : [ "firstorder" ]
 }, {
   "xws" : "jumpmaster5000",
   "identifier" : "standard",
@@ -239,11 +249,6 @@
   "image" : "S2e_hmpdroidgunship_active.png",
   "faction" : [ "separatistalliance" ]
 }, {
-  "xws" : "btanr2ywing",
-  "identifier" : "standard",
-  "image" : "S2e_btanr2ywing.png",
-  "faction" : [ "resistance" ]
-}, {
   "xws" : "attackshuttle",
   "identifier" : "standard",
   "image" : "S2e_attackshuttle.png",
@@ -293,11 +298,16 @@
   "identifier" : "standard",
   "image" : "S2e_nantexclassstarfighter.png",
   "faction" : [ "separatistalliance" ]
-},  {
+}, {
   "xws" : "vcx100lightfreighter",
   "identifier" : "standard",
   "image" : "S2e_vcx100lightfreighter.png",
   "faction" : [ "rebelalliance" ]
+}, {
+  "xws" : "rogueclassstarfighter",
+  "identifier" : "standard",
+  "image" : "S2e_rogueclassstarfighter.png",
+  "faction" : [ "scumandvillainy", "separatistalliance" ]
 }, {
   "xws" : "t70xwing",
   "identifier" : "closed",
@@ -354,11 +364,6 @@
   "image" : "S2e_delta7aethersprite.png",
   "faction" : [ "galacticrepublic" ]
 }, {
-  "xws" : "delta7baethersprite",
-  "identifier" : "standard",
-  "image" : "S2e_delta7baethersprite.png",
-  "faction" : [ "galacticrepublic" ]
-}, {
   "xws" : "z95af4headhunter",
   "identifier" : "lieutenantblount",
   "image" : "S2e_z95af4headhunter-blount.png",
@@ -408,7 +413,7 @@
   "identifier" : "standard",
   "image" : "S2e_lancerclasspursuitcraft.png",
   "faction" : [ "scumandvillainy" ]
-},  {
+}, {
   "xws" : "tieininterceptor",
   "identifier" : "standard",
   "image" : "S2e_tieininterceptor.png",
@@ -469,20 +474,35 @@
   "image" : "S2e_alphaclassstarwing.png",
   "faction" : [ "galacticempire" ]
 }, {
-  "xws" : "tiesebomber",
-  "identifier" : "standard",
-  "image" : "S2e_tiesebomber.png",
-  "faction" : [ "firstorder" ]
-}, {
   "xws" : "m3ainterceptor",
   "identifier" : "standard",
   "image" : "S2e_m3ainterceptor.png",
   "faction" : [ "scumandvillainy" ]
 }, {
+  "xws" : "gauntletfighter",
+  "identifier" : "up",
+  "image" : "S2e_gauntletfighter_up.png",
+  "faction" : [ "rebelalliance", "galacticempire", "scumandvillainy", "galacticrepublic", "separatistalliance" ]
+}, {
+  "xws" : "btanr2ywing",
+  "identifier" : "standard",
+  "image" : "S2e_btanr2ywing.png",
+  "faction" : [ "resistance" ]
+}, {
+  "xws" : "delta7baethersprite",
+  "identifier" : "standard",
+  "image" : "S2e_delta7baethersprite.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
   "xws" : "nimbusclassvwing",
   "identifier" : "standard",
   "image" : "S2e_nimbusclassvwing.png",
   "faction" : [ "galacticrepublic" ]
+}, {
+  "xws" : "gauntletfighter",
+  "identifier" : "down",
+  "image" : "S2e_gauntletfighter_down.png",
+  "faction" : [ "rebelalliance", "galacticempire", "scumandvillainy", "galacticrepublic", "separatistalliance" ]
 }, {
   "xws" : "resistancetransport",
   "identifier" : "standard",
@@ -524,6 +544,11 @@
   "image" : "S2e_tieininterceptor-181st.png",
   "faction" : [ "galacticempire" ]
 }, {
+  "xws" : "clonez95headhunter",
+  "identifier" : "standard",
+  "image" : "S2e_clonez95headhunter.png",
+  "faction" : [ "galacticrepublic" ]
+}, {
   "xws" : "starviperclassattackplatform",
   "identifier" : "standard",
   "image" : "S2e_starviperclassattackplatform.png",
@@ -543,19 +568,4 @@
   "identifier" : "standard",
   "image" : "S2e_sheathipedeclassshuttle.png",
   "faction" : [ "rebelalliance" ]
-}, {
-  "xws" : "gauntletfighter",
-  "identifier" : "down",
-  "image" : "S2e_gauntletfighter_down.png",
-  "faction" : [ "rebelalliance", "galacticempire", "scumandvillainy", "galacticrepublic", "separatistalliance" ]
-}, {
-  "xws" : "gauntletfighter",
-  "identifier" : "up",
-  "image" : "S2e_gauntletfighter_up.png",
-  "faction" : [ "rebelalliance", "galacticempire", "scumandvillainy", "galacticrepublic", "separatistalliance" ]
-}, {
-  "xws" : "st70assaultship",
-  "identifier" : "standard",
-  "image" : "S2e_st70assaultship.png",
-  "faction" : [ "scumandvillainy" ]
 } ]
