@@ -318,5 +318,13 @@
   {
     "xws": "st70assaultship",
     "image": "D2e_st70assaultship.png"
+  },
+  {
+    "xws": "clonez95headhunter.png",
+    "image": "D2e_clonez95headhunter.png"
+  },
+  {
+    "xws": "rogueclassstarfighter.png",
+    "image": "D2e_rogueclassstarfighter.png"
   }  
 ]
