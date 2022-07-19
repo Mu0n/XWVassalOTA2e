@@ -87,6 +87,10 @@
   "slot" : "Crew",
   "image" : "U2e_fives.jpg"
 }, {
+  "xws" : "protoncannons",
+  "slot" : "Cannon",
+  "image" : "U2e_protoncannons.jpg"
+}, {
   "xws" : "independentcalculations",
   "slot" : "Modification",
   "image" : "U2e_independentcalculations.jpg"
@@ -819,9 +823,17 @@
   "slot" : "Gunner",
   "image" : "U2e_ezrabridger.jpg"
 }, {
+  "xws" : "homingtorpedoes",
+  "slot" : "Torpedo",
+  "image" : "U2e_homingtorpedoes.jpg"
+}, {
   "xws" : "captainhark",
   "slot" : "Crew",
   "image" : "U2e_captainhark.jpg"
+}, {
+  "xws" : "xanadublood",
+  "slot" : "Title",
+  "image" : "U2e_xanadublood.jpg"
 }, {
   "xws" : "synchronizedconsole",
   "slot" : "Modification",
